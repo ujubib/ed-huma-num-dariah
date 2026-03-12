@@ -1,19 +1,26 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "resources/*.qmd"
+    - "slides/index.qmd"
+
+execute:
+  freeze: auto
 
 website:
   title: "Research Infrastructures for the Humanities"
   description: "Huma-Num · DARIAH · EOSC — Training session for ED 481 SSH / CHORAL (UNITA)"
   favicon: img/logoUPPA-RepFr.png
-  repo-url: https://github.com/ujubib/Quarto_Huma-Num-UNITA
+  repo-url: https://github.com/ujubib/ed-huma-num-dariah
   repo-actions: [source, issue]
 
   navbar:
     title: "Huma-Num & DARIAH"
     right:
       - icon: github
-        href: https://github.com/ujubib/Quarto_Huma-Num-UNITA
+        href: https://github.com/ujubib/ed-huma-num-dariah
       - icon: envelope
         href: mailto:julien.rabaud@univ-pau.fr
 
