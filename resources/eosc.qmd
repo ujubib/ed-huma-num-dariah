@@ -1,0 +1,94 @@
+---
+title: "EOSC"
+subtitle: "European Open Science Cloud"
+toc: true
+---
+
+## What is EOSC?
+
+The **European Open Science Cloud (EOSC)** is a flagship initiative of the European Commission aimed at creating a single, federated digital environment where researchers across Europe can **store, share, find, and reuse** research data and services — across all disciplines and borders.
+
+::: {.callout-note}
+### Key facts
+- Announced in the **European Open Science Cloud Declaration** (2017)
+- Operational since **2021** under the governance of the [EOSC Association](https://eosc.eu)
+- Integrated into **Horizon Europe** (2021–2027) as a core infrastructure
+- Connects hundreds of research organisations, data repositories, and service providers
+:::
+
+EOSC is not a single platform or a single institution. It is a **federated system of systems** — a policy framework and technical interoperability layer that allows existing national and disciplinary infrastructures to work together.
+
+---
+
+## Why Was EOSC Created?
+
+European research was producing vast amounts of data stored in isolated, incompatible silos. EOSC addresses several structural problems:
+
+- **Fragmentation**: data spread across national repositories that don't talk to each other
+- **Reproducibility**: lack of access to the data underlying published results
+- **Efficiency**: researchers reinventing the wheel because they can't find existing datasets
+- **Open science mandates**: Horizon Europe requires open, FAIR, reusable data outputs
+
+---
+
+## EOSC and the Humanities
+
+For SSH researchers, EOSC is significant in several concrete ways:
+
+### Discoverability
+Data deposited on Huma-Num (NAKALA), DARIAH, or CLARIN nodes becomes searchable through the **EOSC Portal** (`eosc-portal.eu`), alongside datasets from physics, biology, and other fields. This increases the visibility and citability of humanities research data.
+
+### FAIR as a Requirement
+Horizon Europe grants increasingly require that research outputs — including data — comply with **FAIR principles** and be deposited in EOSC-compatible repositories. NAKALA, DARIAH services, and CLARIN centres all qualify.
+
+### Persistent Identifiers
+EOSC promotes the use of **PIDs** (Persistent Identifiers) throughout the research lifecycle: ORCID for researchers, DOI/ARK for data and publications, ROR for institutions. Huma-Num already implements ARK identifiers in NAKALA.
+
+### Linked Open Data
+EOSC fosters **interoperability between disciplines**: a historian's dataset can be linked to geographical data from cartography, biographical records from national archives, and textual corpora from CLARIN — all through shared metadata standards.
+
+---
+
+## EOSC and Huma-Num / DARIAH / CLARIN
+
+| Infrastructure | Role in EOSC |
+|---------------|-------------|
+| **Huma-Num** | Provides French SSH data (NAKALA) and services to EOSC via DARIAH-FR and CLARIN-FR |
+| **DARIAH-EU** | EOSC member; contributes SSH tools, training resources, and the SSH Marketplace |
+| **CLARIN ERIC** | EOSC member; contributes language resources, NLP tools, and the SSH Marketplace |
+| **SSH Open Marketplace** | Joint portal (DARIAH + CLARIN + CESSDA) integrated into EOSC as a discovery layer for SSH |
+
+---
+
+## The EOSC Association
+
+Since 2020, EOSC is governed by the **EOSC Association** — a non-profit legal entity based in Brussels, bringing together research organisations, funders, universities, and infrastructures from across Europe.
+
+::: {.callout-tip}
+CNRS and several French universities are members of the EOSC Association. UPPA researchers benefit indirectly through France's national contributions to EOSC via Huma-Num, Renater, and other national partners.
+:::
+
+🔗 <https://eosc.eu/about/eosc-association>
+
+---
+
+## EOSC and Open Science Policy in France
+
+EOSC is closely aligned with France's **Plan national pour la science ouverte** (PNSO), which sets out national-level requirements for open access and FAIR data. Key articulations:
+
+- The **Fonds National pour la Science Ouverte (FNSO)** co-funds infrastructure aligned with EOSC
+- ANR grant conditions reference EOSC-compatible data deposition
+- Huma-Num is France's main humanities gateway to EOSC
+
+🔗 [Plan national pour la science ouverte](https://www.ouvrirlascience.fr) · [EOSC Portal](https://eosc-portal.eu)
+
+---
+
+## Practical Implications for Doctoral Students
+
+You may not interact with EOSC directly — but it shapes the environment in which your research data will live:
+
+1. **DMP writing**: when your DMP asks *"where will your data be deposited?"*, EOSC-compatible repositories (NAKALA, Zenodo, CLARIN centres) are the expected answer
+2. **Horizon Europe applications**: open science plans must reference EOSC
+3. **Data discoverability**: depositing on NAKALA or via DARIAH puts your data in the European research data ecosystem
+4. **Interoperability by design**: using standard formats and controlled vocabularies from the start makes your data EOSC-ready

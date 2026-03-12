@@ -1,0 +1,75 @@
+
+/* css styles */
+body {
+    hyphens: auto;
+    overflow-wrap: break-word;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+}
+figcaption{
+    text-align: center;
+}
+#title-block-header {
+    margin-bottom: 6em;
+    background-color: white;
+    padding: 1em;
+    border: 4px solid #2297D4;
+    border-radius: 12px;
+    padding-bottom: 1.4em;
+}
+section#title-slide p.subtitle {
+    font-family: Amaranth, sans-serif;
+    font-size: 1.8em;
+    font-style: italic;
+}
+.quarto-title-meta-heading {
+    text-transform: none !important;
+    color: grey;
+}
+.tab-content {
+    background-color: white;
+}
+.figure {
+    background-color: white;
+    border-radius: 12px;
+}
+.margin-header-item img {
+    border-radius: 8px;
+}
+button {
+    border: 3px solid #ffc34d;
+    border-radius: 6px;
+    background-color: antiquewhite;
+    padding: 0em 0.2em 0.2em;
+}
+button:hover {
+    background-color: bisque;
+}
+button>a {
+    text-decoration: none;
+    letter-spacing: 3px;
+    color:darkblue;
+    font-weight: 600;
+    font-size: 0.8em;
+}
+#title-block-header .author {
+    margin-bottom: .6em !important;
+}
+.csl-entry {
+    margin-left: 1em;
+    text-indent: -1em;
+    text-align: left;
+    font-family: serif;
+    margin-bottom: .5em;
+    line-height: normal;
+}
+.csl-entry a {
+    font-size: 0.9em;
+    color:dimgray;
+}
+table, sidebar-menu-container {
+    text-align: left;
+}
+.margin-header-item img {
+    border-radius: 0px;
+}

@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Research Infrastructures for the Humanities"
+  description: "Huma-Num · DARIAH · EOSC — Training session for ED 481 SSH / CHORAL (UNITA)"
+  favicon: img/logoUPPA-RepFr.png
+  repo-url: https://github.com/ujubib/Quarto_Huma-Num-UNITA
+  repo-actions: [source, issue]
+
+  navbar:
+    title: "Huma-Num & DARIAH"
+    right:
+      - icon: github
+        href: https://github.com/ujubib/Quarto_Huma-Num-UNITA
+      - icon: envelope
+        href: mailto:julien.rabaud@univ-pau.fr
+
+  sidebar:
+    style: "floating"
+    background: FloralWhite
+    contents:
+      - section: "Session"
+        contents:
+          - text: "Home"
+            href: index.qmd
+          - text: "Slides"
+            href: slides.qmd
+      - section: "Huma-Num"
+        contents:
+          - text: "Overview"
+            href: resources/humanum.qmd
+          - text: "Consortiums"
+            href: resources/consortiums.qmd
+          - text: "Services & FAIR Data"
+            href: resources/services.qmd
+      - section: "European Infrastructures"
+        contents:
+          - text: "DARIAH-EU"
+            href: resources/dariah.qmd
+          - text: "CLARIN ERIC"
+            href: resources/clarin.qmd
+          - text: "EOSC"
+            href: resources/eosc.qmd
+          - text: "How They Connect"
+            href: resources/connections.qmd
+      - section: "References"
+        contents:
+          - text: "Bibliography & Links"
+            href: resources/references.qmd
+
+  page-footer:
+    background: floralwhite
+    border: false
+    left: "Made with [Quarto](https://quarto.org) · UPPA · ED 481 SSH · CHORAL (UNITA)"
+    right: "Last update: {{< meta site-date >}}"
+
+site-date: "2026-03-16"
+
+format:
+  html:
+    theme: [journal, custom.scss]
+    css: styles.css
+    backgroundcolor: floralwhite
+    lang: en
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    reference-location: margin
+    number-sections: false
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+
+brand: _brand.yml

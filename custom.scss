@@ -1,0 +1,162 @@
+/*-- scss:defaults --*/
+
+// Typography — explicit override of journal theme font variables
+// (_brand.yml injects before the theme; journal redefines after — so we pin here)
+$headings-font-family:  'Amaranth', sans-serif;
+$font-family-base:      'Arsenal', sans-serif;
+$font-family-monospace: 'B612 Mono', monospace;
+
+// UPPA colors
+$primary: #003D7A;
+$secondary: #2297D4;
+$success: #27AE60;
+$info: #3498DB;
+$warning: #F39C12;
+
+// Spacing
+$spacer: 1rem;
+
+/*-- scss:rules --*/
+
+// Callouts
+.callout {
+  border-left-width: 5px;
+  border-left-color: $primary;
+  margin: 1.5rem 0;
+}
+.callout-tip {
+  border-left-color: $success;
+}
+.callout-warning {
+  border-left-color: $warning;
+}
+.callout-important {
+  border-left-color: $secondary;
+}
+.callout-note {
+  border-left-color: $info;
+}
+
+.tool-card {
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-top: 4px solid $primary;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+  transition: box-shadow 0.2s ease;
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0,56,101,0.15);
+  }
+}
+
+// Tables
+table {
+  font-size: 0.9rem;
+  thead {
+    background-color: $primary;
+    color: white;
+  }
+  tbody tr:nth-child(even) {
+    background-color: rgba(0, 61, 122, 0.05);
+  }
+}
+
+// Tables dans les slides Reveal.js — légèrement plus grandes
+.reveal table {
+  font-size: 1.3rem;
+}
+
+// Code blocks
+pre {
+  border-left: 3px solid $primary;
+  background-color: #f8f9fa;
+}
+
+// Links
+a {
+  color: $primary;
+  text-decoration: none;
+  &:hover {
+    color: darken($primary, 15%);
+    text-decoration: underline;
+  }
+}
+
+h1 {
+    color:#981b3e;
+}
+
+h2 {
+    color: steelblue
+}
+
+h3 {
+    color: mediumvioletred;
+}
+
+h4 {
+    color: #981b3e;
+}
+
+.subtitle {
+    color: #981b3e;
+    font-family: Amaranth;
+    font-size: 1.8em;
+    
+    
+}
+
+.quarto-title-meta-contents {
+    color: #981b3e;
+    
+}
+
+// Navbar
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+// Sidebar
+.sidebar-item {
+  padding: 0.5rem 1rem;
+  border: 1px solid #2297D4;
+  border-radius: 8px;
+  &:hover {
+    background-color: rgba(10, 92, 173, 0.14);
+  }
+}
+
+.sidebar-item .sidebar-item {
+  border: none;
+}
+
+// Grid
+.grid {
+  gap: 2rem;
+}
+
+// iframes
+iframe {
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+// Print
+@media print {
+  .navbar, .sidebar, .page-footer {
+    display: none;
+  }
+}
+// Reveal.js — logo géré dans le footer, masquer l'injection automatique de _brand.yml
+.reveal .slide-logo {
+  display: none !important;
+}
+
+// Title slide — subtitle
+.reveal .title-slide .subtitle,
+.reveal #title-slide .subtitle {
+  font-family: 'Amaranth', sans-serif;
+  font-style: italic;
+  font-size: 1.8em;
+}

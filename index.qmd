@@ -1,0 +1,107 @@
+---
+title: "Research Infrastructures for the Digital Humanities"
+subtitle: "Huma-Num · DARIAH · EOSC"
+author:
+  - name: Julien Rabaud
+    orcid: 0000-0002-6604-9777
+    affiliations:
+      - name: "Applied Mathematics Research Library · UPPA"
+        url: https://bibliotheques.univ-pau.fr/fr/infos-pratiques/pau/bibliotheque-de-recherche-mathematiques-appliquees-ipra.html
+      - name: "Pôle Numérique · Research Data Management"
+        url: https://recherche.univ-pau.fr/fr/science-ouverte/donnees-de-la-recherche.html
+date: 2026-03-16
+toc: true
+---
+
+## Welcome
+
+This website contains all materials for the **Research Infrastructures for the Digital Humanities** presentation, given to doctoral students of the UPPA SSH Doctoral School and the CHORAL programme (UNITA).
+
+::: {.callout-note}
+### Session Information
+
+|                 |                                                                    |
+|-----------------|--------------------------------------------------------------------|
+| **Audience**    | Doctoral students · ED 481 SSH · CHORAL programme (UNITA)          |
+| **Date**        | Monday 16 March 2026, 14:00–16:00                                  |
+| **Format**      | Online (visio)                                                     |
+| **Language**    | English                                                            |
+| **Instructor**  | Julien Rabaud                                                      |
+| **Contact**     | [julien.rabaud\@univ-pau.fr](mailto:julien.rabaud@univ-pau.fr)     |
+:::
+
+---
+
+## What You Will Learn
+
+This presentation introduces the major **European research infrastructures** for the humanities and social sciences, with a focus on their practical relevance for doctoral researchers.
+
+### Part 1 · Huma-Num — The French National Infrastructure
+
+- What is Huma-Num and why does it matter?
+- The **data lifecycle** for humanities research
+- **FAIR data** principles in practice
+- Key **services**: NAKALA, Isidore, Stylo, Huma-Num Box
+- Thematic **consortiums**: finding your community
+
+### Part 2 · DARIAH-EU — The European Network
+
+- DARIAH as a pan-European **Research Infrastructure Consortium (ERIC)**
+- Four strategic pillars: Research · Education · Advocacy · Infrastructure
+- Tools and platforms: **DARIAH Campus**, **SSH Open Marketplace**
+- **Working groups** and how to get involved
+- France as the host country — the Huma-Num / DARIAH-FR connection
+
+### Part 3 · EOSC & the European Landscape
+
+- The **European Open Science Cloud**: ambition and reality
+- How Huma-Num, DARIAH, and **CLARIN** fit into EOSC
+- The **SSH Open Marketplace** as a shared discovery layer
+- What this means for your data and your research
+
+---
+
+## Quick Links
+
+### For the Session
+- [View Slides](slides.qmd)
+- [GitHub Repository](https://github.com/ujubib/Quarto_Huma-Num-UNITA)
+
+### Resources
+
+- [Huma-Num — Overview](resources/humanum.qmd)
+- [Huma-Num — Consortiums](resources/consortiums.qmd)
+- [Huma-Num — Services & FAIR Data](resources/services.qmd)
+- [DARIAH-EU](resources/dariah.qmd)
+- [CLARIN ERIC](resources/clarin.qmd)
+- [EOSC](resources/eosc.qmd)
+- [How They Connect](resources/connections.qmd)
+- [Bibliography & Links](resources/references.qmd)
+
+---
+
+## Context: UPPA & UNITA
+
+::: {.columns}
+::: {.column width="50%"}
+### ED 481 SSH
+Doctoral School of Social Sciences and Humanities  
+Université de Pau et des Pays de l'Adour
+
+Research areas: humanities, social sciences, history, law, languages and cultures.
+:::
+::: {.column width="50%"}
+### CHORAL Programme · UNITA
+[UNITA European University Alliance](https://univ-unita.eu/) — 12 universities from 7 countries: France, Spain, Portugal, Italy, Romania, Switzerland, and Ukraine — with a shared focus on culture, territory, and human sciences.
+:::
+:::
+
+::: {.callout-tip}
+All UNITA partner countries are connected to **DARIAH-EU** — as full members (France, Spain, Portugal, Italy, Romania) or cooperating partners (Switzerland, Ukraine) — meaning your institution has a pathway to DARIAH resources and working groups.
+:::
+
+---
+
+::: {.callout-note appearance="minimal"}
+**CC BY 4.0 License** — All materials are released under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) licence. You are free to use, adapt, and share them with attribution.
+:::

@@ -1,0 +1,62 @@
+---
+title: "Huma-Num"
+subtitle: "France's National Research Infrastructure for Digital Humanities"
+toc: true
+---
+
+## What is Huma-Num?
+
+**Huma-Num** is a French *Très Grande Infrastructure de Recherche* (TGIR — *Very Large Research Infrastructure*) dedicated to the digital humanities. It provides tools, services, and community support to researchers in the humanities and social sciences to manage, share, and publish their research data in accordance with **FAIR principles**.
+
+::: {.callout-note}
+### TGIR status
+The *Très Grande Infrastructure de Recherche* label is awarded by the French Ministry of Higher Education and Research to strategic national research facilities. Huma-Num is supported and hosted by **CNRS** (UAR 3598), and receives co-funding from partner universities and *Sorbonne Université*.
+:::
+
+Huma-Num is also **France's national node in DARIAH-EU** (*DARIAH-FR*) and plays a central role in the European open science landscape for the humanities.
+
+---
+
+## A Brief History
+
+| Year | Milestone |
+|------|-----------|
+| 2006 | Creation of **TGE Adonis** (*Très Grand Équipement*) — predecessor to Huma-Num |
+| 2013 | Transformation into **Huma-Num** as a TGIR |
+| 2014 | France becomes the **founding host country of DARIAH-ERIC** |
+| 2016 | Integration into the French national open science strategy |
+| 2021 | New strategic roadmap; expanded European connections via EOSC |
+
+---
+
+## Core Mission: The Data Lifecycle
+
+Huma-Num supports the full **research data lifecycle** for humanities researchers:
+
+1. **Collect & Produce** — tools for data acquisition, digitisation, and encoding (XML-TEI, EAD, etc.)
+2. **Process & Enrich** — annotation, analysis, and transformation services
+3. **Store & Preserve** — sustainable archiving and long-term preservation (via NAKALA, CINES)
+4. **Share & Publish** — open access publication, discovery, and dissemination
+
+![Data lifecycle at Huma-Num (2023)](https://www.huma-num.fr/wp-content/uploads/2022/05/Schema-de-la-vie-des-donnees-HN-2023-1024x205.png){fig-alt="Schema of the Huma-Num data lifecycle" width="100%"}
+
+---
+
+## FAIR Data Principles
+
+All Huma-Num services are designed around the **FAIR principles**, which require that research data be:
+
+- **Findable** — through rich metadata and persistent identifiers (ARK, DOI, ORCID)
+- **Accessible** — via open, standard protocols with clear access conditions
+- **Interoperable** — using widely shared vocabularies, ontologies, and formats
+- **Reusable** — through clear licences (Creative Commons) and provenance documentation
+
+🔗 [go-fair.org/fair-principles](https://www.go-fair.org/fair-principles/) · Wilkinson et al. (2016), *Scientific Data*
+
+---
+
+## Huma-Num and DARIAH
+
+As the **French national node of DARIAH-EU**, Huma-Num connects French researchers to a pan-European network. France is also the **host country** of the DARIAH-ERIC secretariat, based in Paris and operated by Huma-Num.
+
+→ Learn more about [DARIAH](dariah.qmd) and [how the infrastructures connect](connections.qmd).

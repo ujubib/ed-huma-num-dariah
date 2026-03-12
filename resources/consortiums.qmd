@@ -1,0 +1,111 @@
+---
+title: "Huma-Num Consortiums"
+subtitle: "Thematic research communities within Huma-Num"
+toc: true
+---
+
+## What is a Consortium?
+
+Within Huma-Num, **consortiums** are officially recognised communities of researchers and institutions that collaborate around a specific theme or discipline. They are supported by Huma-Num to:
+
+- Share and harmonise methodologies and standards across the community
+- Produce and curate disciplinary data repositories
+- Publish guides, thesauri, and reference documentation
+- Organise training sessions and study days (*journées d'études*)
+- Participate in national and European working groups
+
+::: {.callout-tip}
+### For doctoral students
+Depending on your discipline, one or more consortiums may be directly relevant to your research. Getting involved early connects you to a community of specialists and to resources that can help structure your data management practices from the beginning.
+:::
+
+🔗 Full directory: <https://www.huma-num.fr/les-consortiums-scientifiques/>
+
+---
+
+## Active Consortiums
+
+### 🖼 PICTORIA — Images and Visual Sources
+
+Best practices for digitising, describing, and sharing image collections in history, art history, and iconography. Covers metadata schemas, controlled vocabularies, and IIIF integration.
+
+🔗 <https://pictoria.huma-num.fr>
+
+---
+
+### 📦 ARIANE — Archives
+
+Supports archival research communities in the digital management and valorisation of archival sources. Covers archival description standards (EAD, RiC), interoperability, and open data.
+
+🔗 <https://ariane.huma-num.fr>
+
+---
+
+### 🏛 3D-SHS — 3D for the Humanities
+
+Facilitates the use of 3D modelling and scanning technologies for humanistic and heritage research. Provides methodological guides for acquisition, processing, and archiving of 3D data.
+
+🔗 <https://3d-shs.huma-num.fr>
+
+---
+
+### 📐 PTM — Photogrammetry and Technical Measurements
+
+Brings together researchers working with photogrammetry, multispectral imaging, and related techniques for the study of material culture and heritage objects.
+
+---
+
+### ⚗️ MASA+ — Multidisciplinary Archaeological Science Archives
+
+Focuses on interoperability and long-term preservation of archaeological data. Strong connections to international heritage data standards (CIDOC-CRM, ARK).
+
+🔗 <https://masa.huma-num.fr>
+
+---
+
+### 🏷 DISTAM — Stamps and Heraldic Data
+
+Specialises in the treatment and valorisation of stamp collections, heraldic data, and related visual records, particularly for historical and diplomatic studies.
+
+---
+
+### 🎭 CANEVAS — Performing Arts Archives
+
+Dedicated to the digitisation, encoding, and accessibility of performing arts archives (theatre, dance, music performance) using standards such as TEI and MEI.
+
+---
+
+### 🎵 MUSICA2 — Music and Musicology
+
+Supports musicological research through digital editions, musical corpora, and specialised databases, with connections to RILM and other international bibliographic resources.
+
+🔗 <https://musica.huma-num.fr>
+
+---
+
+### 🗣 CORLI — Spoken Language Corpora
+
+Focuses on the collection, annotation, archiving, and dissemination of oral language corpora in French and other languages. Connected to the **CLARIN** infrastructure for language resources.
+
+🔗 <https://corli.huma-num.fr>
+
+---
+
+### 🧬 SOLIFE — Biographical Data
+
+Supports research on biographical sources and data, including prosopography. Promotes standards for data interoperability in biographical and genealogical studies.
+
+🔗 <https://solife.huma-num.fr>
+
+---
+
+## Former Consortiums
+
+Some consortiums have completed their funded phase. Their outputs remain available:
+
+| Consortium | Theme |
+|-----------|-------|
+| **Archives des ethnologues** | Ethnological archives |
+| **COSME2** | Cartography of the medieval world |
+| **Cahier** | Digital critical editions |
+| **PARTITIONS** | Historical notation |

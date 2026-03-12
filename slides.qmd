@@ -1,0 +1,19 @@
+---
+title: "Slides"
+toc: false
+---
+
+The slideshow below was used during the training session. Navigate with **arrow keys** or the on-screen controls. Press `F` for fullscreen, `S` for speaker notes, `?` for all keyboard shortcuts.
+
+::: {.callout-note}
+Open the presentation in a dedicated tab for the best experience: [**Full-screen →**](slides/index.html){target="_blank"}
+:::
+
+```{=html}
+<iframe
+  src="slides/index.html"
+  width="100%"
+  height="620px"
+  allowfullscreen>
+</iframe>
+```

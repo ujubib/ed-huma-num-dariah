@@ -1,50 +1,54 @@
-# Digital Research Infrastructures for the Humanities
+# Research Infrastructures for the Digital Humanities
 
 **Quarto website + Reveal.js presentation**  
-UPPA ED 481 SSH & UNITA CHORAL Programme — 2026
+UPPA ED 481 SSH & UNITA CHORAL Programme — 16 march 2026
 
-## Structure
+## Project Structure
 
 ```
 .
-├── _quarto.yml              # Website project config
-├── custom.scss              # Site-wide styles
+├── _quarto.yml              # Website project config (journal theme, sidebar, footer)
+├── _brand.yml               # UPPA brand: fonts (Amaranth/Arsenal/B612 Mono), colours, logo
+├── custom.scss              # SCSS overrides: UPPA colours, headings, callouts, sidebar
+├── styles.css               # CSS: body, title block, tables, bibliography
 ├── index.qmd                # Home page
-├── humanum.qmd              # Huma-Num overview
-├── consortiums.qmd          # Huma-Num consortiums
-├── services.qmd             # Services & FAIR data
-├── dariah.qmd               # DARIAH-EU
-├── clarin.qmd               # CLARIN ERIC
-├── connections.qmd          # How they connect (+ Mermaid diagram)
-├── presentation.qmd         # Page embedding the slideshow
-├── references.qmd           # Bibliography & links
-└── slides/
-    ├── index.qmd            # Reveal.js presentation (self-contained)
-    └── slides-custom.scss   # Presentation styles
+├── slides.qmd               # Page embedding the Reveal.js slideshow via iframe
+├── slides/
+│   ├── index.qmd            # Self-contained Reveal.js presentation
+│   └── slides.scss          # Dark theme for the presentation
+└── resources/
+    ├── humanum.qmd          # Huma-Num: history, mission, data lifecycle
+    ├── consortiums.qmd      # Huma-Num consortiums
+    ├── services.qmd         # Huma-Num services + FAIR data
+    ├── dariah.qmd           # DARIAH-EU
+    ├── clarin.qmd           # CLARIN ERIC (concise)
+    ├── eosc.qmd             # EOSC (substantive)
+    ├── connections.qmd      # How they connect (Mermaid diagram)
+    └── references.qmd       # Bibliography & useful links
 ```
 
-## How to render
+## How to Render
 
 ### Prerequisites
-- [Quarto](https://quarto.org/docs/get-started/) ≥ 1.4
+[Quarto](https://quarto.org/docs/get-started/) ≥ 1.5
 
-### Render the presentation first (standalone)
+### 1. Render the presentation (standalone, self-contained)
 
 ```bash
 cd slides
-quarto render index.qmd
+quarto render index.qmd --to revealjs
 cd ..
 ```
 
-This produces `slides/index.html` (self-contained Reveal.js file).
+This produces `slides/index.html` — a self-contained Reveal.js file embedded via iframe in `slides.qmd`.
 
-### Render the full website
+### 2. Render the full website
 
 ```bash
 quarto render
 ```
 
-Or for a live preview:
+Or for live preview:
 
 ```bash
 quarto preview
@@ -52,21 +56,22 @@ quarto preview
 
 ## Deployment
 
-Deploy the `_site/` folder (plus `slides/index.html` at `_site/slides/index.html`) to:
-- **Netlify** (drag & drop or GitHub integration)
-- **GitHub Pages**
-- **Quarto Pub**: `quarto publish quarto-pub`
+Deploy the `_site/` folder to:
+- **Netlify** (drag & drop or via `netlify.toml`)
+- **GitHub Pages** (`quarto publish gh-pages`)
+- **Quarto Pub** (`quarto publish quarto-pub`)
 
-## Customisation
+> Make sure `slides/index.html` is present in `_site/slides/` before deploying.  
+> If rendering the site doesn't auto-render the slides, run `quarto render slides/index.qmd` first.
 
-- Edit `_quarto.yml` to update navbar, theme, or site URL
-- Replace logo URLs with local images in `IMG/` for offline use
-- Update `slides/index.qmd` front matter (date, institute, footer)
-- Add/edit content pages as `.qmd` files
+## Images
+
+Place the UPPA logo and any other images in `img/`:
+- `img/logoUPPA-RepFr.png` — required by `_brand.yml`
 
 ## Author
 
-Julien Rabaud — SCD | Bibliothèque de l'IPRA · CSP Numérique Recherche  
-Université de Pau et des Pays de l'Adour  
+Julien Rabaud  
+Applied Mathematics Research Library · UPPA  
+Pôle Numérique · Research Data Management  
 ORCID: [0000-0002-6604-9777](https://orcid.org/0000-0002-6604-9777)
-

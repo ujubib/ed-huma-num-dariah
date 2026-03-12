@@ -1,0 +1,54 @@
+---
+title: "CLARIN ERIC"
+subtitle: "Common Language Resources and Technology Infrastructure"
+toc: true
+---
+
+## What is CLARIN?
+
+**CLARIN** (Common Language Resources and Technology Infrastructure) is a **European Research Infrastructure Consortium** providing access to digital **language data, NLP tools, and services** for SSH researchers. It was established as an ERIC in 2012 and counts 22 full members.
+
+::: {.callout-note}
+In France, **CLARIN-FR** is coordinated by **Huma-Num**, which provides the national node. The Huma-Num consortium **CORLI** (spoken language corpora) is France's main contribution to CLARIN's data infrastructure.
+:::
+
+---
+
+## Scope and Relevance
+
+CLARIN is primarily designed for **language-based research**, but its tools and corpora are useful across many humanities disciplines:
+
+| Research area | CLARIN tools and resources |
+|--------------|--------------------------|
+| Linguistics & NLP | Annotated corpora, lexicons, POS taggers |
+| Literary studies | Stylometric analysis, historical corpora, TEI editions |
+| History | Parliamentary corpora, newspaper archives, Named Entity Recognition |
+| Sociology | Social media datasets, discourse analysis |
+| Oral history | Spoken language corpora (via CORLI/Huma-Num) |
+
+---
+
+## Key Tools
+
+**[Virtual Language Observatory (VLO)](https://vlo.clarin.eu)** — search across thousands of language resources from CLARIN member centres.
+
+**[Language Resource Switchboard](https://switchboard.clarin.eu)** — upload a text and get a list of NLP tools appropriate for your task (tokenisation, NER, sentiment analysis, etc.).
+
+**[WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/)** — compose NLP service chains into reusable analysis workflows.
+
+**[CLARIN Learning Hub](https://www.clarin.eu/content/learning-hub)** — training modules and course materials for using language resources.
+
+---
+
+## CLARIN, DARIAH, and EOSC
+
+CLARIN and DARIAH are **closely intertwined**:
+
+- They co-develop the **SSH Open Marketplace** (with CESSDA)
+- They jointly participate in the **European Open Science Cloud (EOSC)**
+- They organised a joint **Spring Conference in Riga** (March 2026)
+- They collaborate in the **ATRIUM** project on shared services for humanities research
+
+→ For the full picture, see [How They Connect](connections.qmd).
+
+🔗 <https://www.clarin.eu>

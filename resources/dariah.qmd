@@ -1,0 +1,102 @@
+---
+title: "DARIAH-EU"
+subtitle: "Digital Research Infrastructure for the Arts and Humanities"
+toc: true
+---
+
+## What is DARIAH?
+
+**DARIAH** (Digital Research Infrastructure for the Arts and Humanities) is a **pan-European research infrastructure** whose mission is to empower arts and humanities research communities with digital methods to create, connect, and share knowledge about culture and society.
+
+::: {.callout-note}
+### Legal status
+DARIAH was formally established as a **European Research Infrastructure Consortium (ERIC)** on 15 August 2014, by European Commission Decision 2014/239/EU. France is the **host country** of the DARIAH-ERIC secretariat (Paris). As of 2025, DARIAH counts **22 Member States** and several cooperating partners. It is listed on the [ESFRI Roadmap](https://www.esfri.eu/esfri-roadmap) of strategic European research infrastructures.
+:::
+
+DARIAH operates as a **distributed network** of national nodes, each contributing expertise, content, tools, and services to a shared infrastructure. It is not a single platform but a **social and technical ecosystem**.
+
+---
+
+## Four Strategic Pillars
+
+| Pillar | Description |
+|--------|-------------|
+| **Research** | Supporting digital methods for arts & humanities research — text analysis, data modelling, digital editions, cultural analytics |
+| **Education & Training** | Building digital skills across the research community — DARIAH Campus, summer schools, workshops |
+| **Advocacy** | Promoting open science and digital humanities in European research policy |
+| **Infrastructure** | Developing and maintaining shared technical resources and interoperable services |
+
+---
+
+## Key Tools and Platforms
+
+### DARIAH Campus
+
+An open training platform offering courses, modules, and resources for digital arts and humanities researchers. Free, multilingual, and openly licensed.
+
+🔗 <https://campus.dariah.eu>
+
+---
+
+### SSH Open Marketplace
+
+A discovery portal — co-developed with CLARIN and CESSDA — for tools, services, training materials, workflows, and datasets relevant to the Social Sciences and Humanities. Integrated into EOSC.
+
+🔗 <https://marketplace.sshopencloud.eu>
+
+---
+
+### DARIAH Working Groups
+
+DARIAH's intellectual and methodological work is organised through **open working groups**, accessible to researchers at all DARIAH member institutions. Recent and active groups include:
+
+- **Text and Data Analytics**
+- **Digital Methods and Practices Observatory (DiMPO)**
+- **Ethics and Legality in the Digital Arts and Humanities (ELDAH)**
+- **DARIAH Teach**
+- **Women Writers in History**
+- **Thesaurus Maintenance**
+
+🔗 Full list: <https://www.dariah.eu/activities/working-groups/>
+
+::: {.callout-tip}
+Working groups are an excellent entry point for doctoral students to engage with the European DH community, present early-stage work, and build international networks.
+:::
+
+---
+
+## DARIAH and France
+
+France is both a **founding DARIAH member** and the **host country** of the DARIAH-ERIC secretariat. The French national node — **DARIAH-FR** — is managed by Huma-Num. This means:
+
+- French researchers access DARIAH services primarily through Huma-Num
+- Huma-Num coordinates French participation in DARIAH working groups
+- NAKALA, Isidore, and other Huma-Num services feed into the DARIAH ecosystem
+
+---
+
+## DARIAH and UNITA Countries
+
+Most UNITA partner countries are connected to DARIAH in some capacity:
+
+| Country | DARIAH status | National node / contact |
+|---------|--------------|------------------------|
+| 🇫🇷 France | Founding member · **host country** | Huma-Num (DARIAH-FR) |
+| 🇮🇹 Italy | Founding member | CNR-ILC (DARIAH-IT) |
+| 🇪🇸 Spain | Member | RedIRIS (DARIAH-ES) |
+| 🇵🇹 Portugal | Member | FCSH/NOVA (DARIAH-PT) |
+| 🇷🇴 Romania | Member | UEFISCDI (DARIAH-RO) |
+| 🇨🇭 Switzerland | **Cooperating partner** (DARIAH-CH in progress) | SAHSS / EPFL / UniNE |
+| 🇺🇦 Ukraine | **Cooperating partner** | Chernivtsi National University |
+
+Switzerland is building a DARIAH-CH national consortium under the DESIR programme, with eight partner institutions, in order to apply for full membership. Ukraine participates as a cooperating partner.
+
+→ Your institution's national node — or cooperating partner structure — is your entry point to DARIAH resources, working groups, and events.
+
+---
+
+## Annual Events
+
+DARIAH organises a flagship **Annual Event** each year, bringing together the global DH community. The 2026 edition takes place in **Rome, Italy** (26–29 May 2026).
+
+🔗 <https://www.dariah.eu/activities/events-and-activities/>

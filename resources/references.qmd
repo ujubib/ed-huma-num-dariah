@@ -1,0 +1,83 @@
+---
+title: "Bibliography & Links"
+subtitle: "References and useful resources"
+toc: true
+---
+
+## Websites
+
+### Huma-Num
+- Site officiel : <https://www.huma-num.fr>
+- NAKALA (dépôt de données) : <https://nakala.fr>
+- Isidore (moteur de découverte) : <https://isidore.science>
+- Stylo (éditeur sémantique) : <https://stylo.huma-num.fr>
+- Huma-Num Box : <https://box.huma-num.fr>
+- Services et outils : <https://www.huma-num.fr/les-services-et-les-outils/>
+- Consortiums : <https://www.huma-num.fr/les-consortiums-scientifiques/>
+
+### DARIAH
+- Official site: <https://www.dariah.eu>
+- DARIAH Campus (training): <https://campus.dariah.eu>
+- Working groups: <https://www.dariah.eu/activities/working-groups/>
+- Annual events: <https://www.dariah.eu/activities/events-and-activities/>
+- DARIAH-FR (French node): <https://www.dariah.eu/network/member-countries/france/>
+
+### CLARIN
+- Official site: <https://www.clarin.eu>
+- Virtual Language Observatory: <https://vlo.clarin.eu>
+- Language Resource Switchboard: <https://switchboard.clarin.eu>
+- Learning Hub: <https://www.clarin.eu/content/learning-hub>
+- CORLI (CLARIN-FR / Huma-Num): <https://corli.huma-num.fr>
+
+### EOSC
+- EOSC Association: <https://eosc.eu>
+- EOSC Portal: <https://eosc-portal.eu>
+- SSH Open Marketplace (DARIAH + CLARIN + CESSDA): <https://marketplace.sshopencloud.eu>
+
+### Open Science & Data Management
+- GO FAIR initiative: <https://www.go-fair.org/fair-principles/>
+- DMP OPIDoR (plans de gestion de données): <https://dmp.opidor.fr>
+- Plan national pour la science ouverte: <https://www.ouvrirlascience.fr>
+- UPPA – Données de la recherche: <https://recherche.univ-pau.fr/fr/science-ouverte/donnees-de-la-recherche.html>
+
+### UNITA & CHORAL
+- UNITA Alliance: <https://univ-unita.eu>
+- CHORAL Programme: <https://univ-unita.eu/Sites/unita/en/page/choral-1>
+- ESFRI Roadmap: <https://www.esfri.eu/esfri-roadmap>
+
+---
+
+## Selected Bibliography
+
+Baillot, Anne. 2022. "DARIAH: Building a Research Infrastructure for the Humanities." *Digital Humanities Quarterly* 16 (2). <http://www.digitalhumanities.org/dhq/vol/16/2/000612/000612.html>
+
+Dacos, Marin, and Pierre Mounier. 2014. *Humanités numériques : état des lieux et positionnement de la recherche française dans le contexte international*. Rapport à l'Institut français. <https://hal.science/hal-00982036>
+
+Druin, Allison, et al. 2022. "CLARIN: The Infrastructure for Language Resources." *De Gruyter*. <https://doi.org/10.1515/9783110767377>
+
+Edmond, Jennifer. 2020. *Digital Technology and the Practices of Humanities Research*. Open Book Publishers. <https://doi.org/10.11647/OBP.0192>
+
+Hinrichs, Erhard, and Steven Krauwer. 2014. "The CLARIN Research Infrastructure: Resources and Tools for eHumanities Scholars." *Proceedings of LREC'14*, 1525–1531. <https://aclanthology.org/L14-1356/>
+
+Mounier, Pierre. 2018. *Les Humanités numériques : une histoire critique*. Maison des Sciences de l'Homme. <https://doi.org/10.4000/books.editionsmsh.12006>
+
+Wilkinson, Mark D., et al. 2016. "The FAIR Guiding Principles for Scientific Data Management and Stewardship." *Scientific Data* 3: 160018. <https://doi.org/10.1038/sdata.2016.18>
+
+---
+
+## Citing the Infrastructures
+
+When using these services in publications, you are encouraged to acknowledge them:
+
+> *The data for this research was deposited in and is available through [NAKALA](https://nakala.fr), the data repository of the Huma-Num infrastructure (CNRS UAR 3598).*
+
+> *This research was supported by the DARIAH research infrastructure (ERIC).*
+
+Check each infrastructure's website for their recommended citation text.
+
+---
+
+## About This Site
+
+This companion site was built with [Quarto](https://quarto.org) and is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Source: <https://github.com/ujubib/Quarto_Huma-Num-UNITA>

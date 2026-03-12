@@ -1,0 +1,115 @@
+---
+title: "How They Connect"
+subtitle: "The European research infrastructure ecosystem for the humanities"
+toc: true
+---
+
+## The Ecosystem at a Glance
+
+European research infrastructure for the humanities is not a collection of isolated platforms. **Huma-Num**, **DARIAH**, **CLARIN**, and **EOSC** are deeply interconnected — institutionally, technically, and politically.
+
+```{mermaid}
+flowchart LR
+    EC["🇪🇺 European Commission\nHorizon Europe"]
+    ESFRI["ESFRI Roadmap"]
+    EOSC["EOSC\nEuropean Open\nScience Cloud"]
+    DARIAH["DARIAH-EU\nArts & Humanities"]
+    CLARIN["CLARIN ERIC\nLanguage"]
+    MARKET["SSH Open\nMarketplace"]
+    HN["Huma-Num 🇫🇷\n(TGIR · CNRS)"]
+    DARIAH_FR["DARIAH-FR"]
+    CLARIN_FR["CLARIN-FR"]
+    NAKALA["NAKALA"]
+    ISIDORE["Isidore"]
+    UPPA["UPPA · UNITA\ndoctoral researchers"]
+
+    EC --> ESFRI
+    EC --> EOSC
+    ESFRI --> DARIAH
+    ESFRI --> CLARIN
+    DARIAH <--> EOSC
+    CLARIN <--> EOSC
+    DARIAH <--> CLARIN
+    DARIAH --> MARKET
+    CLARIN --> MARKET
+    HN --> DARIAH_FR --> DARIAH
+    HN --> CLARIN_FR --> CLARIN
+    HN --> NAKALA --> EOSC
+    HN --> ISIDORE
+    UPPA --> HN
+    UPPA --> DARIAH
+```
+
+---
+
+## Huma-Num as a National Hub
+
+Huma-Num sits at the **intersection of French national infrastructure and European distributed networks**:
+
+- It is France's **national DARIAH node** (*DARIAH-FR*) and hosts the DARIAH-ERIC secretariat
+- It coordinates **CLARIN-FR** for spoken language and text corpora
+- Its services (NAKALA, Isidore) are connected to EOSC and feed into European discovery layers
+- It participates in EOSC governance through CNRS and French open science policy
+
+For a French researcher, Huma-Num is the practical starting point for accessing the full European infrastructure.
+
+---
+
+## DARIAH and CLARIN: Complementary, Not Competing
+
+| Dimension | DARIAH-EU | CLARIN ERIC |
+|-----------|-----------|-------------|
+| **Focus** | Arts & humanities broadly | Language resources & NLP tools |
+| **Scope** | Methods, training, advocacy, tools | Corpora, annotation, text analysis |
+| **Entry via France** | Huma-Num (DARIAH-FR) | Huma-Num (CLARIN-FR / CORLI) |
+| **Shared project** | SSH Open Marketplace | SSH Open Marketplace |
+| **EOSC membership** | Yes | Yes |
+
+They are more complementary than competitive: many digital humanities projects use both — DARIAH for the community and methodological framework, CLARIN for language-specific tools and corpora.
+
+---
+
+## EOSC as the Overarching Layer
+
+EOSC does not replace Huma-Num, DARIAH, or CLARIN — it **federates** them. The relationship is:
+
+- Huma-Num / DARIAH / CLARIN each maintain their own governance and brand identity
+- They contribute services, data, and tools that become **discoverable through EOSC**
+- EOSC provides **cross-disciplinary findability** and policy alignment (FAIR, open licences, PIDs)
+- Horizon Europe funding increasingly **requires** EOSC-compatible outputs — making awareness of this ecosystem practically important for grant applications
+
+---
+
+## The SSH Open Marketplace: A Concrete Shared Layer
+
+The **[SSH Open Marketplace](https://marketplace.sshopencloud.eu)** is the most tangible expression of DARIAH–CLARIN collaboration, and is integrated into EOSC as the SSH discovery portal:
+
+| What you can find | Examples |
+|-------------------|---------|
+| **Tools & services** | Annotation tools, text editors, OCR, corpus builders |
+| **Training materials** | Tutorials, course modules, summer school slides |
+| **Datasets** | Corpora, digitised collections, encoded archives |
+| **Workflows** | Step-by-step research method documentation |
+
+---
+
+## Summary Table
+
+| Infrastructure | Type | Geographic scope | Focus | French entry point |
+|---------------|------|-----------------|-------|-------------------|
+| **Huma-Num** | TGIR (national) | France | DH broadly: data lifecycle, consortiums, services | — (is the entry point) |
+| **DARIAH-EU** | ERIC | 22 member states | Arts & humanities: methods, training, advocacy | Huma-Num (DARIAH-FR) |
+| **CLARIN ERIC** | ERIC | 22 member states | Language resources & NLP | Huma-Num (CLARIN-FR) |
+| **EOSC** | EC initiative | European Union | All disciplines: open data, FAIR, interoperability | Huma-Num / CNRS |
+
+---
+
+## What Does This Mean For Your Research?
+
+As a doctoral student at UPPA or within UNITA, you are embedded in all these layers:
+
+1. Use **Huma-Num** as your national gateway — tools, data deposit, consortiums
+2. Through Huma-Num, you are connected to **DARIAH-EU** and its working groups and training
+3. For text-based or corpus-based research, **CLARIN** tools are directly accessible
+4. Your data deposited via NAKALA becomes part of the **EOSC** federated ecosystem
+5. Writing a **DMP** or applying for a grant? Knowing these infrastructures is expected

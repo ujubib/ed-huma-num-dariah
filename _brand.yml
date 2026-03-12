@@ -1,0 +1,35 @@
+color:
+  background: floralwhite
+  foreground: black
+
+logo: 
+  medium: img/logoUPPA-RepFr.png
+  small: img/logoUPPA-RepFr.png
+
+typography:
+  fonts:
+    - family: Amaranth
+      source: bunny
+    - family: Arsenal
+      source: bunny
+    - family: B612 Mono
+      source: bunny
+  base: Arsenal
+  headings: Amaranth
+  monospace: B612 Mono
+
+defaults: 
+  bootstrap:
+    rules: |
+      .navbar {
+        background-color: #2297D4;
+      }
+      .nav-link {
+        color: #ccd1d5;
+      }
+      .navbar-brand {
+        color: linen;
+      }
+      .navbar-logo {
+        display: none;
+      }

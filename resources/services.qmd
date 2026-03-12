@@ -1,0 +1,92 @@
+---
+title: "Services & FAIR Data"
+subtitle: "Tools and services provided by Huma-Num"
+toc: true
+---
+
+## FAIR Principles in Practice
+
+The **FAIR principles** — Findable, Accessible, Interoperable, Reusable — are central to Huma-Num's mission and to open science policy in France and Europe.
+
+::: {.callout-note}
+Since 2021, the **Plan national pour la science ouverte** requires that research data from publicly-funded projects be deposited in open, FAIR-compliant repositories. Horizon Europe grants impose similar requirements at the European level.
+:::
+
+🔗 [go-fair.org/fair-principles](https://www.go-fair.org/fair-principles/) · [DMP OPIDoR](https://dmp.opidor.fr)
+
+---
+
+## Core Services
+
+### NAKALA — Research Data Repository
+
+**NAKALA** is Huma-Num's main data publishing platform. It allows researchers to deposit and share humanities research data openly, with:
+
+- **Persistent ARK identifiers** for each deposited item
+- Rich metadata description (Dublin Core, custom schemas)
+- Open access licences (Creative Commons)
+- FAIR-compliant infrastructure, connected to EOSC
+
+🔗 <https://nakala.fr>
+
+---
+
+### Isidore — Discovery Platform
+
+**Isidore** is a search and discovery engine aggregating open access scholarly publications, data, and resources in the humanities and social sciences. It harvests metadata from hundreds of French and international sources.
+
+Key features: semantic enrichment (thematic, geographical, temporal), multilingual search, integration with HAL, OpenEdition, NAKALA, and DARIAH services.
+
+🔗 <https://isidore.science>
+
+---
+
+### Stylo — Semantic Text Editor
+
+**Stylo** is a web-based semantic writing tool designed for academic writing in the humanities. It uses Markdown, YAML, and BibTeX to separate content from formatting, enabling rich export to HTML, PDF, XML-TEI, DOCX, and EPUB.
+
+Originally developed by CRIHN (Université de Montréal) and maintained in partnership with Huma-Num.
+
+🔗 <https://stylo.huma-num.fr>
+
+---
+
+### Huma-Num Box
+
+A cloud storage solution (based on Nextcloud) for collaborative work on research projects. Provides file sharing, versioning, and basic collaborative editing for research teams.
+
+🔗 <https://box.huma-num.fr>
+
+---
+
+### Virtual Machines (HN-SSH)
+
+On-demand **virtual computing environments** for projects that require custom software stacks, databases, or web services. Particularly useful for hosting digital editions, project databases, or web applications. Access via a project submission process.
+
+🔗 <https://www.huma-num.fr/les-services-et-les-outils/>
+
+---
+
+### SSH Open Marketplace
+
+Co-maintained with DARIAH and CLARIN, the **SSH Open Marketplace** is a discovery portal for tools, services, training materials, workflows, and datasets for the social sciences and humanities. Integrated into EOSC.
+
+🔗 <https://marketplace.sshopencloud.eu>
+
+---
+
+## Data Management Plans
+
+For doctoral researchers, a **Data Management Plan (DMP)** is increasingly required by funding bodies (ANR, ERC, Horizon Europe). Useful resources:
+
+- **DMP OPIDoR** — the French national DMP tool (Inist-CNRS): [dmp.opidor.fr](https://dmp.opidor.fr)
+- Consortium-specific guidance for disciplinary data (available via each consortium)
+- UPPA research data team: [recherche.univ-pau.fr/donnees-de-la-recherche](https://recherche.univ-pau.fr/fr/science-ouverte/donnees-de-la-recherche.html)
+
+---
+
+## Access for UPPA Researchers
+
+Huma-Num services are primarily accessible to researchers affiliated with CNRS, universities, and research institutions in France. UPPA doctoral students can access most services through their institutional credentials.
+
+For onboarding and questions, contact the UPPA research data service or your doctoral school administrator.
