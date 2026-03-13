@@ -3,29 +3,29 @@
     "objectID": "slides/index.html#what-are-research-infrastructures",
     "href": "slides/index.html#what-are-research-infrastructures",
     "title": "Research Infrastructuresfor the Digital Humanities",
-    "section": "What are Research Infrastructures?",
-    "text": "What are Research Infrastructures?\n\nResearch Infrastructures (RIs) are facilities, resources, and services that are used by the research community to conduct research and foster innovation.\n— European Commission\n\n\nThey can be physical (laboratories, telescopes) or digital (platforms, data repositories, services)\nFor the humanities, digital RIs provide tools to produce, share, and preserve research data\nThey are increasingly organised at European level, under the ESFRI roadmap"
+    "section": "",
+    "text": "Research Infrastructures (RIs) are facilities, resources, and services that are used by the research community to conduct research and foster innovation.\n— European Commission\n\n\n\nThey can be physical (laboratories, telescopes) or digital (platforms, data repositories, services)\nFor the humanities, digital RIs provide tools to produce, share, and preserve research data\nThey are increasingly organised at European level, under the ESFRI roadmap"
   },
   {
     "objectID": "slides/index.html#why-should-doctoral-students-care",
     "href": "slides/index.html#why-should-doctoral-students-care",
     "title": "Research Infrastructuresfor the Digital Humanities",
-    "section": "Why should doctoral students care?",
-    "text": "Why should doctoral students care?\n\nFunding agencies (ANR, ERC, Horizon Europe) require Data Management Plans\nOpen access and open data are increasingly mandatory for publicly-funded research\nThese infrastructures provide free tools you may already need — or will need\nThey connect you to European research communities — especially valuable within UNITA\nThey offer training, workshops, and summer schools\nYour data deposited through them will still be findable in 20 years\n\n\n\n\n\nThink of research infrastructures as the library system of digital research: you don’t build it yourself, but knowing how to use it makes all the difference."
+    "section": "",
+    "text": "Funding agencies (ANR, ERC, Horizon Europe) require Data Management Plans\nOpen access and open data are increasingly mandatory for publicly-funded research\nThese infrastructures provide free tools you may already need — or will need\nThey connect you to European research communities — especially valuable within UNITA\nThey offer training, workshops, and summer schools\nYour data deposited through them will still be findable in 20 years\n\n\n\n\n\n\n\n\n\nThink of research infrastructures as the library system of digital research: you don’t build it yourself, but knowing how to use it makes all the difference."
   },
   {
     "objectID": "slides/index.html#three-interconnected-infrastructures",
     "href": "slides/index.html#three-interconnected-infrastructures",
     "title": "Research Infrastructuresfor the Digital Humanities",
-    "section": "Three interconnected infrastructures",
-    "text": "Three interconnected infrastructures\n\n\n\nHuma-Num\nFrench national infrastructure\nYour starting point\n\n\nDARIAH-EU\nPan-European network\n22 member states\n\n\nEOSC\nEuropean Open Science Cloud\nThe bigger picture"
+    "section": "",
+    "text": "Huma-Num\nFrench national infrastructure\nYour starting point\n\n\nDARIAH-EU\nPan-European network\n22 member states\n\n\nEOSC\nEuropean Open Science Cloud\nThe bigger picture"
   },
   {
     "objectID": "slides/index.html#what-is-huma-num",
     "href": "slides/index.html#what-is-huma-num",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "What is Huma-Num?",
-    "text": "What is Huma-Num?\nHuma-Num is a French Très Grande Infrastructure de Recherche (TGIR) dedicated to digital humanities.\n\n\n\nA TGIR (Very Large Research Infrastructure) is a national designation by the French Ministry of Higher Education and Research. Huma-Num is supported and hosted by CNRS (UAR 3598).\n\n\n\n\nCreated in 2013 from TGE Adonis (est. 2006)\nProvides tools, services, and community infrastructure for SSH researchers\nFrance’s national node for DARIAH-EU (DARIAH-FR)\nFrance is the host country of the DARIAH-ERIC secretariat"
+    "text": "What is Huma-Num?\nHuma-Num is a French Très Grande Infrastructure de Recherche (TGIR) dedicated to digital humanities.\n\n\n\n\n\n\nA TGIR (Very Large Research Infrastructure) is a national designation by the French Ministry of Higher Education and Research. Huma-Num is supported and hosted by CNRS (UAR 3598).\n\n\n\n\n\nCreated in 2013 from TGE Adonis (est. 2006)\nProvides tools, services, and community infrastructure for SSH researchers\nFrance’s national node for DARIAH-EU (DARIAH-FR)\nFrance is the host country of the DARIAH-ERIC secretariat"
   },
   {
     "objectID": "slides/index.html#the-data-lifecycle",
@@ -39,7 +39,7 @@
     "href": "slides/index.html#fair-data-principles",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "FAIR Data Principles",
-    "text": "FAIR Data Principles\n\n\n🔍 F\nFindable\nPersistent identifiers (DOI, ARK) + rich metadata\n\n🔓 A\nAccessible\nOpen protocols, clear access conditions\n\n🔗 I\nInteroperable\nShared vocabularies, ontologies, open formats\n\n♻️ R\nReusable\nClear licences, provenance documentation\n\n\n→ Wilkinson et al. (2016), Scientific Data | go-fair.org"
+    "text": "FAIR Data Principles\n\n\n\n🔍 F\nFindable\nPersistent identifiers (DOI, ARK) + rich metadata\n\n\n\n🔓 A\nAccessible\nOpen protocols, clear access conditions\n\n\n\n🔗 I\nInteroperable\nShared vocabularies, ontologies, open formats\n\n\n\n♻️ R\nReusable\nClear licences, provenance documentation\n\n\n\n\n→ Wilkinson et al. (2016), Scientific Data | go-fair.org"
   },
   {
     "objectID": "slides/index.html#key-services",
@@ -53,14 +53,14 @@
     "href": "slides/index.html#thematic-consortiums",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "Thematic Consortiums",
-    "text": "Thematic Consortiums\nHuma-Num structures its community through thematic consortiums — collaborative networks that share methodologies, produce guides, organise training, and build data repositories.\n\n\n🖼 PICTORIA — Images & visual sources\n📦 ARIANE — Archives science\n🏛 3D-SHS — 3D modelling\n🎭 CANEVAS — Performing arts\n🎵 MUSICA2 — Musicology\n\n⚗️ MASA+ — Archaeological data\n🗣 CORLI — Spoken language corpora\n🧬 SOLIFE — Biographical data\n🗺 PTM — Photogrammetry\n🏷 DISTAM — Heraldic & stamp data\n\n\n\n\n\nFor doctoral students: one or more consortiums may be directly relevant to your dissertation. Connecting early gives access to community expertise, methodological guides, and training events."
+    "text": "Thematic Consortiums\nHuma-Num structures its community through thematic consortiums — collaborative networks that share methodologies, produce guides, organise training, and build data repositories.\n\n\n🖼 PICTORIA — Images & visual sources\n📦 ARIANE — Archives science\n🏛 3D-SHS — 3D modelling\n🎭 CANEVAS — Performing arts\n🎵 MUSICA2 — Musicology\n\n⚗️ MASA+ — Archaeological data\n🗣 CORLI — Spoken language corpora\n🧬 SOLIFE — Biographical data\n🗺 PTM — Photogrammetry\n🏷 DISTAM — Heraldic & stamp data\n\n\n\n\n\n\n\n\nFor doctoral students: one or more consortiums may be directly relevant to your dissertation. Connecting early gives access to community expertise, methodological guides, and training events."
   },
   {
     "objectID": "slides/index.html#what-is-dariah",
     "href": "slides/index.html#what-is-dariah",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "What is DARIAH?",
-    "text": "What is DARIAH?\nDARIAH = Digital Research Infrastructure for the Arts and Humanities\n\nEuropean Research Infrastructure Consortium (ERIC) since August 2014\n22 Member States + cooperating partners\nHost country: France (secretariat in Paris, managed by Huma-Num)\nMission: empowering arts & humanities research communities with digital methods to create, connect, and share knowledge about culture and society\nPart of the ESFRI Roadmap of strategic European research infrastructures"
+    "text": "What is DARIAH?\nDARIAH = Digital Research Infrastructure for the Arts and Humanities\n\n\nEuropean Research Infrastructure Consortium (ERIC) since August 2014\n22 Member States + cooperating partners\nHost country: France (secretariat in Paris, managed by Huma-Num)\nMission: empowering arts & humanities research communities with digital methods to create, connect, and share knowledge about culture and society\nPart of the ESFRI Roadmap of strategic European research infrastructures"
   },
   {
     "objectID": "slides/index.html#four-strategic-pillars",
@@ -88,14 +88,14 @@
     "href": "slides/index.html#what-is-eosc",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "What is EOSC?",
-    "text": "What is EOSC?\nThe European Open Science Cloud is a flagship European Commission initiative: a federated environment for storing, sharing, and reusing research data across all disciplines.\n\nLaunched as a concept in 2016, operational since 2021\nBrings together research infrastructures, data repositories, and service providers from across Europe\nGoverned by the EOSC Association — a legal entity grouping research organisations\nFor the humanities: DARIAH and CLARIN are EOSC members and have integrated their services\nConnects to national data strategies (Plan national pour la science ouverte, etc.)"
+    "text": "What is EOSC?\nThe European Open Science Cloud is a flagship European Commission initiative: a federated environment for storing, sharing, and reusing research data across all disciplines.\n\n\nLaunched as a concept in 2016, operational since 2021\nBrings together research infrastructures, data repositories, and service providers from across Europe\nGoverned by the EOSC Association — a legal entity grouping research organisations\nFor the humanities: DARIAH and CLARIN are EOSC members and have integrated their services\nConnects to national data strategies (Plan national pour la science ouverte, etc.)"
   },
   {
     "objectID": "slides/index.html#eosc-for-humanities-researchers",
     "href": "slides/index.html#eosc-for-humanities-researchers",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "EOSC for Humanities Researchers",
-    "text": "EOSC for Humanities Researchers\n\nDiscoverability: your data deposited on NAKALA or via DARIAH/CLARIN nodes becomes searchable through the EOSC portal\nCross-disciplinary connections: find corpora, tools, and datasets alongside sciences\nPersistent identifiers: EOSC promotes PID-based data (DOI, ARK, ORCID) — what Huma-Num already does\nFAIR as a requirement: Horizon Europe grants increasingly require EOSC-compatible, FAIR data outputs\n\n\n\n\n\nThink of EOSC as the European commons for research data — Huma-Num, DARIAH, and CLARIN are France and the humanities’ contribution to that commons."
+    "text": "EOSC for Humanities Researchers\n\n\nDiscoverability: your data deposited on NAKALA or via DARIAH/CLARIN nodes becomes searchable through the EOSC portal\nCross-disciplinary connections: find corpora, tools, and datasets alongside sciences\nPersistent identifiers: EOSC promotes PID-based data (DOI, ARK, ORCID) — what Huma-Num already does\nFAIR as a requirement: Horizon Europe grants increasingly require EOSC-compatible, FAIR data outputs\n\n\n\n\n\n\n\n\nThink of EOSC as the European commons for research data — Huma-Num, DARIAH, and CLARIN are France and the humanities’ contribution to that commons."
   },
   {
     "objectID": "slides/index.html#the-ssh-open-marketplace",
@@ -123,7 +123,7 @@
     "href": "slides/index.html#practical-starting-points",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "Practical Starting Points",
-    "text": "Practical Starting Points\n\n📂 Deposit your data → NAKALA — FAIR, persistent, citable\n🔍 Find tools & workflows → SSH Marketplace\n📖 Train yourself → DARIAH Campus\n🤝 Join a consortium → Huma-Num consortiums\n🌐 Join a working group → DARIAH working groups\n📝 Write your DMP → DMP OPIDoR with consortium guidance\n\n\n\n\n\nAll these services are free for researchers affiliated with European universities and research institutions."
+    "text": "Practical Starting Points\n\n\n📂 Deposit your data → NAKALA — FAIR, persistent, citable\n🔍 Find tools & workflows → SSH Marketplace\n📖 Train yourself → DARIAH Campus\n🤝 Join a consortium → Huma-Num consortiums\n🌐 Join a working group → DARIAH working groups\n📝 Write your DMP → DMP OPIDoR with consortium guidance\n\n\n\n\n\n\n\n\nAll these services are free for researchers affiliated with European universities and research institutions."
   },
   {
     "objectID": "slides/index.html#key-links",
@@ -732,5 +732,12 @@
       "Session",
       "Slides"
     ]
+  },
+  {
+    "objectID": "slides/index.html",
+    "href": "slides/index.html",
+    "title": "Research Infrastructuresfor the Digital Humanities",
+    "section": "",
+    "text": "Research Infrastructures (RIs) are facilities, resources, and services that are used by the research community to conduct research and foster innovation.\n— European Commission\n\n\n\nThey can be physical (laboratories, telescopes) or digital (platforms, data repositories, services)\nFor the humanities, digital RIs provide tools to produce, share, and preserve research data\nThey are increasingly organised at European level, under the ESFRI roadmap\n\n\n\n\n\n\n\nFunding agencies (ANR, ERC, Horizon Europe) require Data Management Plans\nOpen access and open data are increasingly mandatory for publicly-funded research\nThese infrastructures provide free tools you may already need — or will need\nThey connect you to European research communities — especially valuable within UNITA\nThey offer training, workshops, and summer schools\nYour data deposited through them will still be findable in 20 years\n\n\n\n\n\n\n\n\n\nThink of research infrastructures as the library system of digital research: you don’t build it yourself, but knowing how to use it makes all the difference.\n\n\n\n\n\n\n\n\n\n\nHuma-Num\nFrench national infrastructure\nYour starting point\n\n\nDARIAH-EU\nPan-European network\n22 member states\n\n\nEOSC\nEuropean Open Science Cloud\nThe bigger picture"
   }
 ]
