@@ -55,18 +55,21 @@ This presentation introduces the major **European research infrastructures** for
 ### Part 3 · EOSC & the European Landscape
 
 - The **European Open Science Cloud**: ambition and reality
-- How Huma-Num, DARIAH, and **CLARIN** fit into EOSC
-- The **SSH Open Marketplace** as a shared discovery layer
+- How Huma-Num, DARIAH, **CLARIN**, and **CESSDA** fit into EOSC
+- The **SSH Open Marketplace** as a shared discovery layer — co-built by DARIAH, CLARIN, and CESSDA
 - What this means for your data and your research
 
 ---
 
 ## Quick Links
 
+:::: {.columns}
+::: {.column width="50%"}
 ### For the Session
 - [View Slides](slides.qmd)
 - [GitHub Repository](https://github.com/ujubib/Quarto_Huma-Num-UNITA)
-
+:::
+::: {.column width="50%"}
 ### Resources
 
 - [Huma-Num — Overview](resources/humanum.qmd)
@@ -74,9 +77,12 @@ This presentation introduces the major **European research infrastructures** for
 - [Huma-Num — Services & FAIR Data](resources/services.qmd)
 - [DARIAH-EU](resources/dariah.qmd)
 - [CLARIN ERIC](resources/clarin.qmd)
+- [CESSDA ERIC](resources/cessda.qmd)
 - [EOSC](resources/eosc.qmd)
 - [How They Connect](resources/connections.qmd)
 - [Bibliography & Links](resources/references.qmd)
+:::
+::::
 
 ---
 

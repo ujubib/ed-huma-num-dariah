@@ -1,6 +1,6 @@
 ---
 title: "Research Infrastructures<br>for the Digital Humanities"
-subtitle: "Huma-Num · DARIAH · EOSC"
+subtitle: "Huma-Num · DARIAH"
 author: "Julien Rabaud"
 institute: |
   Applied Mathematics Research Library · UPPA  
@@ -57,40 +57,51 @@ Think of research infrastructures as the **library system** of digital research:
 :::
 :::
 
-## Three interconnected infrastructures
+## Four interconnected infrastructures
 
 ::: {.columns}
-::: {.column width="33%"}
-![](https://www.huma-num.fr/wp-content/uploads/2021/01/HN_LOGO_COULEUR-RVB_Logo-scaled.jpg){height="70px" fig-alt="Huma-Num"}
+::: {.column width="25%"}
+![](/img/Huma-Num_Icon.png){height="70px" fig-alt="Huma-Num"}
 
 **Huma-Num**  
 French national infrastructure  
 *Your starting point*
 :::
-::: {.column width="33%"}
-![](https://www.dariah.eu/wp-content/uploads/2019/09/dariah_logo_color.png){height="70px" fig-alt="DARIAH"}
+::: {.column width="25%"}
+![](/img/dariah-eu.png){height="70px" fig-alt="DARIAH"}
 
 **DARIAH-EU**  
 Pan-European network  
 *22 member states*
 :::
-::: {.column width="33%"}
-![](https://www.eosc.eu/sites/default/files/inline-images/EOSC_logo_tag_0.png){height="70px" fig-alt="EOSC"}
+::: {.column width="25%"}
+![](/img/clarin-logo.png){height="70px" fig-alt="CLARIN"}
 
-**EOSC**  
-European Open Science Cloud  
-*The bigger picture*
+**CLARIN ERIC**  
+Language resources  
+*22 member states*
 :::
+::: {.column width="25%"}
+![](/img/CESSDA.jpg){height="70px" fig-alt="CESSDA"}
+
+**CESSDA ERIC**  
+Social science data  
+*23 member states*
+:::
+:::
+
+::: {.fragment}
+→ All are **EOSC members** and co-develop the **SSH Open Marketplace**
 :::
 
 # Part 1 · Huma-Num {background-color="#981b3e"}
 
 ## What is Huma-Num?
 
-**Huma-Num** is a French *Très Grande Infrastructure de Recherche* (TGIR) dedicated to digital humanities.
+**Huma-Num** is a French *Infrastructure de recherche « étoile »* (IR*) dedicated to digital humanities. ([source](https://www.huma-num.fr/quest-ce-que-l-ir-huma-num/))
 
 ::: {.callout-note appearance="minimal"}
-A **TGIR** (*Very Large Research Infrastructure*) is a national designation by the French Ministry of Higher Education and Research. Huma-Num is supported and hosted by **CNRS** (UAR 3598).
+A **IR\*** is a national designation by the French Ministry of Higher Education and Research. Huma-Num is supported and hosted by **CNRS** (UAR 3598).
 :::
 
 ::: {.incremental}
@@ -102,7 +113,7 @@ A **TGIR** (*Very Large Research Infrastructure*) is a national designation by t
 
 ## The Data Lifecycle
 
-![](https://www.huma-num.fr/wp-content/uploads/2022/05/Schema-de-la-vie-des-donnees-HN-2023-1024x205.png){fig-alt="Huma-Num data lifecycle" width="100%"}
+![](/img/Schema-COMPLET-EN.png){fig-alt="Huma-Num data lifecycle" width="100%"}
 
 **Collect → Process → Store → Share**
 
@@ -141,7 +152,7 @@ Clear licences, provenance documentation
 
 | Service | What it does | Link |
 |---------|-------------|------|
-| **NAKALA** | Deposit & publish FAIR research data (ARK identifiers) | [nakala.fr](https://nakala.fr) |
+| **NAKALA** | Deposit & publish FAIR research data (DOI identifiers) | [nakala.fr](https://nakala.fr) |
 | **Isidore** | Discover SSH publications & datasets | [isidore.science](https://isidore.science) |
 | **Stylo** | Semantic text editor for academic writing | [stylo.huma-num.fr](https://stylo.huma-num.fr) |
 | **Huma-Num Box** | Collaborative cloud storage (Nextcloud) | [box.huma-num.fr](https://box.huma-num.fr) |
@@ -149,22 +160,21 @@ Clear licences, provenance documentation
 
 ## Thematic Consortiums {.smaller}
 
-Huma-Num structures its community through **thematic consortiums** — collaborative networks that share methodologies, produce guides, organise training, and build data repositories.
+Huma-Num structures its community through [**thematic consortiums**](https://www.huma-num.fr/les-consortiums-hn/) — collaborative networks that share methodologies, produce guides, organise training, and build data repositories.
 
 ::: {.columns}
 ::: {.column width="50%"}
-🖼 **PICTORIA** — Images & visual sources  
-📦 **ARIANE** — Archives science  
-🏛 **3D-SHS** — 3D modelling  
-🎭 **CANEVAS** — Performing arts  
-🎵 **MUSICA2** — Musicology  
+**PICTORIA** — Images & visual sources  
+**ARIANE** — Archives science  
+**3DHN** — 3D modelling  
+**CANEVAS** — Performing arts  
+**MUSICA2** — Musicology  
 :::
 ::: {.column width="50%"}
-⚗️ **MASA+** — Archaeological data  
-🗣 **CORLI** — Spoken language corpora  
-🧬 **SOLIFE** — Biographical data  
-🗺 **PTM** — Photogrammetry  
-🏷 **DISTAM** — Heraldic & stamp data  
+**MASA+** — Archaeological data  
+**CORLI** — Spoken language corpora  
+**PTM** — Photogrammetry  
+**DISTAM** — Heraldic & stamp data  
 :::
 :::
 
@@ -183,7 +193,7 @@ Huma-Num structures its community through **thematic consortiums** — collabora
 - **22 Member States** + cooperating partners
 - Host country: **France** (secretariat in Paris, managed by Huma-Num)
 - Mission: *empowering arts & humanities research communities with digital methods to create, connect, and share knowledge about culture and society*
-- Part of the **ESFRI Roadmap** of strategic European research infrastructures
+- Part of the [**ESFRI Roadmap**](https://www.esfri.eu/esfri-roadmap) of strategic European research infrastructures
 :::
 
 ## Four Strategic Pillars
@@ -191,19 +201,19 @@ Huma-Num structures its community through **thematic consortiums** — collabora
 ```{=html}
 <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top:1rem;">
   <div style="background:rgba(255,255,255,0.12); border-left:4px solid #f5c518; padding:1rem; border-radius:6px;">
-    <strong>🔬 Research</strong><br>
+    <strong>Research</strong><br>
     Digital methods for arts & humanities — text analysis, data modelling, digital editions
   </div>
   <div style="background:rgba(255,255,255,0.12); border-left:4px solid #f5c518; padding:1rem; border-radius:6px;">
-    <strong>📚 Education & Training</strong><br>
+    <strong>Education & Training</strong><br>
     Building digital skills across the community — DARIAH Campus, summer schools
   </div>
   <div style="background:rgba(255,255,255,0.12); border-left:4px solid #f5c518; padding:1rem; border-radius:6px;">
-    <strong>📢 Advocacy</strong><br>
+    <strong>Advocacy</strong><br>
     Promoting open science and digital humanities in European research policy
   </div>
   <div style="background:rgba(255,255,255,0.12); border-left:4px solid #f5c518; padding:1rem; border-radius:6px;">
-    <strong>🏗️ Infrastructure</strong><br>
+    <strong>Infrastructure</strong><br>
     Developing and maintaining shared technical resources and interoperable services
   </div>
 </div>
@@ -263,7 +273,7 @@ The **European Open Science Cloud** is a flagship European Commission initiative
 - Launched as a concept in **2016**, operational since **2021**
 - Brings together **research infrastructures, data repositories, and service providers** from across Europe
 - Governed by the [EOSC Association](https://eosc.eu) — a legal entity grouping research organisations
-- For the humanities: DARIAH and CLARIN are **EOSC members** and have integrated their services
+- For SSH research: DARIAH, CLARIN, and CESSDA are **EOSC members** and have integrated their services
 - Connects to national data strategies (Plan national pour la science ouverte, etc.)
 :::
 
@@ -277,7 +287,7 @@ The **European Open Science Cloud** is a flagship European Commission initiative
 :::
 
 ::: {.fragment .callout-note appearance="minimal"}
-Think of EOSC as the **European commons** for research data — Huma-Num, DARIAH, and CLARIN are France and the humanities' **contribution** to that commons.
+Think of EOSC as the **European commons** for research data — Huma-Num, DARIAH, CLARIN, and CESSDA are France and the SSH community's **contribution** to that commons.
 :::
 
 ## The SSH Open Marketplace
@@ -295,26 +305,29 @@ What you can find:
 
 🔗 [marketplace.sshopencloud.eu](https://marketplace.sshopencloud.eu)
 
-## A Word on CLARIN
+## A Word on CLARIN & CESSDA
 
-**CLARIN ERIC** (*Common Language Resources and Technology Infrastructure*) is the third major SSH European infrastructure — focused on **language data, NLP tools, and text analysis**.
+Two further SSH ERICs complete the picture, alongside DARIAH:
 
 ::: {.columns}
-::: {.column width="55%"}
-Relevant even beyond linguistics:
+::: {.column width="50%"}
+**CLARIN ERIC** — language resources & NLP
 
 - **Historical newspaper corpora** — Named Entity Recognition
 - **Literary studies** — stylometric analysis, text encoding (TEI)
 - **Oral sources** — spoken language corpora (via CORLI / Huma-Num)
-:::
-::: {.column width="45%"}
-Key tools:
-
-- **VLO** — discover language resources
-- **Switchboard** — find NLP tools for your text
-- **WebLicht** — compose NLP workflows
 
 🔗 [clarin.eu](https://www.clarin.eu)
+:::
+::: {.column width="50%"}
+**CESSDA ERIC** — social science data archives
+
+- Surveys, censuses, electoral studies, panels
+- **Data Catalogue** — 40,000+ studies across Europe
+- **DMEG** — data management guide for SSH
+- French entry point: **PROGEDO / CDSP** (Sciences Po)
+
+🔗 [cessda.eu](https://www.cessda.eu)
 :::
 :::
 
@@ -323,26 +336,32 @@ Key tools:
 ```{mermaid}
 flowchart LR
     ESFRI["🇪🇺 ESFRI Roadmap"]
-    EOSC["EOSC\nEuropean Open\nScience Cloud"]
-    DARIAH["DARIAH-EU\nARTS & HUMANITIES"]
-    CLARIN["CLARIN ERIC\nLANGUAGE"]
-    MARKET["SSH Open\nMarketplace"]
+    EOSC["EOSC\nEuropean Open<br/>Science Cloud"]
+    DARIAH["DARIAH-EU<br/>ARTS & HUMANITIES"]
+    CLARIN["CLARIN ERIC<br/>LANGUAGE"]
+    CESSDA["CESSDA ERIC<br/>SOCIAL SCIENCE DATA"]
+    MARKET["SSH Open<br/>Marketplace"]
     HN["Huma-Num 🇫🇷"]
     DARIAH_FR["DARIAH-FR"]
     CLARIN_FR["CLARIN-FR"]
+    PROGEDO["PROGEDO 🇫🇷"]
     UPPA["UPPA · UNITA"]
 
     ESFRI --> DARIAH
     ESFRI --> CLARIN
+    ESFRI --> CESSDA
     DARIAH <--> EOSC
     CLARIN <--> EOSC
-    DARIAH <--> CLARIN
+    CESSDA <--> EOSC
     DARIAH --> MARKET
     CLARIN --> MARKET
+    CESSDA --> MARKET
     HN --> DARIAH_FR --> DARIAH
     HN --> CLARIN_FR --> CLARIN
+    PROGEDO --> CESSDA
     UPPA --> HN
     UPPA --> DARIAH
+    UPPA -.-> CESSDA
 ```
 
 # What's Next For You? {background-color="#003D7A"}
@@ -350,12 +369,13 @@ flowchart LR
 ## Practical Starting Points
 
 ::: {.incremental}
-1. 📂 **Deposit your data** → [NAKALA](https://nakala.fr) — FAIR, persistent, citable
-2. 🔍 **Find tools & workflows** → [SSH Marketplace](https://marketplace.sshopencloud.eu)
-3. 📖 **Train yourself** → [DARIAH Campus](https://campus.dariah.eu)
-4. 🤝 **Join a consortium** → [Huma-Num consortiums](https://www.huma-num.fr/les-consortiums-scientifiques/)
-5. 🌐 **Join a working group** → [DARIAH working groups](https://www.dariah.eu/activities/working-groups/)
-6. 📝 **Write your DMP** → [DMP OPIDoR](https://dmp.opidor.fr) with consortium guidance
+1. **Deposit your data** → [NAKALA](https://nakala.fr) — FAIR, persistent, citable
+2. **Find tools & workflows** → [SSH Marketplace](https://marketplace.sshopencloud.eu)
+3. **Train yourself** → [DARIAH Campus](https://campus.dariah.eu)
+4. **Join a consortium** → [Huma-Num consortiums](https://www.huma-num.fr/les-consortiums-scientifiques/)
+5. **Find social science data** → [CESSDA Data Catalogue](https://datacatalogue.cessda.eu) via PROGEDO
+6. **Join a working group** → [DARIAH working groups](https://www.dariah.eu/activities/working-groups/)
+7. **Write your DMP** → [DMP OPIDoR](https://dmp.opidor.fr) with consortium guidance
 :::
 
 ::: {.fragment .callout-note appearance="minimal"}
@@ -372,6 +392,8 @@ All these services are **free** for researchers affiliated with European univers
 | DARIAH | [dariah.eu](https://www.dariah.eu) |
 | DARIAH Campus | [campus.dariah.eu](https://campus.dariah.eu) |
 | CLARIN | [clarin.eu](https://www.clarin.eu) |
+| CESSDA | [cessda.eu](https://www.cessda.eu) |
+| CESSDA Data Catalogue | [datacatalogue.cessda.eu](https://datacatalogue.cessda.eu) |
 | SSH Marketplace | [marketplace.sshopencloud.eu](https://marketplace.sshopencloud.eu) |
 | EOSC | [eosc.eu](https://eosc.eu) |
 

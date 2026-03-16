@@ -12,32 +12,38 @@ European research infrastructure for the humanities is not a collection of isola
 flowchart LR
     EC["🇪🇺 European Commission\nHorizon Europe"]
     ESFRI["ESFRI Roadmap"]
-    EOSC["EOSC\nEuropean Open\nScience Cloud"]
-    DARIAH["DARIAH-EU\nArts & Humanities"]
-    CLARIN["CLARIN ERIC\nLanguage"]
-    MARKET["SSH Open\nMarketplace"]
-    HN["Huma-Num 🇫🇷\n(TGIR · CNRS)"]
+    EOSC["EOSC<br/>European Open\nScience Cloud"]
+    DARIAH["DARIAH-EU<br/>Arts & Humanities"]
+    CLARIN["CLARIN ERIC<br/>Language"]
+    CESSDA["CESSDA ERIC<br/>Social Science Data"]
+    MARKET["SSH Open<br/>Marketplace"]
+    HN["Huma-Num 🇫🇷<br/>(TGIR · CNRS)"]
     DARIAH_FR["DARIAH-FR"]
     CLARIN_FR["CLARIN-FR"]
+    PROGEDO["PROGEDO / CDSP 🇫🇷"]
     NAKALA["NAKALA"]
     ISIDORE["Isidore"]
-    UPPA["UPPA · UNITA\ndoctoral researchers"]
+    UPPA["UPPA · UNITA<br/>doctoral researchers"]
 
     EC --> ESFRI
     EC --> EOSC
     ESFRI --> DARIAH
     ESFRI --> CLARIN
+    ESFRI --> CESSDA
     DARIAH <--> EOSC
     CLARIN <--> EOSC
-    DARIAH <--> CLARIN
+    CESSDA <--> EOSC
+    CESSDA --> MARKET
     DARIAH --> MARKET
     CLARIN --> MARKET
     HN --> DARIAH_FR --> DARIAH
     HN --> CLARIN_FR --> CLARIN
+    PROGEDO --> CESSDA
     HN --> NAKALA --> EOSC
     HN --> ISIDORE
     UPPA --> HN
     UPPA --> DARIAH
+    UPPA -.-> CESSDA
 ```
 
 ---
@@ -53,27 +59,31 @@ Huma-Num sits at the **intersection of French national infrastructure and Europe
 
 For a French researcher, Huma-Num is the practical starting point for accessing the full European infrastructure.
 
+For social science data specifically, the French entry point to **CESSDA** is **PROGEDO** (coordinated with the CDSP at Sciences Po / CNRS), which operates independently from Huma-Num but in close alignment with it.
+
+For a French researcher, Huma-Num is the practical starting point for most of the European infrastructure — with PROGEDO as the complementary gateway for social science datasets.
 ---
 
-## DARIAH and CLARIN: Complementary, Not Competing
+## ## Three ERICs, One SSH Ecosystem
 
-| Dimension | DARIAH-EU | CLARIN ERIC |
-|-----------|-----------|-------------|
-| **Focus** | Arts & humanities broadly | Language resources & NLP tools |
-| **Scope** | Methods, training, advocacy, tools | Corpora, annotation, text analysis |
-| **Entry via France** | Huma-Num (DARIAH-FR) | Huma-Num (CLARIN-FR / CORLI) |
-| **Shared project** | SSH Open Marketplace | SSH Open Marketplace |
-| **EOSC membership** | Yes | Yes |
+| Dimension | DARIAH-EU | CLARIN ERIC | CESSDA ERIC |
+|-----------|-----------|-------------|-------------|
+| **Disciplinary focus** | Arts & humanities broadly | Language resources & NLP | Social science data archives |
+| **Typical data** | Digital editions, image corpora, cultural datasets | Annotated corpora, lexicons, spoken language | Surveys, censuses, electoral studies, panels |
+| **Key service** | DARIAH Campus, working groups | VLO, Switchboard, WebLicht | Data Catalogue, DMEG |
+| **French entry point** | Huma-Num (DARIAH-FR) | Huma-Num (CLARIN-FR / CORLI) | PROGEDO / CDSP |
+| **EOSC membership** | Yes | Yes | Yes |
+| **SSH Marketplace** | Co-developer | Co-developer | Co-developer |
 
-They are more complementary than competitive: many digital humanities projects use both — DARIAH for the community and methodological framework, CLARIN for language-specific tools and corpora.
+For many research projects — especially in history, sociology, or interdisciplinary SSH work — more than one of these infrastructures will be relevant simultaneously.
 
 ---
 
 ## EOSC as the Overarching Layer
 
-EOSC does not replace Huma-Num, DARIAH, or CLARIN — it **federates** them. The relationship is:
+EOSC does not replace Huma-Num, DARIAH, CLARIN, or CESSDA — it **federates** them. The relationship is:
 
-- Huma-Num / DARIAH / CLARIN each maintain their own governance and brand identity
+- Each infrastructure maintains its own governance, community, and brand identity
 - They contribute services, data, and tools that become **discoverable through EOSC**
 - EOSC provides **cross-disciplinary findability** and policy alignment (FAIR, open licences, PIDs)
 - Horizon Europe funding increasingly **requires** EOSC-compatible outputs — making awareness of this ecosystem practically important for grant applications
@@ -82,7 +92,7 @@ EOSC does not replace Huma-Num, DARIAH, or CLARIN — it **federates** them. The
 
 ## The SSH Open Marketplace: A Concrete Shared Layer
 
-The **[SSH Open Marketplace](https://marketplace.sshopencloud.eu)** is the most tangible expression of DARIAH–CLARIN collaboration, and is integrated into EOSC as the SSH discovery portal:
+The **[SSH Open Marketplace](https://marketplace.sshopencloud.eu)** is the most tangible expression of DARIAH–CLARIN–CESSDA collaboration, co-developed by the three ERICs and integrated into EOSC as the SSH discovery portal:
 
 | What you can find | Examples |
 |-------------------|---------|
@@ -100,6 +110,7 @@ The **[SSH Open Marketplace](https://marketplace.sshopencloud.eu)** is the most 
 | **Huma-Num** | TGIR (national) | France | DH broadly: data lifecycle, consortiums, services | — (is the entry point) |
 | **DARIAH-EU** | ERIC | 22 member states | Arts & humanities: methods, training, advocacy | Huma-Num (DARIAH-FR) |
 | **CLARIN ERIC** | ERIC | 22 member states | Language resources & NLP | Huma-Num (CLARIN-FR) |
+| **CESSDA ERIC** | ERIC | 23 member states | Social science data archives | PROGEDO / CDSP |
 | **EOSC** | EC initiative | European Union | All disciplines: open data, FAIR, interoperability | Huma-Num / CNRS |
 
 ---
@@ -111,5 +122,6 @@ As a doctoral student at UPPA or within UNITA, you are embedded in all these lay
 1. Use **Huma-Num** as your national gateway — tools, data deposit, consortiums
 2. Through Huma-Num, you are connected to **DARIAH-EU** and its working groups and training
 3. For text-based or corpus-based research, **CLARIN** tools are directly accessible
-4. Your data deposited via NAKALA becomes part of the **EOSC** federated ecosystem
-5. Writing a **DMP** or applying for a grant? Knowing these infrastructures is expected
+4. For quantitative or survey-based social science research, explore **CESSDA** via PROGEDO
+5. Your data deposited via NAKALA becomes part of the **EOSC** federated ecosystem
+6. Writing a **DMP** or applying for a grant? Knowing these infrastructures is expected

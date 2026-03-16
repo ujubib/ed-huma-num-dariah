@@ -1,0 +1,97 @@
+---
+title: "CESSDA ERIC"
+subtitle: "Consortium of European Social Science Data Archives"
+toc: true
+---
+
+## What is CESSDA?
+
+**CESSDA** (Consortium of European Social Science Data Archives) is a **European Research Infrastructure Consortium** that provides large-scale, integrated, and sustainable data services to the **social sciences**. Its mission is to promote social science research results and support national and international research and cooperation by bringing together social science data archives across Europe.
+
+::: {.callout-note}
+### Legal status
+CESSDA's origins stretch back to **1976**, making it one of the oldest European research collaboration frameworks in the social sciences. It became a formal legal entity in **2013** (CESSDA AS, a Norwegian limited company) and was granted **ERIC status** by the European Commission on **12 June 2017**. It is headquartered in **Bergen, Norway**, and is listed as an **ESFRI Landmark** since 2016. As of 2025, CESSDA counts **23 member countries** and 12 cooperating partners.
+:::
+
+---
+
+## Scope and Focus
+
+Where DARIAH covers the arts and humanities broadly and CLARIN focuses on language resources, CESSDA specialises in **quantitative and qualitative social science data**: surveys, censuses, election studies, longitudinal panels, administrative records.
+
+::: {.callout-tip}
+### For doctoral students in the social sciences
+If your research involves survey data, interview corpora, electoral data, longitudinal studies, or any form of social science dataset, CESSDA is likely your most direct European infrastructure. Its Data Catalogue indexes tens of thousands of studies across member archives.
+:::
+
+---
+
+## Key Services and Tools
+
+### CESSDA Data Catalogue (CDC)
+
+A unified discovery portal aggregating metadata from over 40,000 studies deposited across CESSDA's national Service Providers. Enables cross-national, comparative research by providing a single interface to datasets from across Europe.
+
+🔗 <https://datacatalogue.cessda.eu>
+
+---
+
+### CESSDA Data Management Expert Guide (DMEG)
+
+A comprehensive, practical guide to **Research Data Management and FAIR data principles**, specifically tailored to social science researchers. Covers the full data lifecycle: planning, collecting, processing, archiving, and sharing.
+
+🔗 <https://dmeg.cessda.eu>
+
+---
+
+### CESSDA Vocabulary Service
+
+A set of **controlled vocabularies** for documenting social science data, aligned with DDI (Data Documentation Initiative) standards. Used by Service Providers across Europe to ensure metadata interoperability and cross-archive discoverability.
+
+🔗 <https://vocabularies.cessda.eu>
+
+---
+
+### CESSDA Training
+
+CESSDA provides training events, webinars, and resources for researchers, data professionals, and archivists. Topics include research data management, data archiving, FAIR data, and CESSDA tools.
+
+🔗 <https://www.cessda.eu/Training>
+
+---
+
+## Service Providers: A National Archive Model
+
+CESSDA operates through **national Service Providers (SPs)** — designated archives or data centres in each member country that are responsible for data acquisition, curation, and dissemination within their national research community. Each SP also contributes to pan-European activities.
+
+Notable Service Providers include:
+- **GESIS** (Germany) — one of the largest social science data archives in Europe
+- **UK Data Service / UKDS** (United Kingdom)
+- **NSD** (Norway) — Norwegian Centre for Research Data
+- **DANS** (Netherlands) — Data Archiving and Networked Services
+- **SND** (Sweden) — Swedish National Data Service
+
+---
+
+## CESSDA and France
+
+France's CESSDA Service Provider is **PROGEDO** (*Production et accès aux données et aux terrains en sciences humaines et sociales*), a national infrastructure for SSH data. The Centre de données socio-politiques (**CDSP**, Sciences Po / CNRS UMS 828) plays a central operational role within PROGEDO for data documentation, dissemination, and European coordination.
+
+🔗 PROGEDO: <https://www.progedo.fr>  
+🔗 CDSP / data.sciencespo: <https://data.sciencespo.fr>
+
+---
+
+## CESSDA, DARIAH, CLARIN, and EOSC
+
+CESSDA is the **third pillar** of the SSH Open Marketplace alongside DARIAH and CLARIN. Together, the three ERICs cover the disciplinary breadth of the social sciences and humanities:
+
+| Infrastructure | Disciplinary focus |
+|---------------|-------------------|
+| **DARIAH-EU** | Arts & humanities broadly |
+| **CLARIN ERIC** | Language resources & NLP |
+| **CESSDA ERIC** | Social science data archives |
+
+All three are **EOSC members** and co-maintain the [SSH Open Marketplace](https://marketplace.sshopencloud.eu) as a joint discovery layer integrated into the European Open Science Cloud.
+
+🔗 <https://www.cessda.eu>

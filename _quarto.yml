@@ -48,6 +48,8 @@ website:
             href: resources/dariah.qmd
           - text: "CLARIN ERIC"
             href: resources/clarin.qmd
+          - text: "CESSDA ERIC"
+            href: resources/cessda.qmd
           - text: "EOSC"
             href: resources/eosc.qmd
           - text: "How They Connect"
