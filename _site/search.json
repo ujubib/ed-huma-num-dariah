@@ -3,29 +3,29 @@
     "objectID": "slides/index.html#what-are-research-infrastructures",
     "href": "slides/index.html#what-are-research-infrastructures",
     "title": "Research Infrastructuresfor the Digital Humanities",
-    "section": "",
-    "text": "Research Infrastructures (RIs) are facilities, resources, and services that are used by the research community to conduct research and foster innovation.\n— European Commission\n\n\n\nThey can be physical (laboratories, telescopes) or digital (platforms, data repositories, services)\nFor the humanities, digital RIs provide tools to produce, share, and preserve research data\nThey are increasingly organised at European level, under the ESFRI roadmap"
+    "section": "What are Research Infrastructures?",
+    "text": "What are Research Infrastructures?\n\nResearch Infrastructures (RIs) are facilities, resources, and services that are used by the research community to conduct research and foster innovation.\n— European Commission\n\n\nThey can be physical (laboratories, telescopes) or digital (platforms, data repositories, services)\nFor the humanities, digital RIs provide tools to produce, share, and preserve research data\nThey are increasingly organised at European level, under the ESFRI roadmap"
   },
   {
     "objectID": "slides/index.html#why-should-doctoral-students-care",
     "href": "slides/index.html#why-should-doctoral-students-care",
     "title": "Research Infrastructuresfor the Digital Humanities",
-    "section": "",
-    "text": "Funding agencies (ANR, ERC, Horizon Europe) require Data Management Plans\nOpen access and open data are increasingly mandatory for publicly-funded research\nThese infrastructures provide free tools you may already need — or will need\nThey connect you to European research communities — especially valuable within UNITA\nThey offer training, workshops, and summer schools\nYour data deposited through them will still be findable in 20 years\n\n\n\n\n\n\n\n\n\nThink of research infrastructures as the library system of digital research: you don’t build it yourself, but knowing how to use it makes all the difference."
+    "section": "Why should doctoral students care?",
+    "text": "Why should doctoral students care?\n\nFunding agencies (ANR, ERC, Horizon Europe) require Data Management Plans\nOpen access and open data are increasingly mandatory for publicly-funded research\nThese infrastructures provide free tools you may already need — or will need\nThey connect you to European research communities — especially valuable within UNITA\nThey offer training, workshops, and summer schools\nYour data deposited through them will still be findable in 20 years\n\n\n\n\n\nThink of research infrastructures as the library system of digital research: you don’t build it yourself, but knowing how to use it makes all the difference."
   },
   {
-    "objectID": "slides/index.html#three-interconnected-infrastructures",
-    "href": "slides/index.html#three-interconnected-infrastructures",
+    "objectID": "slides/index.html#four-interconnected-infrastructures",
+    "href": "slides/index.html#four-interconnected-infrastructures",
     "title": "Research Infrastructuresfor the Digital Humanities",
-    "section": "",
-    "text": "Huma-Num\nFrench national infrastructure\nYour starting point\n\n\nDARIAH-EU\nPan-European network\n22 member states\n\n\nEOSC\nEuropean Open Science Cloud\nThe bigger picture"
+    "section": "Four interconnected infrastructures",
+    "text": "Four interconnected infrastructures\n\n\n\nHuma-Num\nFrench national infrastructure\nYour starting point\n\n\nDARIAH-EU\nPan-European network\n22 member states\n\n\nCLARIN ERIC\nLanguage resources\n22 member states\n\n\nCESSDA ERIC\nSocial science data\n23 member states\n\n\n→ All are EOSC members and co-develop the SSH Open Marketplace"
   },
   {
     "objectID": "slides/index.html#what-is-huma-num",
     "href": "slides/index.html#what-is-huma-num",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "What is Huma-Num?",
-    "text": "What is Huma-Num?\nHuma-Num is a French Très Grande Infrastructure de Recherche (TGIR) dedicated to digital humanities.\n\n\n\n\n\n\nA TGIR (Very Large Research Infrastructure) is a national designation by the French Ministry of Higher Education and Research. Huma-Num is supported and hosted by CNRS (UAR 3598).\n\n\n\n\n\nCreated in 2013 from TGE Adonis (est. 2006)\nProvides tools, services, and community infrastructure for SSH researchers\nFrance’s national node for DARIAH-EU (DARIAH-FR)\nFrance is the host country of the DARIAH-ERIC secretariat"
+    "text": "What is Huma-Num?\nHuma-Num is a French Infrastructure de recherche « étoile » (IR*) dedicated to digital humanities. (source)\n\n\n\nA IR* is a national designation by the French Ministry of Higher Education and Research. Huma-Num is supported and hosted by CNRS (UAR 3598).\n\n\n\n\nCreated in 2013 from TGE Adonis (est. 2006)\nProvides tools, services, and community infrastructure for SSH researchers\nFrance’s national node for DARIAH-EU (DARIAH-FR)\nFrance is the host country of the DARIAH-ERIC secretariat"
   },
   {
     "objectID": "slides/index.html#the-data-lifecycle",
@@ -39,35 +39,35 @@
     "href": "slides/index.html#fair-data-principles",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "FAIR Data Principles",
-    "text": "FAIR Data Principles\n\n\n\n🔍 F\nFindable\nPersistent identifiers (DOI, ARK) + rich metadata\n\n\n\n🔓 A\nAccessible\nOpen protocols, clear access conditions\n\n\n\n🔗 I\nInteroperable\nShared vocabularies, ontologies, open formats\n\n\n\n♻️ R\nReusable\nClear licences, provenance documentation\n\n\n\n\n→ Wilkinson et al. (2016), Scientific Data | go-fair.org"
+    "text": "FAIR Data Principles\n\n\n🔍 F\nFindable\nPersistent identifiers (DOI, ARK) + rich metadata\n\n🔓 A\nAccessible\nOpen protocols, clear access conditions\n\n🔗 I\nInteroperable\nShared vocabularies, ontologies, open formats\n\n♻️ R\nReusable\nClear licences, provenance documentation\n\n\n→ Wilkinson et al. (2016), Scientific Data | go-fair.org"
   },
   {
     "objectID": "slides/index.html#key-services",
     "href": "slides/index.html#key-services",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "Key Services",
-    "text": "Key Services\n\n\n\nService\nWhat it does\nLink\n\n\n\n\nNAKALA\nDeposit & publish FAIR research data (ARK identifiers)\nnakala.fr\n\n\nIsidore\nDiscover SSH publications & datasets\nisidore.science\n\n\nStylo\nSemantic text editor for academic writing\nstylo.huma-num.fr\n\n\nHuma-Num Box\nCollaborative cloud storage (Nextcloud)\nbox.huma-num.fr\n\n\nVirtual Machines\nOn-demand computing environments for projects\nhuma-num.fr/services"
+    "text": "Key Services\n\n\n\nService\nWhat it does\nLink\n\n\n\n\nNAKALA\nDeposit & publish FAIR research data (DOI identifiers)\nnakala.fr\n\n\nIsidore\nDiscover SSH publications & datasets\nisidore.science\n\n\nStylo\nSemantic text editor for academic writing\nstylo.huma-num.fr\n\n\nHuma-Num Box\nCollaborative cloud storage (Nextcloud)\nbox.huma-num.fr\n\n\nVirtual Machines\nOn-demand computing environments for projects\nhuma-num.fr/services"
   },
   {
     "objectID": "slides/index.html#thematic-consortiums",
     "href": "slides/index.html#thematic-consortiums",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "Thematic Consortiums",
-    "text": "Thematic Consortiums\nHuma-Num structures its community through thematic consortiums — collaborative networks that share methodologies, produce guides, organise training, and build data repositories.\n\n\n🖼 PICTORIA — Images & visual sources\n📦 ARIANE — Archives science\n🏛 3D-SHS — 3D modelling\n🎭 CANEVAS — Performing arts\n🎵 MUSICA2 — Musicology\n\n⚗️ MASA+ — Archaeological data\n🗣 CORLI — Spoken language corpora\n🧬 SOLIFE — Biographical data\n🗺 PTM — Photogrammetry\n🏷 DISTAM — Heraldic & stamp data\n\n\n\n\n\n\n\n\nFor doctoral students: one or more consortiums may be directly relevant to your dissertation. Connecting early gives access to community expertise, methodological guides, and training events."
+    "text": "Thematic Consortiums\nHuma-Num structures its community through thematic consortiums (Consortiums-HN) — labelled for four-year periods, evaluated by the Scientific Council, max. 12 active at a time.\n\n\npictorIA — Visual corpora & AI (2024)\nARIANE — AI & digital scholarly editions (2023)\nPTM — Geohistorical data & Time Machine (2023)\nMASAplus — Archaeological data & Linked Open Data (2023)\nDISTAM — Non-Latin scripts & area studies (2022)\n\nCANEVAS — Video corpora annotation (2022)\nMUSICA 2 — Musicology & digital music (2022)\nCORLI 2 — Language corpora · CLARIN Centre-K (2022)\n3DHN — 3D data for humanities & heritage (2024)\n\n\n\n\n\nFor doctoral students: one or more consortiums may be directly relevant to your dissertation. Connecting early gives access to community expertise, methodological guides, and training events.\n🔗 huma-num.fr/les-consortiums-hn"
   },
   {
     "objectID": "slides/index.html#what-is-dariah",
     "href": "slides/index.html#what-is-dariah",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "What is DARIAH?",
-    "text": "What is DARIAH?\nDARIAH = Digital Research Infrastructure for the Arts and Humanities\n\n\nEuropean Research Infrastructure Consortium (ERIC) since August 2014\n22 Member States + cooperating partners\nHost country: France (secretariat in Paris, managed by Huma-Num)\nMission: empowering arts & humanities research communities with digital methods to create, connect, and share knowledge about culture and society\nPart of the ESFRI Roadmap of strategic European research infrastructures"
+    "text": "What is DARIAH?\nDARIAH = Digital Research Infrastructure for the Arts and Humanities\n\nEuropean Research Infrastructure Consortium (ERIC) since August 2014\n22 Member States + cooperating partners\nHost country: France (secretariat in Paris, managed by Huma-Num)\nMission: empowering arts & humanities research communities with digital methods to create, connect, and share knowledge about culture and society\nPart of the ESFRI Roadmap of strategic European research infrastructures"
   },
   {
     "objectID": "slides/index.html#four-strategic-pillars",
     "href": "slides/index.html#four-strategic-pillars",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "Four Strategic Pillars",
-    "text": "Four Strategic Pillars\n\n  \n    🔬 Research\n    Digital methods for arts & humanities — text analysis, data modelling, digital editions\n  \n  \n    📚 Education & Training\n    Building digital skills across the community — DARIAH Campus, summer schools\n  \n  \n    📢 Advocacy\n    Promoting open science and digital humanities in European research policy\n  \n  \n    🏗️ Infrastructure\n    Developing and maintaining shared technical resources and interoperable services"
+    "text": "Four Strategic Pillars\n\n  \n    Research\n    Digital methods for arts & humanities — text analysis, data modelling, digital editions\n  \n  \n    Education & Training\n    Building digital skills across the community — DARIAH Campus, summer schools\n  \n  \n    Advocacy\n    Promoting open science and digital humanities in European research policy\n  \n  \n    Infrastructure\n    Developing and maintaining shared technical resources and interoperable services"
   },
   {
     "objectID": "slides/index.html#tools-and-platforms",
@@ -88,14 +88,14 @@
     "href": "slides/index.html#what-is-eosc",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "What is EOSC?",
-    "text": "What is EOSC?\nThe European Open Science Cloud is a flagship European Commission initiative: a federated environment for storing, sharing, and reusing research data across all disciplines.\n\n\nLaunched as a concept in 2016, operational since 2021\nBrings together research infrastructures, data repositories, and service providers from across Europe\nGoverned by the EOSC Association — a legal entity grouping research organisations\nFor the humanities: DARIAH and CLARIN are EOSC members and have integrated their services\nConnects to national data strategies (Plan national pour la science ouverte, etc.)"
+    "text": "What is EOSC?\nThe European Open Science Cloud is a flagship European Commission initiative: a federated environment for storing, sharing, and reusing research data across all disciplines.\n\nLaunched as a concept in 2016, operational since 2021\nBrings together research infrastructures, data repositories, and service providers from across Europe\nGoverned by the EOSC Association — a legal entity grouping research organisations\nFor SSH research: DARIAH, CLARIN, and CESSDA are EOSC members and have integrated their services\nConnects to national data strategies (Plan national pour la science ouverte, etc.)"
   },
   {
     "objectID": "slides/index.html#eosc-for-humanities-researchers",
     "href": "slides/index.html#eosc-for-humanities-researchers",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "EOSC for Humanities Researchers",
-    "text": "EOSC for Humanities Researchers\n\n\nDiscoverability: your data deposited on NAKALA or via DARIAH/CLARIN nodes becomes searchable through the EOSC portal\nCross-disciplinary connections: find corpora, tools, and datasets alongside sciences\nPersistent identifiers: EOSC promotes PID-based data (DOI, ARK, ORCID) — what Huma-Num already does\nFAIR as a requirement: Horizon Europe grants increasingly require EOSC-compatible, FAIR data outputs\n\n\n\n\n\n\n\n\nThink of EOSC as the European commons for research data — Huma-Num, DARIAH, and CLARIN are France and the humanities’ contribution to that commons."
+    "text": "EOSC for Humanities Researchers\n\nDiscoverability: your data deposited on NAKALA or via DARIAH/CLARIN nodes becomes searchable through the EOSC portal\nCross-disciplinary connections: find corpora, tools, and datasets alongside sciences\nPersistent identifiers: EOSC promotes PID-based data (DOI, ARK, ORCID) — what Huma-Num already does\nFAIR as a requirement: Horizon Europe grants increasingly require EOSC-compatible, FAIR data outputs\n\n\n\n\n\nThink of EOSC as the European commons for research data — Huma-Num, DARIAH, CLARIN, and CESSDA are France and the SSH community’s contribution to that commons."
   },
   {
     "objectID": "slides/index.html#the-ssh-open-marketplace",
@@ -105,32 +105,32 @@
     "text": "The SSH Open Marketplace\nA shared discovery portal co-developed by DARIAH, CLARIN, and CESSDA — and integrated into EOSC.\nWhat you can find:\n\n\n\nCategory\nExamples\n\n\n\n\nTools & Services\nAnnotation tools, text editors, OCR\n\n\nTraining materials\nTutorials, slides, course modules\n\n\nDatasets\nCorpora, archives, digitised collections\n\n\nWorkflows\nDocumented research method descriptions\n\n\n\n🔗 marketplace.sshopencloud.eu"
   },
   {
-    "objectID": "slides/index.html#a-word-on-clarin",
-    "href": "slides/index.html#a-word-on-clarin",
+    "objectID": "slides/index.html#a-word-on-clarin-cessda",
+    "href": "slides/index.html#a-word-on-clarin-cessda",
     "title": "Research Infrastructuresfor the Digital Humanities",
-    "section": "A Word on CLARIN",
-    "text": "A Word on CLARIN\nCLARIN ERIC (Common Language Resources and Technology Infrastructure) is the third major SSH European infrastructure — focused on language data, NLP tools, and text analysis.\n\n\nRelevant even beyond linguistics:\n\nHistorical newspaper corpora — Named Entity Recognition\nLiterary studies — stylometric analysis, text encoding (TEI)\nOral sources — spoken language corpora (via CORLI / Huma-Num)\n\n\nKey tools:\n\nVLO — discover language resources\nSwitchboard — find NLP tools for your text\nWebLicht — compose NLP workflows\n\n🔗 clarin.eu"
+    "section": "A Word on CLARIN & CESSDA",
+    "text": "A Word on CLARIN & CESSDA\nTwo further SSH ERICs complete the picture, alongside DARIAH:\n\n\nCLARIN ERIC — language resources & NLP\n\nHistorical newspaper corpora — Named Entity Recognition\nLiterary studies — stylometric analysis, text encoding (TEI)\nOral sources — spoken language corpora (via CORLI / Huma-Num)\n\n🔗 clarin.eu\n\nCESSDA ERIC — social science data archives\n\nSurveys, censuses, electoral studies, panels\nData Catalogue — 40,000+ studies across Europe\nDMEG — data management guide for SSH\nFrench entry point: PROGEDO / CDSP (Sciences Po)\n\n🔗 cessda.eu"
   },
   {
     "objectID": "slides/index.html#the-full-picture",
     "href": "slides/index.html#the-full-picture",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "The Full Picture",
-    "text": "The Full Picture\n\n\n\n\n\nflowchart LR\n    ESFRI[\"🇪🇺 ESFRI Roadmap\"]\n    EOSC[\"EOSC\\nEuropean Open\\nScience Cloud\"]\n    DARIAH[\"DARIAH-EU\\nARTS & HUMANITIES\"]\n    CLARIN[\"CLARIN ERIC\\nLANGUAGE\"]\n    MARKET[\"SSH Open\\nMarketplace\"]\n    HN[\"Huma-Num 🇫🇷\"]\n    DARIAH_FR[\"DARIAH-FR\"]\n    CLARIN_FR[\"CLARIN-FR\"]\n    UPPA[\"UPPA · UNITA\"]\n\n    ESFRI --&gt; DARIAH\n    ESFRI --&gt; CLARIN\n    DARIAH &lt;--&gt; EOSC\n    CLARIN &lt;--&gt; EOSC\n    DARIAH &lt;--&gt; CLARIN\n    DARIAH --&gt; MARKET\n    CLARIN --&gt; MARKET\n    HN --&gt; DARIAH_FR --&gt; DARIAH\n    HN --&gt; CLARIN_FR --&gt; CLARIN\n    UPPA --&gt; HN\n    UPPA --&gt; DARIAH"
+    "text": "The Full Picture\n\n\n\n\n\nflowchart LR\n    ESFRI[\"🇪🇺 ESFRI Roadmap\"]\n    EOSC[\"EOSC&lt;br/&gt;European Open Science Cloud\"]\n    DARIAH[\"DARIAH-EU&lt;br/&gt;ARTS & HUMANITIES\"]\n    CLARIN[\"CLARIN ERIC&lt;br/&gt;LANGUAGE\"]\n    CESSDA[\"CESSDA ERIC&lt;br/&gt;SOCIAL SCIENCE DATA\"]\n    MARKET[\"SSH Open&lt;br/&gt;Marketplace\"]\n    HN[\"Huma-Num 🇫🇷\"]\n    DARIAH_FR[\"DARIAH-FR\"]\n    CLARIN_FR[\"CLARIN-FR\"]\n    PROGEDO[\"PROGEDO 🇫🇷\"]\n    UPPA[\"UPPA · UNITA\"]\n\n    ESFRI --&gt; DARIAH\n    ESFRI --&gt; CLARIN\n    ESFRI --&gt; CESSDA\n    DARIAH &lt;--&gt; EOSC\n    CLARIN &lt;--&gt; EOSC\n    CESSDA &lt;--&gt; EOSC\n    DARIAH --&gt; MARKET\n    CLARIN --&gt; MARKET\n    CESSDA --&gt; MARKET\n    HN --&gt; DARIAH_FR --&gt; DARIAH\n    HN --&gt; CLARIN_FR --&gt; CLARIN\n    PROGEDO --&gt; CESSDA\n    UPPA --&gt; HN\n    UPPA --&gt; DARIAH\n    UPPA -.-&gt; CESSDA"
   },
   {
     "objectID": "slides/index.html#practical-starting-points",
     "href": "slides/index.html#practical-starting-points",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "Practical Starting Points",
-    "text": "Practical Starting Points\n\n\n📂 Deposit your data → NAKALA — FAIR, persistent, citable\n🔍 Find tools & workflows → SSH Marketplace\n📖 Train yourself → DARIAH Campus\n🤝 Join a consortium → Huma-Num consortiums\n🌐 Join a working group → DARIAH working groups\n📝 Write your DMP → DMP OPIDoR with consortium guidance\n\n\n\n\n\n\n\n\nAll these services are free for researchers affiliated with European universities and research institutions."
+    "text": "Practical Starting Points\n\nDeposit your data → NAKALA — FAIR, persistent, citable\nFind tools & workflows → SSH Marketplace\nTrain yourself → DARIAH Campus\nJoin a consortium → Huma-Num consortiums\nFind social science data → CESSDA Data Catalogue via PROGEDO\nJoin a working group → DARIAH working groups\nWrite your DMP → DMP OPIDoR with consortium guidance\n\n\n\n\n\nAll these services are free for researchers affiliated with European universities and research institutions."
   },
   {
     "objectID": "slides/index.html#key-links",
     "href": "slides/index.html#key-links",
     "title": "Research Infrastructuresfor the Digital Humanities",
     "section": "Key Links",
-    "text": "Key Links\n\n\n\nResource\nURL\n\n\n\n\nHuma-Num\nhuma-num.fr\n\n\nNAKALA\nnakala.fr\n\n\nIsidore\nisidore.science\n\n\nDARIAH\ndariah.eu\n\n\nDARIAH Campus\ncampus.dariah.eu\n\n\nCLARIN\nclarin.eu\n\n\nSSH Marketplace\nmarketplace.sshopencloud.eu\n\n\nEOSC\neosc.eu"
+    "text": "Key Links\n\n\n\nResource\nURL\n\n\n\n\nHuma-Num\nhuma-num.fr\n\n\nNAKALA\nnakala.fr\n\n\nIsidore\nisidore.science\n\n\nDARIAH\ndariah.eu\n\n\nDARIAH Campus\ncampus.dariah.eu\n\n\nCLARIN\nclarin.eu\n\n\nCESSDA\ncessda.eu\n\n\nCESSDA Data Catalogue\ndatacatalogue.cessda.eu\n\n\nSSH Marketplace\nmarketplace.sshopencloud.eu\n\n\nEOSC\neosc.eu"
   },
   {
     "objectID": "slides/index.html#thank-you",
@@ -144,7 +144,18 @@
     "href": "resources/services.html",
     "title": "Services & FAIR Data",
     "section": "",
-    "text": "The FAIR principles — Findable, Accessible, Interoperable, Reusable — are central to Huma-Num’s mission and to open science policy in France and Europe.\n\n\n\n\n\n\nNote\n\n\n\nSince 2021, the Plan national pour la science ouverte requires that research data from publicly-funded projects be deposited in open, FAIR-compliant repositories. Horizon Europe grants impose similar requirements at the European level.\n\n\n🔗 go-fair.org/fair-principles · DMP OPIDoR",
+    "text": "All Huma-Num services are thoroughly documented on the official documentation portal:\n\n\n\n\n\n\nTip📖 documentation.huma-num.fr\n\n\n\n🔗 https://documentation.huma-num.fr\nThis is the authoritative reference for every service described on this page — tutorials, usage conditions, quotas, and contact information. Always start here when you encounter a problem or want to go further with any service.\nAccess to most web-based services (ShareDocs, GitLab, Mattermost, NAKALA, Isidore, Kanboard…) is managed via HumanID, the centralised authentication service: https://humanid.huma-num.fr",
+    "crumbs": [
+      "Huma-Num",
+      "Services & FAIR Data"
+    ]
+  },
+  {
+    "objectID": "resources/services.html#the-documentation",
+    "href": "resources/services.html#the-documentation",
+    "title": "Services & FAIR Data",
+    "section": "",
+    "text": "All Huma-Num services are thoroughly documented on the official documentation portal:\n\n\n\n\n\n\nTip📖 documentation.huma-num.fr\n\n\n\n🔗 https://documentation.huma-num.fr\nThis is the authoritative reference for every service described on this page — tutorials, usage conditions, quotas, and contact information. Always start here when you encounter a problem or want to go further with any service.\nAccess to most web-based services (ShareDocs, GitLab, Mattermost, NAKALA, Isidore, Kanboard…) is managed via HumanID, the centralised authentication service: https://humanid.huma-num.fr",
     "crumbs": [
       "Huma-Num",
       "Services & FAIR Data"
@@ -154,8 +165,8 @@
     "objectID": "resources/services.html#fair-principles-in-practice",
     "href": "resources/services.html#fair-principles-in-practice",
     "title": "Services & FAIR Data",
-    "section": "",
-    "text": "The FAIR principles — Findable, Accessible, Interoperable, Reusable — are central to Huma-Num’s mission and to open science policy in France and Europe.\n\n\n\n\n\n\nNote\n\n\n\nSince 2021, the Plan national pour la science ouverte requires that research data from publicly-funded projects be deposited in open, FAIR-compliant repositories. Horizon Europe grants impose similar requirements at the European level.\n\n\n🔗 go-fair.org/fair-principles · DMP OPIDoR",
+    "section": "FAIR Principles in Practice",
+    "text": "FAIR Principles in Practice\nThe FAIR principles — Findable, Accessible, Interoperable, Reusable — are central to Huma-Num’s mission and to open science policy in France and Europe.\n\n\n\n\n\n\nNote\n\n\n\nSince 2021, the Plan national pour la science ouverte requires that research data from publicly-funded projects be deposited in open, FAIR-compliant repositories. Horizon Europe grants impose similar requirements at the European level.\n\n\n🔗 go-fair.org/fair-principles · DMP OPIDoR",
     "crumbs": [
       "Huma-Num",
       "Services & FAIR Data"
@@ -166,7 +177,29 @@
     "href": "resources/services.html#core-services",
     "title": "Services & FAIR Data",
     "section": "Core Services",
-    "text": "Core Services\n\nNAKALA — Research Data Repository\nNAKALA is Huma-Num’s main data publishing platform. It allows researchers to deposit and share humanities research data openly, with:\n\nPersistent ARK identifiers for each deposited item\nRich metadata description (Dublin Core, custom schemas)\nOpen access licences (Creative Commons)\nFAIR-compliant infrastructure, connected to EOSC\n\n🔗 https://nakala.fr\n\n\n\nIsidore — Discovery Platform\nIsidore is a search and discovery engine aggregating open access scholarly publications, data, and resources in the humanities and social sciences. It harvests metadata from hundreds of French and international sources.\nKey features: semantic enrichment (thematic, geographical, temporal), multilingual search, integration with HAL, OpenEdition, NAKALA, and DARIAH services.\n🔗 https://isidore.science\n\n\n\nStylo — Semantic Text Editor\nStylo is a web-based semantic writing tool designed for academic writing in the humanities. It uses Markdown, YAML, and BibTeX to separate content from formatting, enabling rich export to HTML, PDF, XML-TEI, DOCX, and EPUB.\nOriginally developed by CRIHN (Université de Montréal) and maintained in partnership with Huma-Num.\n🔗 https://stylo.huma-num.fr\n\n\n\nHuma-Num Box\nA cloud storage solution (based on Nextcloud) for collaborative work on research projects. Provides file sharing, versioning, and basic collaborative editing for research teams.\n🔗 https://box.huma-num.fr\n\n\n\nVirtual Machines (HN-SSH)\nOn-demand virtual computing environments for projects that require custom software stacks, databases, or web services. Particularly useful for hosting digital editions, project databases, or web applications. Access via a project submission process.\n🔗 https://www.huma-num.fr/les-services-et-les-outils/\n\n\n\nSSH Open Marketplace\nCo-maintained with DARIAH and CLARIN, the SSH Open Marketplace is a discovery portal for tools, services, training materials, workflows, and datasets for the social sciences and humanities. Integrated into EOSC.\n🔗 https://marketplace.sshopencloud.eu",
+    "text": "Core Services\n\nNAKALA — Research Data Repository\nNAKALA is Huma-Num’s main data publishing platform. It allows researchers to deposit and share humanities research data openly, with:\n\nPersistent ARK identifiers for each deposited item\nRich metadata description (Dublin Core, custom schemas)\nOpen access licences (Creative Commons)\nFAIR-compliant infrastructure, connected to EOSC\nNAKALA-Press — generate a public-facing website with a custom nom.nakala.fr domain directly from a NAKALA collection\n\n🔗 https://nakala.fr · Documentation\n\n\n\nCOCOON — Oral Corpus Repository\nCOCOON (COllections de COrpus Oraux Numériques) is a specialised repository for oral and multimodal corpora, hosted by Huma-Num and managed in connection with the CORLI consortium. Unlike NAKALA, which is a general-purpose research data repository, COCOON is designed specifically for annotated speech data — interviews, conversations, fieldwork recordings — with metadata schemas adapted to oral material (speakers, languages, recording situations) and tools for managing the ethical and legal constraints inherent to this type of data (anonymisation, restricted access, consent). COCOON is integrated into the CLARIN infrastructure through CORLI’s Centre-K node.\n🔗 https://cocoon.huma-num.fr\n\n\n\nIsidore — Discovery Platform\nIsidore is a search and discovery engine aggregating open access scholarly publications, data, and resources in the humanities and social sciences. It harvests metadata from hundreds of French and international sources.\nKey features: semantic enrichment (thematic, geographical, temporal) in three languages (FR, EN, ES), multilingual search, integration with HAL, OpenEdition, NAKALA, and DARIAH services, using controlled vocabularies (LCSH, Data BnF, Pactols…).\n🔗 https://isidore.science · Documentation\n\n\n\nStylo — Semantic Text Editor\nStylo is a web-based semantic writing tool for academic writing in the humanities. It uses Markdown, YAML, and BibTeX to separate content from formatting, enabling rich export to HTML, PDF, XML-TEI, DOCX, and EPUB.\nOriginally developed by CRIHN (Université de Montréal) and maintained in partnership with Huma-Num.\n🔗 https://stylo.huma-num.fr · Documentation\n\n\n\nHuma-Num Box\nA cloud storage solution for large-volume, cold or warm data — designed for long-term preservation through replication across multiple sites in France (several terabytes). Distinct from ShareDocs (see below), which targets everyday collaborative file management.\n🔗 Documentation · Access via: cogrid@huma-num.fr\n\n\n\nVirtual Machines (HN-SSH)\nOn-demand virtual computing environments for projects requiring custom software stacks, databases, or web applications. Particularly useful for hosting digital editions, project databases, or web services over the long term. Access via project submission to the Comité de la grille.\n🔗 Documentation · Access via: cogrid@huma-num.fr",
+    "crumbs": [
+      "Huma-Num",
+      "Services & FAIR Data"
+    ]
+  },
+  {
+    "objectID": "resources/services.html#sharedocs-file-management-and-processing",
+    "href": "resources/services.html#sharedocs-file-management-and-processing",
+    "title": "Services & FAIR Data",
+    "section": "ShareDocs — File Management and Processing",
+    "text": "ShareDocs — File Management and Processing\nShareDocs is Huma-Num’s secure online file manager, based on the FileRun application. It is hosted on the French research network (RENATER/CNRS) — entirely within French jurisdiction, unlike commercial cloud services.\nIt can be used via a web browser, a WebDAV client, or a file synchronisation tool (e.g. NextCloud). Storage capacity goes up to ~1 terabyte per project account. Collaborative document editing is available via OnlyOffice (data stays on Huma-Num servers).\nKey uses: storing, organising, and sharing project files (photos, transcriptions, datasets); preparing files before deposit in NAKALA; collaborating with a team.\n🔗 https://sharedocs.huma-num.fr · Documentation\n\nProcessing Tools — hnTools_watchFolder\nOne of ShareDocs’ most powerful features is the watchFolder system: a directory within each ShareDocs account that triggers automated processing pipelines when a file is deposited. Results are delivered back into ShareDocs and the user is notified by email.\n\n\n\n\n\n\nNoteHow it works\n\n\n\nDrop a file into the appropriate subfolder → the system detects it, processes it, and returns the result. Source files are automatically deleted after 21 days.\n\n\n\n\n\n\n\n\n\n\nTool\nFunction\nNotes\n\n\n\n\nAbbyy FineReader (OCR)\nHigh-quality OCR on images and PDFs\nQuota-limited; contract valid to June 2026\n\n\nTesseract (OCR)\nOpen-source OCR, no quota\nMany languages supported\n\n\nWhisper (speech-to-text)\nAudio/video transcription\nModels: small / medium / large / with_speaker; data stays on CNRS/IN2P3 servers\n\n\nFFmpeg (transcoding)\nAudio and video format conversion\nMost codecs supported\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nThe Whisper transcription service is particularly useful for oral history, interview-based, or linguistic research. The with_speaker model adds speaker diarisation. Note that, like all generative AI tools, it can produce errors and hallucinations — always verify transcriptions.\n\n\n🔗 Documentation — Processing tools",
+    "crumbs": [
+      "Huma-Num",
+      "Services & FAIR Data"
+    ]
+  },
+  {
+    "objectID": "resources/services.html#other-services",
+    "href": "resources/services.html#other-services",
+    "title": "Services & FAIR Data",
+    "section": "Other Services",
+    "text": "Other Services\nHuma-Num provides a range of additional tools for collaboration, project management, data modelling, and text analysis. Most are accessible via HumanID.\n\nGitLab — Code and Script Repository\nHuma-Num’s own GitLab instance for hosting, versioning, and sharing code, scripts, and software. A sovereign alternative to GitHub, hosted on French research infrastructure. Public repositories are automatically referenced on code.gouv.fr (DINUM) and archived on Software Heritage (INRIA).\n🔗 https://gitlab.huma-num.fr · Documentation\n\n\n\nMattermost — Team Messaging\nA self-hosted, open-source instant messaging platform for research teams. Channel-based communication, file sharing, and notifications — all within the Huma-Num infrastructure, without data leaving French servers.\n🔗 Documentation\n\n\n\nKanboard — Project Management\nA Kanban-based project management tool for organising tasks visually across a team. Supports task cards, deadlines, activity feeds, and access control. Useful for coordinating fieldwork, editorial workflows, or consortium activities.\n🔗 Documentation\n\n\n\nHeurist — Research Database Builder\nHeurist is an open-source tool for building richly structured relational databases without programming, entirely in a web browser. It was designed specifically for humanities and social science research, handling heterogeneous, interconnected entities (people, places, events, objects, sources, concepts).\nOriginally developed at the University of Sydney (Archaeological Computing Laboratory) by Ian Johnson; Huma-Num hosts a dedicated instance for French SSH research teams.\n🔗 https://heurist.huma-num.fr · Documentation\n\n\n\nTXM — Textometric Corpus Analysis\nTXM is a corpus analysis platform for textometric research — concordances, frequency lists, co-occurrence analysis, factorial correspondence analysis. Developed by UMR IHRIM / ENS de Lyon, it can process large annotated text corpora with a rich web interface.\nHuma-Num deploys dedicated TXM portals on virtual machines for research teams who need to host and publish their corpora online. Support and training are provided by IHRIM / ENS de Lyon.\n🔗 textometrie.org · Documentation · Requests: cogrid@huma-num.fr\n\n\n\nOpenTheso — Thesaurus Management\nOpenTheso is an open-source, multilingual thesaurus management system for creating, maintaining, and publishing controlled vocabularies aligned with the SKOS (Simple Knowledge Organization System) standard and linked open data principles. It is used by numerous Huma-Num consortiums and research projects — notably for Pactols, the multilingual thesaurus for ancient Mediterranean studies.\nEach term can be assigned a persistent URI, making vocabularies interoperable with other databases and repositories (NAKALA, Heurist, DARIAH services, etc.).\n🔗 https://opentheso.huma-num.fr · Documentation",
     "crumbs": [
       "Huma-Num",
       "Services & FAIR Data"
@@ -177,7 +210,7 @@
     "href": "resources/services.html#data-management-plans",
     "title": "Services & FAIR Data",
     "section": "Data Management Plans",
-    "text": "Data Management Plans\nFor doctoral researchers, a Data Management Plan (DMP) is increasingly required by funding bodies (ANR, ERC, Horizon Europe). Useful resources:\n\nDMP OPIDoR — the French national DMP tool (Inist-CNRS): dmp.opidor.fr\nConsortium-specific guidance for disciplinary data (available via each consortium)\nUPPA research data team: recherche.univ-pau.fr/donnees-de-la-recherche",
+    "text": "Data Management Plans\nFor doctoral researchers, a Data Management Plan (DMP) is increasingly required by funding bodies (ANR, ERC, Horizon Europe):\n\nDMP OPIDoR — the French national DMP tool (Inist-CNRS): dmp.opidor.fr\nConsortium-specific guidance available via each Huma-Num consortium\nUPPA research data team: recherche.univ-pau.fr/donnees-de-la-recherche",
     "crumbs": [
       "Huma-Num",
       "Services & FAIR Data"
@@ -188,7 +221,7 @@
     "href": "resources/services.html#access-for-uppa-researchers",
     "title": "Services & FAIR Data",
     "section": "Access for UPPA Researchers",
-    "text": "Access for UPPA Researchers\nHuma-Num services are primarily accessible to researchers affiliated with CNRS, universities, and research institutions in France. UPPA doctoral students can access most services through their institutional credentials.\nFor onboarding and questions, contact the UPPA research data service or your doctoral school administrator.",
+    "text": "Access for UPPA Researchers\nHuma-Num services are accessible to researchers affiliated with CNRS, universities, and research institutions in France. UPPA doctoral students can access most services. The process:\n\nCreate a HumanID account at humanid.huma-num.fr\nRequest access to the specific service(s) needed from your account\nFor services requiring project validation (virtual machines, TXM portals, Huma-Num Box), contact cogrid@huma-num.fr with a brief project description\nFor assistance once access is granted: assistance@huma-num.fr",
     "crumbs": [
       "Huma-Num",
       "Services & FAIR Data"
@@ -221,7 +254,7 @@
     "href": "resources/humanum.html#a-brief-history",
     "title": "Huma-Num",
     "section": "A Brief History",
-    "text": "A Brief History\n\n\n\n\n\n\n\nYear\nMilestone\n\n\n\n\n2006\nCreation of TGE Adonis (Très Grand Équipement) — predecessor to Huma-Num\n\n\n2013\nTransformation into Huma-Num as a TGIR\n\n\n2014\nFrance becomes the founding host country of DARIAH-ERIC\n\n\n2016\nIntegration into the French national open science strategy\n\n\n2021\nNew strategic roadmap; expanded European connections via EOSC",
+    "text": "A Brief History\n\n\n\n\n\n\n\nYear\nMilestone\n\n\n\n\n2006\nCreation of TGE Adonis (Très Grand Équipement) — predecessor to Huma-Num\n\n\n2013\nTransformation into Huma-Num as a TGIR\n\n\n2014\nFrance becomes the founding host country of DARIAH-ERIC\n\n\n2016\nIntegration into the French national open science strategy\n\n\n2021\nNew strategic roadmap; expanded European connections via EOSC\n\n\n2021\nTGIR -&gt; IR*",
     "crumbs": [
       "Huma-Num",
       "Overview"
@@ -342,7 +375,7 @@
     "href": "resources/connections.html",
     "title": "How They Connect",
     "section": "",
-    "text": "European research infrastructure for the humanities is not a collection of isolated platforms. Huma-Num, DARIAH, CLARIN, and EOSC are deeply interconnected — institutionally, technically, and politically.\n\n\n\n\n\nflowchart LR\n    EC[\"🇪🇺 European Commission\\nHorizon Europe\"]\n    ESFRI[\"ESFRI Roadmap\"]\n    EOSC[\"EOSC\\nEuropean Open\\nScience Cloud\"]\n    DARIAH[\"DARIAH-EU\\nArts & Humanities\"]\n    CLARIN[\"CLARIN ERIC\\nLanguage\"]\n    MARKET[\"SSH Open\\nMarketplace\"]\n    HN[\"Huma-Num 🇫🇷\\n(TGIR · CNRS)\"]\n    DARIAH_FR[\"DARIAH-FR\"]\n    CLARIN_FR[\"CLARIN-FR\"]\n    NAKALA[\"NAKALA\"]\n    ISIDORE[\"Isidore\"]\n    UPPA[\"UPPA · UNITA\\ndoctoral researchers\"]\n\n    EC --&gt; ESFRI\n    EC --&gt; EOSC\n    ESFRI --&gt; DARIAH\n    ESFRI --&gt; CLARIN\n    DARIAH &lt;--&gt; EOSC\n    CLARIN &lt;--&gt; EOSC\n    DARIAH &lt;--&gt; CLARIN\n    DARIAH --&gt; MARKET\n    CLARIN --&gt; MARKET\n    HN --&gt; DARIAH_FR --&gt; DARIAH\n    HN --&gt; CLARIN_FR --&gt; CLARIN\n    HN --&gt; NAKALA --&gt; EOSC\n    HN --&gt; ISIDORE\n    UPPA --&gt; HN\n    UPPA --&gt; DARIAH",
+    "text": "European research infrastructure for the humanities is not a collection of isolated platforms. Huma-Num, DARIAH, CLARIN, and EOSC are deeply interconnected — institutionally, technically, and politically.\n\n\n\n\n\nflowchart LR\n    EC[\"🇪🇺 European Commission\\nHorizon Europe\"]\n    ESFRI[\"ESFRI Roadmap\"]\n    EOSC[\"EOSC&lt;br/&gt;European Open\\nScience Cloud\"]\n    DARIAH[\"DARIAH-EU&lt;br/&gt;Arts & Humanities\"]\n    CLARIN[\"CLARIN ERIC&lt;br/&gt;Language\"]\n    CESSDA[\"CESSDA ERIC&lt;br/&gt;Social Science Data\"]\n    MARKET[\"SSH Open&lt;br/&gt;Marketplace\"]\n    HN[\"Huma-Num 🇫🇷&lt;br/&gt;(TGIR · CNRS)\"]\n    DARIAH_FR[\"DARIAH-FR\"]\n    CLARIN_FR[\"CLARIN-FR\"]\n    PROGEDO[\"PROGEDO / CDSP 🇫🇷\"]\n    NAKALA[\"NAKALA\"]\n    ISIDORE[\"Isidore\"]\n    UPPA[\"UPPA · UNITA&lt;br/&gt;doctoral researchers\"]\n\n    EC --&gt; ESFRI\n    EC --&gt; EOSC\n    ESFRI --&gt; DARIAH\n    ESFRI --&gt; CLARIN\n    ESFRI --&gt; CESSDA\n    DARIAH &lt;--&gt; EOSC\n    CLARIN &lt;--&gt; EOSC\n    CESSDA &lt;--&gt; EOSC\n    CESSDA --&gt; MARKET\n    DARIAH --&gt; MARKET\n    CLARIN --&gt; MARKET\n    HN --&gt; DARIAH_FR --&gt; DARIAH\n    HN --&gt; CLARIN_FR --&gt; CLARIN\n    PROGEDO --&gt; CESSDA\n    HN --&gt; NAKALA --&gt; EOSC\n    HN --&gt; ISIDORE\n    UPPA --&gt; HN\n    UPPA --&gt; DARIAH\n    UPPA -.-&gt; CESSDA",
     "crumbs": [
       "European Infrastructures",
       "How They Connect"
@@ -353,7 +386,7 @@
     "href": "resources/connections.html#the-ecosystem-at-a-glance",
     "title": "How They Connect",
     "section": "",
-    "text": "European research infrastructure for the humanities is not a collection of isolated platforms. Huma-Num, DARIAH, CLARIN, and EOSC are deeply interconnected — institutionally, technically, and politically.\n\n\n\n\n\nflowchart LR\n    EC[\"🇪🇺 European Commission\\nHorizon Europe\"]\n    ESFRI[\"ESFRI Roadmap\"]\n    EOSC[\"EOSC\\nEuropean Open\\nScience Cloud\"]\n    DARIAH[\"DARIAH-EU\\nArts & Humanities\"]\n    CLARIN[\"CLARIN ERIC\\nLanguage\"]\n    MARKET[\"SSH Open\\nMarketplace\"]\n    HN[\"Huma-Num 🇫🇷\\n(TGIR · CNRS)\"]\n    DARIAH_FR[\"DARIAH-FR\"]\n    CLARIN_FR[\"CLARIN-FR\"]\n    NAKALA[\"NAKALA\"]\n    ISIDORE[\"Isidore\"]\n    UPPA[\"UPPA · UNITA\\ndoctoral researchers\"]\n\n    EC --&gt; ESFRI\n    EC --&gt; EOSC\n    ESFRI --&gt; DARIAH\n    ESFRI --&gt; CLARIN\n    DARIAH &lt;--&gt; EOSC\n    CLARIN &lt;--&gt; EOSC\n    DARIAH &lt;--&gt; CLARIN\n    DARIAH --&gt; MARKET\n    CLARIN --&gt; MARKET\n    HN --&gt; DARIAH_FR --&gt; DARIAH\n    HN --&gt; CLARIN_FR --&gt; CLARIN\n    HN --&gt; NAKALA --&gt; EOSC\n    HN --&gt; ISIDORE\n    UPPA --&gt; HN\n    UPPA --&gt; DARIAH",
+    "text": "European research infrastructure for the humanities is not a collection of isolated platforms. Huma-Num, DARIAH, CLARIN, and EOSC are deeply interconnected — institutionally, technically, and politically.\n\n\n\n\n\nflowchart LR\n    EC[\"🇪🇺 European Commission\\nHorizon Europe\"]\n    ESFRI[\"ESFRI Roadmap\"]\n    EOSC[\"EOSC&lt;br/&gt;European Open\\nScience Cloud\"]\n    DARIAH[\"DARIAH-EU&lt;br/&gt;Arts & Humanities\"]\n    CLARIN[\"CLARIN ERIC&lt;br/&gt;Language\"]\n    CESSDA[\"CESSDA ERIC&lt;br/&gt;Social Science Data\"]\n    MARKET[\"SSH Open&lt;br/&gt;Marketplace\"]\n    HN[\"Huma-Num 🇫🇷&lt;br/&gt;(TGIR · CNRS)\"]\n    DARIAH_FR[\"DARIAH-FR\"]\n    CLARIN_FR[\"CLARIN-FR\"]\n    PROGEDO[\"PROGEDO / CDSP 🇫🇷\"]\n    NAKALA[\"NAKALA\"]\n    ISIDORE[\"Isidore\"]\n    UPPA[\"UPPA · UNITA&lt;br/&gt;doctoral researchers\"]\n\n    EC --&gt; ESFRI\n    EC --&gt; EOSC\n    ESFRI --&gt; DARIAH\n    ESFRI --&gt; CLARIN\n    ESFRI --&gt; CESSDA\n    DARIAH &lt;--&gt; EOSC\n    CLARIN &lt;--&gt; EOSC\n    CESSDA &lt;--&gt; EOSC\n    CESSDA --&gt; MARKET\n    DARIAH --&gt; MARKET\n    CLARIN --&gt; MARKET\n    HN --&gt; DARIAH_FR --&gt; DARIAH\n    HN --&gt; CLARIN_FR --&gt; CLARIN\n    PROGEDO --&gt; CESSDA\n    HN --&gt; NAKALA --&gt; EOSC\n    HN --&gt; ISIDORE\n    UPPA --&gt; HN\n    UPPA --&gt; DARIAH\n    UPPA -.-&gt; CESSDA",
     "crumbs": [
       "European Infrastructures",
       "How They Connect"
@@ -364,18 +397,29 @@
     "href": "resources/connections.html#huma-num-as-a-national-hub",
     "title": "How They Connect",
     "section": "Huma-Num as a National Hub",
-    "text": "Huma-Num as a National Hub\nHuma-Num sits at the intersection of French national infrastructure and European distributed networks:\n\nIt is France’s national DARIAH node (DARIAH-FR) and hosts the DARIAH-ERIC secretariat\nIt coordinates CLARIN-FR for spoken language and text corpora\nIts services (NAKALA, Isidore) are connected to EOSC and feed into European discovery layers\nIt participates in EOSC governance through CNRS and French open science policy\n\nFor a French researcher, Huma-Num is the practical starting point for accessing the full European infrastructure.",
+    "text": "Huma-Num as a National Hub\nHuma-Num sits at the intersection of French national infrastructure and European distributed networks:\n\nIt is France’s national DARIAH node (DARIAH-FR) and hosts the DARIAH-ERIC secretariat\nIt coordinates CLARIN-FR for spoken language and text corpora\nIts services (NAKALA, Isidore) are connected to EOSC and feed into European discovery layers\nIt participates in EOSC governance through CNRS and French open science policy\n\nFor a French researcher, Huma-Num is the practical starting point for accessing the full European infrastructure.\nFor social science data specifically, the French entry point to CESSDA is PROGEDO (coordinated with the CDSP at Sciences Po / CNRS), which operates independently from Huma-Num but in close alignment with it.",
     "crumbs": [
       "European Infrastructures",
       "How They Connect"
     ]
   },
   {
-    "objectID": "resources/connections.html#dariah-and-clarin-complementary-not-competing",
-    "href": "resources/connections.html#dariah-and-clarin-complementary-not-competing",
+    "objectID": "resources/connections.html#for-a-french-researcher-huma-num-is-the-practical-starting-point-for-most-of-the-european-infrastructure-with-progedo-as-the-complementary-gateway-for-social-science-datasets.",
+    "href": "resources/connections.html#for-a-french-researcher-huma-num-is-the-practical-starting-point-for-most-of-the-european-infrastructure-with-progedo-as-the-complementary-gateway-for-social-science-datasets.",
     "title": "How They Connect",
-    "section": "DARIAH and CLARIN: Complementary, Not Competing",
-    "text": "DARIAH and CLARIN: Complementary, Not Competing\n\n\n\n\n\n\n\n\nDimension\nDARIAH-EU\nCLARIN ERIC\n\n\n\n\nFocus\nArts & humanities broadly\nLanguage resources & NLP tools\n\n\nScope\nMethods, training, advocacy, tools\nCorpora, annotation, text analysis\n\n\nEntry via France\nHuma-Num (DARIAH-FR)\nHuma-Num (CLARIN-FR / CORLI)\n\n\nShared project\nSSH Open Marketplace\nSSH Open Marketplace\n\n\nEOSC membership\nYes\nYes\n\n\n\nThey are more complementary than competitive: many digital humanities projects use both — DARIAH for the community and methodological framework, CLARIN for language-specific tools and corpora.",
+    "section": "For a French researcher, Huma-Num is the practical starting point for most of the European infrastructure — with PROGEDO as the complementary gateway for social science datasets.",
+    "text": "For a French researcher, Huma-Num is the practical starting point for most of the European infrastructure — with PROGEDO as the complementary gateway for social science datasets.",
+    "crumbs": [
+      "European Infrastructures",
+      "How They Connect"
+    ]
+  },
+  {
+    "objectID": "resources/connections.html#three-erics-one-ssh-ecosystem",
+    "href": "resources/connections.html#three-erics-one-ssh-ecosystem",
+    "title": "How They Connect",
+    "section": "## Three ERICs, One SSH Ecosystem",
+    "text": "## Three ERICs, One SSH Ecosystem\n\n\n\n\n\n\n\n\n\nDimension\nDARIAH-EU\nCLARIN ERIC\nCESSDA ERIC\n\n\n\n\nDisciplinary focus\nArts & humanities broadly\nLanguage resources & NLP\nSocial science data archives\n\n\nTypical data\nDigital editions, image corpora, cultural datasets\nAnnotated corpora, lexicons, spoken language\nSurveys, censuses, electoral studies, panels\n\n\nKey service\nDARIAH Campus, working groups\nVLO, Switchboard, WebLicht\nData Catalogue, DMEG\n\n\nFrench entry point\nHuma-Num (DARIAH-FR)\nHuma-Num (CLARIN-FR / CORLI)\nPROGEDO / CDSP\n\n\nEOSC membership\nYes\nYes\nYes\n\n\nSSH Marketplace\nCo-developer\nCo-developer\nCo-developer\n\n\n\nFor many research projects — especially in history, sociology, or interdisciplinary SSH work — more than one of these infrastructures will be relevant simultaneously.",
     "crumbs": [
       "European Infrastructures",
       "How They Connect"
@@ -386,7 +430,7 @@
     "href": "resources/connections.html#eosc-as-the-overarching-layer",
     "title": "How They Connect",
     "section": "EOSC as the Overarching Layer",
-    "text": "EOSC as the Overarching Layer\nEOSC does not replace Huma-Num, DARIAH, or CLARIN — it federates them. The relationship is:\n\nHuma-Num / DARIAH / CLARIN each maintain their own governance and brand identity\nThey contribute services, data, and tools that become discoverable through EOSC\nEOSC provides cross-disciplinary findability and policy alignment (FAIR, open licences, PIDs)\nHorizon Europe funding increasingly requires EOSC-compatible outputs — making awareness of this ecosystem practically important for grant applications",
+    "text": "EOSC as the Overarching Layer\nEOSC does not replace Huma-Num, DARIAH, CLARIN, or CESSDA — it federates them. The relationship is:\n\nEach infrastructure maintains its own governance, community, and brand identity\nThey contribute services, data, and tools that become discoverable through EOSC\nEOSC provides cross-disciplinary findability and policy alignment (FAIR, open licences, PIDs)\nHorizon Europe funding increasingly requires EOSC-compatible outputs — making awareness of this ecosystem practically important for grant applications",
     "crumbs": [
       "European Infrastructures",
       "How They Connect"
@@ -397,7 +441,7 @@
     "href": "resources/connections.html#the-ssh-open-marketplace-a-concrete-shared-layer",
     "title": "How They Connect",
     "section": "The SSH Open Marketplace: A Concrete Shared Layer",
-    "text": "The SSH Open Marketplace: A Concrete Shared Layer\nThe SSH Open Marketplace is the most tangible expression of DARIAH–CLARIN collaboration, and is integrated into EOSC as the SSH discovery portal:\n\n\n\n\n\n\n\nWhat you can find\nExamples\n\n\n\n\nTools & services\nAnnotation tools, text editors, OCR, corpus builders\n\n\nTraining materials\nTutorials, course modules, summer school slides\n\n\nDatasets\nCorpora, digitised collections, encoded archives\n\n\nWorkflows\nStep-by-step research method documentation",
+    "text": "The SSH Open Marketplace: A Concrete Shared Layer\nThe SSH Open Marketplace is the most tangible expression of DARIAH–CLARIN–CESSDA collaboration, co-developed by the three ERICs and integrated into EOSC as the SSH discovery portal:\n\n\n\n\n\n\n\nWhat you can find\nExamples\n\n\n\n\nTools & services\nAnnotation tools, text editors, OCR, corpus builders\n\n\nTraining materials\nTutorials, course modules, summer school slides\n\n\nDatasets\nCorpora, digitised collections, encoded archives\n\n\nWorkflows\nStep-by-step research method documentation",
     "crumbs": [
       "European Infrastructures",
       "How They Connect"
@@ -408,7 +452,7 @@
     "href": "resources/connections.html#summary-table",
     "title": "How They Connect",
     "section": "Summary Table",
-    "text": "Summary Table\n\n\n\n\n\n\n\n\n\n\nInfrastructure\nType\nGeographic scope\nFocus\nFrench entry point\n\n\n\n\nHuma-Num\nTGIR (national)\nFrance\nDH broadly: data lifecycle, consortiums, services\n— (is the entry point)\n\n\nDARIAH-EU\nERIC\n22 member states\nArts & humanities: methods, training, advocacy\nHuma-Num (DARIAH-FR)\n\n\nCLARIN ERIC\nERIC\n22 member states\nLanguage resources & NLP\nHuma-Num (CLARIN-FR)\n\n\nEOSC\nEC initiative\nEuropean Union\nAll disciplines: open data, FAIR, interoperability\nHuma-Num / CNRS",
+    "text": "Summary Table\n\n\n\n\n\n\n\n\n\n\nInfrastructure\nType\nGeographic scope\nFocus\nFrench entry point\n\n\n\n\nHuma-Num\nTGIR (national)\nFrance\nDH broadly: data lifecycle, consortiums, services\n— (is the entry point)\n\n\nDARIAH-EU\nERIC\n22 member states\nArts & humanities: methods, training, advocacy\nHuma-Num (DARIAH-FR)\n\n\nCLARIN ERIC\nERIC\n22 member states\nLanguage resources & NLP\nHuma-Num (CLARIN-FR)\n\n\nCESSDA ERIC\nERIC\n23 member states\nSocial science data archives\nPROGEDO / CDSP\n\n\nEOSC\nEC initiative\nEuropean Union\nAll disciplines: open data, FAIR, interoperability\nHuma-Num / CNRS",
     "crumbs": [
       "European Infrastructures",
       "How They Connect"
@@ -419,10 +463,87 @@
     "href": "resources/connections.html#what-does-this-mean-for-your-research",
     "title": "How They Connect",
     "section": "What Does This Mean For Your Research?",
-    "text": "What Does This Mean For Your Research?\nAs a doctoral student at UPPA or within UNITA, you are embedded in all these layers:\n\nUse Huma-Num as your national gateway — tools, data deposit, consortiums\nThrough Huma-Num, you are connected to DARIAH-EU and its working groups and training\nFor text-based or corpus-based research, CLARIN tools are directly accessible\nYour data deposited via NAKALA becomes part of the EOSC federated ecosystem\nWriting a DMP or applying for a grant? Knowing these infrastructures is expected",
+    "text": "What Does This Mean For Your Research?\nAs a doctoral student at UPPA or within UNITA, you are embedded in all these layers:\n\nUse Huma-Num as your national gateway — tools, data deposit, consortiums\nThrough Huma-Num, you are connected to DARIAH-EU and its working groups and training\nFor text-based or corpus-based research, CLARIN tools are directly accessible\nFor quantitative or survey-based social science research, explore CESSDA via PROGEDO\nYour data deposited via NAKALA becomes part of the EOSC federated ecosystem\nWriting a DMP or applying for a grant? Knowing these infrastructures is expected",
     "crumbs": [
       "European Infrastructures",
       "How They Connect"
+    ]
+  },
+  {
+    "objectID": "resources/cessda.html",
+    "href": "resources/cessda.html",
+    "title": "CESSDA ERIC",
+    "section": "",
+    "text": "CESSDA (Consortium of European Social Science Data Archives) is a European Research Infrastructure Consortium that provides large-scale, integrated, and sustainable data services to the social sciences. Its mission is to promote social science research results and support national and international research and cooperation by bringing together social science data archives across Europe.\n\n\n\n\n\n\nNoteLegal status\n\n\n\nCESSDA’s origins stretch back to 1976, making it one of the oldest European research collaboration frameworks in the social sciences. It became a formal legal entity in 2013 (CESSDA AS, a Norwegian limited company) and was granted ERIC status by the European Commission on 12 June 2017. It is headquartered in Bergen, Norway, and is listed as an ESFRI Landmark since 2016. As of 2025, CESSDA counts 23 member countries and 12 cooperating partners.",
+    "crumbs": [
+      "European Infrastructures",
+      "CESSDA ERIC"
+    ]
+  },
+  {
+    "objectID": "resources/cessda.html#what-is-cessda",
+    "href": "resources/cessda.html#what-is-cessda",
+    "title": "CESSDA ERIC",
+    "section": "",
+    "text": "CESSDA (Consortium of European Social Science Data Archives) is a European Research Infrastructure Consortium that provides large-scale, integrated, and sustainable data services to the social sciences. Its mission is to promote social science research results and support national and international research and cooperation by bringing together social science data archives across Europe.\n\n\n\n\n\n\nNoteLegal status\n\n\n\nCESSDA’s origins stretch back to 1976, making it one of the oldest European research collaboration frameworks in the social sciences. It became a formal legal entity in 2013 (CESSDA AS, a Norwegian limited company) and was granted ERIC status by the European Commission on 12 June 2017. It is headquartered in Bergen, Norway, and is listed as an ESFRI Landmark since 2016. As of 2025, CESSDA counts 23 member countries and 12 cooperating partners.",
+    "crumbs": [
+      "European Infrastructures",
+      "CESSDA ERIC"
+    ]
+  },
+  {
+    "objectID": "resources/cessda.html#scope-and-focus",
+    "href": "resources/cessda.html#scope-and-focus",
+    "title": "CESSDA ERIC",
+    "section": "Scope and Focus",
+    "text": "Scope and Focus\nWhere DARIAH covers the arts and humanities broadly and CLARIN focuses on language resources, CESSDA specialises in quantitative and qualitative social science data: surveys, censuses, election studies, longitudinal panels, administrative records.\n\n\n\n\n\n\nTipFor doctoral students in the social sciences\n\n\n\nIf your research involves survey data, interview corpora, electoral data, longitudinal studies, or any form of social science dataset, CESSDA is likely your most direct European infrastructure. Its Data Catalogue indexes tens of thousands of studies across member archives.",
+    "crumbs": [
+      "European Infrastructures",
+      "CESSDA ERIC"
+    ]
+  },
+  {
+    "objectID": "resources/cessda.html#key-services-and-tools",
+    "href": "resources/cessda.html#key-services-and-tools",
+    "title": "CESSDA ERIC",
+    "section": "Key Services and Tools",
+    "text": "Key Services and Tools\n\nCESSDA Data Catalogue (CDC)\nA unified discovery portal aggregating metadata from over 40,000 studies deposited across CESSDA’s national Service Providers. Enables cross-national, comparative research by providing a single interface to datasets from across Europe.\n🔗 https://datacatalogue.cessda.eu\n\n\n\nCESSDA Data Management Expert Guide (DMEG)\nA comprehensive, practical guide to Research Data Management and FAIR data principles, specifically tailored to social science researchers. Covers the full data lifecycle: planning, collecting, processing, archiving, and sharing.\n🔗 https://dmeg.cessda.eu\n\n\n\nCESSDA Vocabulary Service\nA set of controlled vocabularies for documenting social science data, aligned with DDI (Data Documentation Initiative) standards. Used by Service Providers across Europe to ensure metadata interoperability and cross-archive discoverability.\n🔗 https://vocabularies.cessda.eu\n\n\n\nCESSDA Training\nCESSDA provides training events, webinars, and resources for researchers, data professionals, and archivists. Topics include research data management, data archiving, FAIR data, and CESSDA tools.\n🔗 https://www.cessda.eu/Training",
+    "crumbs": [
+      "European Infrastructures",
+      "CESSDA ERIC"
+    ]
+  },
+  {
+    "objectID": "resources/cessda.html#service-providers-a-national-archive-model",
+    "href": "resources/cessda.html#service-providers-a-national-archive-model",
+    "title": "CESSDA ERIC",
+    "section": "Service Providers: A National Archive Model",
+    "text": "Service Providers: A National Archive Model\nCESSDA operates through national Service Providers (SPs) — designated archives or data centres in each member country that are responsible for data acquisition, curation, and dissemination within their national research community. Each SP also contributes to pan-European activities.\nNotable Service Providers include: - GESIS (Germany) — one of the largest social science data archives in Europe - UK Data Service / UKDS (United Kingdom) - NSD (Norway) — Norwegian Centre for Research Data - DANS (Netherlands) — Data Archiving and Networked Services - SND (Sweden) — Swedish National Data Service",
+    "crumbs": [
+      "European Infrastructures",
+      "CESSDA ERIC"
+    ]
+  },
+  {
+    "objectID": "resources/cessda.html#cessda-and-france",
+    "href": "resources/cessda.html#cessda-and-france",
+    "title": "CESSDA ERIC",
+    "section": "CESSDA and France",
+    "text": "CESSDA and France\nFrance’s CESSDA Service Provider is PROGEDO (Production et accès aux données et aux terrains en sciences humaines et sociales), a national infrastructure for SSH data. The Centre de données socio-politiques (CDSP, Sciences Po / CNRS UMS 828) plays a central operational role within PROGEDO for data documentation, dissemination, and European coordination.\n🔗 PROGEDO: https://www.progedo.fr\n🔗 CDSP / data.sciencespo: https://data.sciencespo.fr",
+    "crumbs": [
+      "European Infrastructures",
+      "CESSDA ERIC"
+    ]
+  },
+  {
+    "objectID": "resources/cessda.html#cessda-dariah-clarin-and-eosc",
+    "href": "resources/cessda.html#cessda-dariah-clarin-and-eosc",
+    "title": "CESSDA ERIC",
+    "section": "CESSDA, DARIAH, CLARIN, and EOSC",
+    "text": "CESSDA, DARIAH, CLARIN, and EOSC\nCESSDA is the third pillar of the SSH Open Marketplace alongside DARIAH and CLARIN. Together, the three ERICs cover the disciplinary breadth of the social sciences and humanities:\n\n\n\nInfrastructure\nDisciplinary focus\n\n\n\n\nDARIAH-EU\nArts & humanities broadly\n\n\nCLARIN ERIC\nLanguage resources & NLP\n\n\nCESSDA ERIC\nSocial science data archives\n\n\n\nAll three are EOSC members and co-maintain the SSH Open Marketplace as a joint discovery layer integrated into the European Open Science Cloud.\n🔗 https://www.cessda.eu",
+    "crumbs": [
+      "European Infrastructures",
+      "CESSDA ERIC"
     ]
   },
   {
@@ -452,7 +573,7 @@
     "href": "index.html#what-you-will-learn",
     "title": "Research Infrastructures for the Digital Humanities",
     "section": "What You Will Learn",
-    "text": "What You Will Learn\nThis presentation introduces the major European research infrastructures for the humanities and social sciences, with a focus on their practical relevance for doctoral researchers.\n\nPart 1 · Huma-Num — The French National Infrastructure\n\nWhat is Huma-Num and why does it matter?\nThe data lifecycle for humanities research\nFAIR data principles in practice\nKey services: NAKALA, Isidore, Stylo, Huma-Num Box\nThematic consortiums: finding your community\n\n\n\nPart 2 · DARIAH-EU — The European Network\n\nDARIAH as a pan-European Research Infrastructure Consortium (ERIC)\nFour strategic pillars: Research · Education · Advocacy · Infrastructure\nTools and platforms: DARIAH Campus, SSH Open Marketplace\nWorking groups and how to get involved\nFrance as the host country — the Huma-Num / DARIAH-FR connection\n\n\n\nPart 3 · EOSC & the European Landscape\n\nThe European Open Science Cloud: ambition and reality\nHow Huma-Num, DARIAH, and CLARIN fit into EOSC\nThe SSH Open Marketplace as a shared discovery layer\nWhat this means for your data and your research",
+    "text": "What You Will Learn\nThis presentation introduces the major European research infrastructures for the humanities and social sciences, with a focus on their practical relevance for doctoral researchers.\n\nPart 1 · Huma-Num — The French National Infrastructure\n\nWhat is Huma-Num and why does it matter?\nThe data lifecycle for humanities research\nFAIR data principles in practice\nKey services: NAKALA, Isidore, Stylo, Huma-Num Box\nThematic consortiums: finding your community\n\n\n\nPart 2 · DARIAH-EU — The European Network\n\nDARIAH as a pan-European Research Infrastructure Consortium (ERIC)\nFour strategic pillars: Research · Education · Advocacy · Infrastructure\nTools and platforms: DARIAH Campus, SSH Open Marketplace\nWorking groups and how to get involved\nFrance as the host country — the Huma-Num / DARIAH-FR connection\n\n\n\nPart 3 · EOSC & the European Landscape\n\nThe European Open Science Cloud: ambition and reality\nHow Huma-Num, DARIAH, CLARIN, and CESSDA fit into EOSC\nThe SSH Open Marketplace as a shared discovery layer — co-built by DARIAH, CLARIN, and CESSDA\nWhat this means for your data and your research",
     "crumbs": [
       "Session",
       "Home"
@@ -463,7 +584,7 @@
     "href": "index.html#quick-links",
     "title": "Research Infrastructures for the Digital Humanities",
     "section": "Quick Links",
-    "text": "Quick Links\n\nFor the Session\n\nView Slides\nGitHub Repository\n\n\n\nResources\n\nHuma-Num — Overview\nHuma-Num — Consortiums\nHuma-Num — Services & FAIR Data\nDARIAH-EU\nCLARIN ERIC\nEOSC\nHow They Connect\nBibliography & Links",
+    "text": "Quick Links\n\n\n\nFor the Session\n\nView Slides\nGitHub Repository\n\n\n\n\nResources\n\nHuma-Num — Overview\nHuma-Num — Consortiums\nHuma-Num — Services & FAIR Data\nDARIAH-EU\nCLARIN ERIC\nCESSDA ERIC\nEOSC\nHow They Connect\nBibliography & Links",
     "crumbs": [
       "Session",
       "Home"
@@ -540,7 +661,7 @@
     "href": "resources/consortiums.html",
     "title": "Huma-Num Consortiums",
     "section": "",
-    "text": "Within Huma-Num, consortiums are officially recognised communities of researchers and institutions that collaborate around a specific theme or discipline. They are supported by Huma-Num to:\n\nShare and harmonise methodologies and standards across the community\nProduce and curate disciplinary data repositories\nPublish guides, thesauri, and reference documentation\nOrganise training sessions and study days (journées d’études)\nParticipate in national and European working groups\n\n\n\n\n\n\n\nTipFor doctoral students\n\n\n\nDepending on your discipline, one or more consortiums may be directly relevant to your research. Getting involved early connects you to a community of specialists and to resources that can help structure your data management practices from the beginning.\n\n\n🔗 Full directory: https://www.huma-num.fr/les-consortiums-scientifiques/",
+    "text": "Huma-Num consortiums (Consortiums-HN) bring together researchers, engineers, archivists, and data specialists from French research units around shared thematic areas, defining common digital standards, methods, and practices. They submit multi-year action programmes for which they request financial support from the TGIR and commit part of their own resources. Outputs include deliverables: guides, datasets, tools, training events.\nConsortiums are labelled for a four-year period, evaluated by Huma-Num’s Steering Committee and Scientific Council, and may be renewed for a second phase. A final two-year phase may be granted to consolidate lasting outcomes. Huma-Num’s statutes set a maximum of 12 active consortiums at any one time.\n\n\n\n\n\n\nTipFor doctoral students\n\n\n\nDepending on your discipline, one or more consortiums may be directly relevant to your research. Getting involved early connects you to a community of specialists and to resources that can structure your data management practices from the start.\n\n\n🔗 Full directory: https://www.huma-num.fr/les-consortiums-hn/\n🔗 Labelling procedure: https://www.huma-num.fr/procedure-labellisation/",
     "crumbs": [
       "Huma-Num",
       "Consortiums"
@@ -551,7 +672,7 @@
     "href": "resources/consortiums.html#what-is-a-consortium",
     "title": "Huma-Num Consortiums",
     "section": "",
-    "text": "Within Huma-Num, consortiums are officially recognised communities of researchers and institutions that collaborate around a specific theme or discipline. They are supported by Huma-Num to:\n\nShare and harmonise methodologies and standards across the community\nProduce and curate disciplinary data repositories\nPublish guides, thesauri, and reference documentation\nOrganise training sessions and study days (journées d’études)\nParticipate in national and European working groups\n\n\n\n\n\n\n\nTipFor doctoral students\n\n\n\nDepending on your discipline, one or more consortiums may be directly relevant to your research. Getting involved early connects you to a community of specialists and to resources that can help structure your data management practices from the beginning.\n\n\n🔗 Full directory: https://www.huma-num.fr/les-consortiums-scientifiques/",
+    "text": "Huma-Num consortiums (Consortiums-HN) bring together researchers, engineers, archivists, and data specialists from French research units around shared thematic areas, defining common digital standards, methods, and practices. They submit multi-year action programmes for which they request financial support from the TGIR and commit part of their own resources. Outputs include deliverables: guides, datasets, tools, training events.\nConsortiums are labelled for a four-year period, evaluated by Huma-Num’s Steering Committee and Scientific Council, and may be renewed for a second phase. A final two-year phase may be granted to consolidate lasting outcomes. Huma-Num’s statutes set a maximum of 12 active consortiums at any one time.\n\n\n\n\n\n\nTipFor doctoral students\n\n\n\nDepending on your discipline, one or more consortiums may be directly relevant to your research. Getting involved early connects you to a community of specialists and to resources that can structure your data management practices from the start.\n\n\n🔗 Full directory: https://www.huma-num.fr/les-consortiums-hn/\n🔗 Labelling procedure: https://www.huma-num.fr/procedure-labellisation/",
     "crumbs": [
       "Huma-Num",
       "Consortiums"
@@ -562,7 +683,7 @@
     "href": "resources/consortiums.html#active-consortiums",
     "title": "Huma-Num Consortiums",
     "section": "Active Consortiums",
-    "text": "Active Consortiums\n\n🖼 PICTORIA — Images and Visual Sources\nBest practices for digitising, describing, and sharing image collections in history, art history, and iconography. Covers metadata schemas, controlled vocabularies, and IIIF integration.\n🔗 https://pictoria.huma-num.fr\n\n\n\n📦 ARIANE — Archives\nSupports archival research communities in the digital management and valorisation of archival sources. Covers archival description standards (EAD, RiC), interoperability, and open data.\n🔗 https://ariane.huma-num.fr\n\n\n\n🏛 3D-SHS — 3D for the Humanities\nFacilitates the use of 3D modelling and scanning technologies for humanistic and heritage research. Provides methodological guides for acquisition, processing, and archiving of 3D data.\n🔗 https://3d-shs.huma-num.fr\n\n\n\n📐 PTM — Photogrammetry and Technical Measurements\nBrings together researchers working with photogrammetry, multispectral imaging, and related techniques for the study of material culture and heritage objects.\n\n\n\n⚗️ MASA+ — Multidisciplinary Archaeological Science Archives\nFocuses on interoperability and long-term preservation of archaeological data. Strong connections to international heritage data standards (CIDOC-CRM, ARK).\n🔗 https://masa.huma-num.fr\n\n\n\n🏷 DISTAM — Stamps and Heraldic Data\nSpecialises in the treatment and valorisation of stamp collections, heraldic data, and related visual records, particularly for historical and diplomatic studies.\n\n\n\n🎭 CANEVAS — Performing Arts Archives\nDedicated to the digitisation, encoding, and accessibility of performing arts archives (theatre, dance, music performance) using standards such as TEI and MEI.\n\n\n\n🎵 MUSICA2 — Music and Musicology\nSupports musicological research through digital editions, musical corpora, and specialised databases, with connections to RILM and other international bibliographic resources.\n🔗 https://musica.huma-num.fr\n\n\n\n🗣 CORLI — Spoken Language Corpora\nFocuses on the collection, annotation, archiving, and dissemination of oral language corpora in French and other languages. Connected to the CLARIN infrastructure for language resources.\n🔗 https://corli.huma-num.fr\n\n\n\n🧬 SOLIFE — Biographical Data\nSupports research on biographical sources and data, including prosopography. Promotes standards for data interoperability in biographical and genealogical studies.\n🔗 https://solife.huma-num.fr",
+    "text": "Active Consortiums\n\npictorIA — Visual Corpora and Artificial Intelligence\n\nLabelled January 2024. Dedicated to the analysis of digital visual corpora in the humanities and social sciences using AI tools (computer vision, automatic form recognition). Carried by the MSH Mondes, building on the Labex Les Passés dans le Présent. Partners include the BnF, INHA, INA, and École nationale des chartes. Produces tutorials, shared protocols, workshops, and proof-of-concept prototypes for history of art, archaeology, sociology, anthropology, and related disciplines.\n🔗 Carnet de recherche: https://pictoria.hypotheses.org/\n✉️ Mailing list: https://listes.huma-num.fr/wws/info/pictoria-info\n\n\n\nARIANE — AI and Digital Scholarly Editions\n\nLabelled January 2023. Full name: Analyses, Recherches, Intelligence Artificielle et Nouvelles Éditions numériques. Brings together text specialists (literary scholars, linguists, historians) and computer scientists to create an interdisciplinary dialogue around AI-assisted text analysis in the humanities. Contributes to Huma-Num tool and interface development. Coordinated by Sabine Loudcher (Lyon 2), Ioana Galleron (Sorbonne Nouvelle), and Fatiha Idmhand (Poitiers).\n🔗 Site: https://cst-ariane.huma-num.fr/\n\n\n\nPTM — Projets Time Machine\n\nLabelled January 2023. Activities revolve around the concept of geohistorical reference frameworks and spatialised geohistorical data. Continues the work of the former Paris Time Machine consortium (2019–2022), extending to other geographical areas. Develops workflows, tools, and collaborative/participatory approaches for spatial humanities (history, archaeology, art history, geography). Key tools include the GEO webmapping platform, Heurist, Oronce Fine, and La Fabrique numérique du passé.\n🔗 Site: https://ptm.huma-num.fr/\n\n\n\nMASAplus — Mémoires des Archéologues et des Sites Archéologiques+\n\nLabelled January 2023. Successor to the MASA consortium (2014–2022). Supports the archaeological community in digital best practices and open science, with a particular focus on deploying archaeological data as Linked Open Data. Groups cover archives, documentary modelling, vocabularies, spatialisation, and open data publication. Produces the Livre Blanc MASA, PGD MASA template (DMP OPIDoR), OpenTheso (thesaurus), OpenArchaeo, and ArkeOpen.\n🔗 Carnet de recherche: https://masa.hypotheses.org/\n\n\n\nDISTAM — Digital Studies of Africa, Asia and the Middle East\n\nLabelled January 2022. Supports the digital transition of Oriental, African, and Asian studies in France, with a focus on non-Latin scripts underserved by OCR, HTR, and text mining tools. 28+ partner institutions (UMR, UMIFRE, libraries, ResEFE). Four working groups: text encoding and corpus mining, long-term description of documentary resources, enriched visual/spatial/serial data, and legal and ethical issues.\n🔗 Carnet de recherche: https://distam.hypotheses.org/\n\n\n\nCANEVAS — Corpus Vidéo pour les SHS\n\nLabelled January 2022. Full name: Consortium pour l’ANnotation, l’analyse Et l’archive de la Vidéo Appliquées aux activités Scientifiques. Aims to instrument SSH research on video corpora: annotating, commenting, analysing, mining, sharing, and archiving. Disciplines covered: sociology, communication sciences, education sciences, history, film studies, theatre studies. Key tool: Celluloid, an application for collaborative video annotation for research and teaching.\n🔗 Carnet de recherche: https://canevas.hypotheses.org/\n🔗 Celluloid: https://celluloid.huma-num.fr/\n\n\n\nMUSICA 2 — Musicology and Digital Music\n\nLabelled January 2022. Builds on the former Musica consortium (2014–2021). Works toward interoperable, ergonomic systems for music encoding and the description of sources, elaborating ontologies to cover an expanding range of musical corpora and constructing reference frameworks. Anchored in IREMUS and other musicology units. Key projects include IREMUS portals, CMBV digital portal, Dezède, Ricercar (CESR), and medieval songs corpora.\n🔗 Carnet de recherche: https://musica.hypotheses.org/\n\n\n\nCORLI 2 — Corpus, Langues et Interactions\n\nLabelled January 2022. Network of laboratories and researchers working on language corpora (written, spoken, multimodal). Offers data, tools, documentation, and training on the scientific use of language corpora following FAIR principles. Labelled Centre-K by CLARIN (European language infrastructure). Active projects: collaborative annotation, corpus/excerpt citation, and the Corpus Ouvert du Français. Successor to CORLI 1 (2016–2021).\nA key output of the CORLI community is COCOON (COllections de COrpus Oraux Numériques), a dedicated repository for oral and multimodal corpora hosted by Huma-Num. It allows researchers to deposit, archive, and share annotated recordings (interviews, interactions, fieldwork data) with metadata adapted to oral data (speakers, languages, recording contexts), while managing the specific ethical and legal constraints of this type of material. COCOON is integrated into the CLARIN infrastructure through CORLI’s Centre-K.\n🔗 Site: https://corli.huma-num.fr/fr/accueil/\n🔗 COCOON: https://cocoon.huma-num.fr —\n\n\n3DHN — 3D pour les Humanités Numériques\n\nLabelled January 2024. Successor to the 3D-SHS consortium (2014–2023). Interdisciplinary network of 26+ institutions (SSH, heritage, archaeology, linguistics, computer graphics, optics) aiming to become a major national and international actor in the use, preservation, and dissemination of 3D data in research and culture. Develops workshops, recommendations, guides, and the Conservatoire national de données 3D. Free software ecosystem includes aLTAG 3D (for archiving 3D projects at CINES). Affiliated learned society: Consortium 3D : Culture, Patrimoine et Humanités Numériques.\n🔗 Site and carnet: https://shs3d.hypotheses.org/",
     "crumbs": [
       "Huma-Num",
       "Consortiums"
@@ -573,7 +694,7 @@
     "href": "resources/consortiums.html#former-consortiums",
     "title": "Huma-Num Consortiums",
     "section": "Former Consortiums",
-    "text": "Former Consortiums\nSome consortiums have completed their funded phase. Their outputs remain available:\n\n\n\nConsortium\nTheme\n\n\n\n\nArchives des ethnologues\nEthnological archives\n\n\nCOSME2\nCartography of the medieval world\n\n\nCahier\nDigital critical editions\n\n\nPARTITIONS\nHistorical notation",
+    "text": "Former Consortiums\nConsortiums whose labelling period has ended — some succeeded by a new consortium, others in “dernière phase” (final wrap-up). Their outputs remain available.\n\n\n\nConsortium\nTheme\nLabelled\nStatus\nResources\n\n\n\n\nSoL (Sound of Life)\nEco-acoustics, spatialised sound data, biodiversity\n2023\nClosed\nconsortium-sol.huma-num.fr\n\n\nParis Time Machine\nGeohistorical data, spatial humanities (Paris focus)\n2019\nSucceeded by PTM\nparis-timemachine.huma-num.fr\n\n\n3D-SHS\n3D data in SSH and heritage\n2014\nSucceeded by 3DHN\nshs3d.hypotheses.org\n\n\nMASA\nArchaeological data, interoperability, FAIR\n2014\nSucceeded by MASAplus\nmasa.hypotheses.org\n\n\nMUSICA\nDigital musical data, encoding standards\n2014\nSucceeded by MUSICA 2\nmusica.hypotheses.org\n\n\nImaGEO\nHeritage cartographic and photographic collections\n2012\nDernière phase\nimageo.hypotheses.org\n\n\nCOSME\nMedieval sources, digital editions\n2012\nDernière phase\ncosme.hypotheses.org\n\n\nArcMC\nContemporary archives (19th–20th c.)\n2012\nClosed\narcmc.hypotheses.org\n\n\nArchipolis\nPolitical science archives\n2012\nClosed\narchipolis.hypotheses.org\n\n\nCORLI 1\nLanguage corpora (oral + written)\n2016\nSucceeded by CORLI 2\ncorli.huma-num.fr\n\n\nCAHIER\nAuthors’ corpora (literature, philosophy)\n2011\nClosed\ncahier.hypotheses.org\n\n\nCorpus Écrits (IRCE)\nWritten language corpora\n2011\nMerged into CORLI\ncorpusecrits.huma-num.fr\n\n\nIRCOM\nOral and multimodal corpora\n2011\nMerged into CORLI\nircom.huma-num.fr\n\n\nArchives des ethnologues\nEthnological field archives\n2011\nClosed\n—",
     "crumbs": [
       "Huma-Num",
       "Consortiums"
@@ -732,12 +853,5 @@
       "Session",
       "Slides"
     ]
-  },
-  {
-    "objectID": "slides/index.html",
-    "href": "slides/index.html",
-    "title": "Research Infrastructuresfor the Digital Humanities",
-    "section": "",
-    "text": "Research Infrastructures (RIs) are facilities, resources, and services that are used by the research community to conduct research and foster innovation.\n— European Commission\n\n\n\nThey can be physical (laboratories, telescopes) or digital (platforms, data repositories, services)\nFor the humanities, digital RIs provide tools to produce, share, and preserve research data\nThey are increasingly organised at European level, under the ESFRI roadmap\n\n\n\n\n\n\n\nFunding agencies (ANR, ERC, Horizon Europe) require Data Management Plans\nOpen access and open data are increasingly mandatory for publicly-funded research\nThese infrastructures provide free tools you may already need — or will need\nThey connect you to European research communities — especially valuable within UNITA\nThey offer training, workshops, and summer schools\nYour data deposited through them will still be findable in 20 years\n\n\n\n\n\n\n\n\n\nThink of research infrastructures as the library system of digital research: you don’t build it yourself, but knowing how to use it makes all the difference.\n\n\n\n\n\n\n\n\n\n\nHuma-Num\nFrench national infrastructure\nYour starting point\n\n\nDARIAH-EU\nPan-European network\n22 member states\n\n\nEOSC\nEuropean Open Science Cloud\nThe bigger picture"
   }
 ]

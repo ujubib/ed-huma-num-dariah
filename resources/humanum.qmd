@@ -26,6 +26,7 @@ Huma-Num is also **France's national node in DARIAH-EU** (*DARIAH-FR*) and plays
 | 2014 | France becomes the **founding host country of DARIAH-ERIC** |
 | 2016 | Integration into the French national open science strategy |
 | 2021 | New strategic roadmap; expanded European connections via EOSC |
+| 2021 | TGIR -> IR\* |
 
 ---
 
@@ -38,7 +39,7 @@ Huma-Num supports the full **research data lifecycle** for humanities researcher
 3. **Store & Preserve** — sustainable archiving and long-term preservation (via NAKALA, CINES)
 4. **Share & Publish** — open access publication, discovery, and dissemination
 
-![Data lifecycle at Huma-Num (2023)](https://www.huma-num.fr/wp-content/uploads/2022/05/Schema-de-la-vie-des-donnees-HN-2023-1024x205.png){fig-alt="Schema of the Huma-Num data lifecycle" width="100%"}
+![Data lifecycle at Huma-Num (2023)](/img/Schema-COMPLET-EN.png){fig-alt="Schema of the Huma-Num data lifecycle" width="100%"}
 
 ---
 

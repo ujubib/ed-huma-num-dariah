@@ -160,26 +160,27 @@ Clear licences, provenance documentation
 
 ## Thematic Consortiums {.smaller}
 
-Huma-Num structures its community through [**thematic consortiums**](https://www.huma-num.fr/les-consortiums-hn/) — collaborative networks that share methodologies, produce guides, organise training, and build data repositories.
+Huma-Num structures its community through **thematic consortiums** (*Consortiums-HN*) — labelled for four-year periods, evaluated by the Scientific Council, max. 12 active at a time.
 
 ::: {.columns}
 ::: {.column width="50%"}
-**PICTORIA** — Images & visual sources  
-**ARIANE** — Archives science  
-**3DHN** — 3D modelling  
-**CANEVAS** — Performing arts  
-**MUSICA2** — Musicology  
+**pictorIA** — Visual corpora & AI *(2024)*  
+**ARIANE** — AI & digital scholarly editions *(2023)*  
+**PTM** — Geohistorical data & Time Machine *(2023)*  
+**MASAplus** — Archaeological data & Linked Open Data *(2023)*  
+**DISTAM** — Non-Latin scripts & area studies *(2022)*  
 :::
 ::: {.column width="50%"}
-**MASA+** — Archaeological data  
-**CORLI** — Spoken language corpora  
-**PTM** — Photogrammetry  
-**DISTAM** — Heraldic & stamp data  
+**CANEVAS** — Video corpora annotation *(2022)*  
+**MUSICA 2** — Musicology & digital music *(2022)*  
+**CORLI 2** — Language corpora · CLARIN Centre-K *(2022)*  
+**3DHN** — 3D data for humanities & heritage *(2024)*  
 :::
 :::
 
 ::: {.fragment .callout-tip appearance="minimal"}
-**For doctoral students:** one or more consortiums may be directly relevant to your dissertation. Connecting early gives access to community expertise, methodological guides, and training events.
+**For doctoral students:** one or more consortiums may be directly relevant to your dissertation. Connecting early gives access to community expertise, methodological guides, and training events.  
+🔗 [huma-num.fr/les-consortiums-hn](https://www.huma-num.fr/les-consortiums-hn/)
 :::
 
 # Part 2 · DARIAH-EU {background-color="#003D7A"}
@@ -336,7 +337,7 @@ Two further SSH ERICs complete the picture, alongside DARIAH:
 ```{mermaid}
 flowchart LR
     ESFRI["🇪🇺 ESFRI Roadmap"]
-    EOSC["EOSC\nEuropean Open<br/>Science Cloud"]
+    EOSC["EOSC<br/>European Open Science Cloud"]
     DARIAH["DARIAH-EU<br/>ARTS & HUMANITIES"]
     CLARIN["CLARIN ERIC<br/>LANGUAGE"]
     CESSDA["CESSDA ERIC<br/>SOCIAL SCIENCE DATA"]

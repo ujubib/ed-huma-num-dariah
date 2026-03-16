@@ -6,106 +6,133 @@ toc: true
 
 ## What is a Consortium?
 
-Within Huma-Num, **consortiums** are officially recognised communities of researchers and institutions that collaborate around a specific theme or discipline. They are supported by Huma-Num to:
+Huma-Num consortiums (*Consortiums-HN*) bring together researchers, engineers, archivists, and data specialists from French research units around shared thematic areas, defining common digital standards, methods, and practices. They submit multi-year action programmes for which they request financial support from the TGIR and commit part of their own resources. Outputs include deliverables: guides, datasets, tools, training events.
 
-- Share and harmonise methodologies and standards across the community
-- Produce and curate disciplinary data repositories
-- Publish guides, thesauri, and reference documentation
-- Organise training sessions and study days (*journées d'études*)
-- Participate in national and European working groups
+Consortiums are **labelled for a four-year period**, evaluated by Huma-Num's Steering Committee and Scientific Council, and may be renewed for a second phase. A final two-year phase may be granted to consolidate lasting outcomes. Huma-Num's statutes set a maximum of **12 active consortiums** at any one time.
 
 ::: {.callout-tip}
 ### For doctoral students
-Depending on your discipline, one or more consortiums may be directly relevant to your research. Getting involved early connects you to a community of specialists and to resources that can help structure your data management practices from the beginning.
+Depending on your discipline, one or more consortiums may be directly relevant to your research. Getting involved early connects you to a community of specialists and to resources that can structure your data management practices from the start.
 :::
 
-🔗 Full directory: <https://www.huma-num.fr/les-consortiums-scientifiques/>
+🔗 Full directory: <https://www.huma-num.fr/les-consortiums-hn/>  
+🔗 Labelling procedure: <https://www.huma-num.fr/procedure-labellisation/>
 
 ---
 
 ## Active Consortiums
 
-### 🖼 PICTORIA — Images and Visual Sources
+### pictorIA — Visual Corpora and Artificial Intelligence
 
-Best practices for digitising, describing, and sharing image collections in history, art history, and iconography. Covers metadata schemas, controlled vocabularies, and IIIF integration.
+![](/img/PICTORIA-SITE-HN.webp "pictorIA"){height="120px"}
 
-🔗 <https://pictoria.huma-num.fr>
+*Labelled January 2024.* Dedicated to the analysis of **digital visual corpora in the humanities and social sciences using AI tools** (computer vision, automatic form recognition). Carried by the MSH Mondes, building on the Labex Les Passés dans le Présent. Partners include the BnF, INHA, INA, and École nationale des chartes. Produces tutorials, shared protocols, workshops, and proof-of-concept prototypes for history of art, archaeology, sociology, anthropology, and related disciplines.
 
----
-
-### 📦 ARIANE — Archives
-
-Supports archival research communities in the digital management and valorisation of archival sources. Covers archival description standards (EAD, RiC), interoperability, and open data.
-
-🔗 <https://ariane.huma-num.fr>
+🔗 Carnet de recherche: <https://pictoria.hypotheses.org/>  
+✉️ Mailing list: <https://listes.huma-num.fr/wws/info/pictoria-info>
 
 ---
 
-### 🏛 3D-SHS — 3D for the Humanities
+### ARIANE — AI and Digital Scholarly Editions
 
-Facilitates the use of 3D modelling and scanning technologies for humanistic and heritage research. Provides methodological guides for acquisition, processing, and archiving of 3D data.
+![](/img/ARIANE-SITE-HN.jpg "Ariane"){height="120px"}
 
-🔗 <https://3d-shs.huma-num.fr>
+*Labelled January 2023.* Full name: *Analyses, Recherches, Intelligence Artificielle et Nouvelles Éditions numériques.* Brings together text specialists (literary scholars, linguists, historians) and computer scientists to create an **interdisciplinary dialogue around AI-assisted text analysis** in the humanities. Contributes to Huma-Num tool and interface development. Coordinated by Sabine Loudcher (Lyon 2), Ioana Galleron (Sorbonne Nouvelle), and Fatiha Idmhand (Poitiers).
 
----
-
-### 📐 PTM — Photogrammetry and Technical Measurements
-
-Brings together researchers working with photogrammetry, multispectral imaging, and related techniques for the study of material culture and heritage objects.
+🔗 Site: <https://cst-ariane.huma-num.fr/>
 
 ---
 
-### ⚗️ MASA+ — Multidisciplinary Archaeological Science Archives
+### PTM — Projets Time Machine
 
-Focuses on interoperability and long-term preservation of archaeological data. Strong connections to international heritage data standards (CIDOC-CRM, ARK).
+![](/img/PTM2-SITE-HN.jpg "Projets Time Machine"){height="120px"}
 
-🔗 <https://masa.huma-num.fr>
+*Labelled January 2023.* Activities revolve around the concept of **geohistorical reference frameworks and spatialised geohistorical data**. Continues the work of the former Paris Time Machine consortium (2019–2022), extending to other geographical areas. Develops workflows, tools, and collaborative/participatory approaches for spatial humanities (history, archaeology, art history, geography). Key tools include the GEO webmapping platform, Heurist, Oronce Fine, and La Fabrique numérique du passé.
 
----
-
-### 🏷 DISTAM — Stamps and Heraldic Data
-
-Specialises in the treatment and valorisation of stamp collections, heraldic data, and related visual records, particularly for historical and diplomatic studies.
+🔗 Site: <https://ptm.huma-num.fr/>
 
 ---
 
-### 🎭 CANEVAS — Performing Arts Archives
+### MASAplus — Mémoires des Archéologues et des Sites Archéologiques+
 
-Dedicated to the digitisation, encoding, and accessibility of performing arts archives (theatre, dance, music performance) using standards such as TEI and MEI.
+![](/img/MASA-PLUS-SITE-HN.jpg "MASAplus"){height="120px"}
 
----
+*Labelled January 2023.* Successor to the MASA consortium (2014–2022). Supports the **archaeological community in digital best practices and open science**, with a particular focus on deploying archaeological data as Linked Open Data. Groups cover archives, documentary modelling, vocabularies, spatialisation, and open data publication. Produces the Livre Blanc MASA, PGD MASA template (DMP OPIDoR), OpenTheso (thesaurus), OpenArchaeo, and ArkeOpen.
 
-### 🎵 MUSICA2 — Music and Musicology
-
-Supports musicological research through digital editions, musical corpora, and specialised databases, with connections to RILM and other international bibliographic resources.
-
-🔗 <https://musica.huma-num.fr>
+🔗 Carnet de recherche: <https://masa.hypotheses.org/>
 
 ---
 
-### 🗣 CORLI — Spoken Language Corpora
+### DISTAM — Digital Studies of Africa, Asia and the Middle East
 
-Focuses on the collection, annotation, archiving, and dissemination of oral language corpora in French and other languages. Connected to the **CLARIN** infrastructure for language resources.
+![](/img/DISTAM-SITE-HN.jpg "DISTAM"){height="120px"}
 
-🔗 <https://corli.huma-num.fr>
+*Labelled January 2022.* Supports the **digital transition of Oriental, African, and Asian studies** in France, with a focus on **non-Latin scripts** underserved by OCR, HTR, and text mining tools. 28+ partner institutions (UMR, UMIFRE, libraries, ResEFE). Four working groups: text encoding and corpus mining, long-term description of documentary resources, enriched visual/spatial/serial data, and legal and ethical issues.
+
+🔗 Carnet de recherche: <https://distam.hypotheses.org/>
 
 ---
 
-### 🧬 SOLIFE — Biographical Data
+### CANEVAS — Corpus Vidéo pour les SHS
 
-Supports research on biographical sources and data, including prosopography. Promotes standards for data interoperability in biographical and genealogical studies.
+![](/img/canevas.jpg "CANEVAS"){height="120px"}
 
-🔗 <https://solife.huma-num.fr>
+*Labelled January 2022.* Full name: *Consortium pour l'ANnotation, l'analyse Et l'archive de la Vidéo Appliquées aux activités Scientifiques.* Aims to **instrument SSH research on video corpora**: annotating, commenting, analysing, mining, sharing, and archiving. Disciplines covered: sociology, communication sciences, education sciences, history, film studies, theatre studies. Key tool: **Celluloid**, an application for collaborative video annotation for research and teaching.
+
+🔗 Carnet de recherche: <https://canevas.hypotheses.org/>  
+🔗 Celluloid: <https://celluloid.huma-num.fr/>
+
+---
+
+### MUSICA 2 — Musicology and Digital Music
+
+![](/img/MUSICA-2-SITE-HN.jpg "Musica 2"){height="120px"}
+
+*Labelled January 2022.* Builds on the former Musica consortium (2014–2021). Works toward **interoperable, ergonomic systems for music encoding** and the description of sources, elaborating ontologies to cover an expanding range of musical corpora and constructing reference frameworks. Anchored in IREMUS and other musicology units. Key projects include IREMUS portals, CMBV digital portal, Dezède, Ricercar (CESR), and medieval songs corpora.
+
+🔗 Carnet de recherche: <https://musica.hypotheses.org/>
+
+---
+
+### CORLI 2 — Corpus, Langues et Interactions
+
+![](/img/CORLI.jpg "CORLI 2"){height="120px"}
+
+*Labelled January 2022.* Network of laboratories and researchers working on **language corpora** (written, spoken, multimodal). Offers data, tools, documentation, and training on the scientific use of language corpora following FAIR principles. Labelled **Centre-K by CLARIN** (European language infrastructure). Active projects: collaborative annotation, corpus/excerpt citation, and the Corpus Ouvert du Français. Successor to CORLI 1 (2016–2021).
+
+A key output of the CORLI community is **COCOON** (*COllections de COrpus Oraux Numériques*), a dedicated repository for oral and multimodal corpora hosted by Huma-Num. It allows researchers to deposit, archive, and share annotated recordings (interviews, interactions, fieldwork data) with metadata adapted to oral data (speakers, languages, recording contexts), while managing the specific ethical and legal constraints of this type of material. COCOON is integrated into the CLARIN infrastructure through CORLI's Centre-K.
+
+🔗 Site: <https://corli.huma-num.fr/fr/accueil/>  
+🔗 COCOON: <https://cocoon.huma-num.fr>
+---
+
+### 3DHN — 3D pour les Humanités Numériques
+
+![](/img/3DHN-site.webp "3DHN"){height="120px"}
+
+*Labelled January 2024.* Successor to the 3D-SHS consortium (2014–2023). Interdisciplinary network of **26+ institutions** (SSH, heritage, archaeology, linguistics, computer graphics, optics) aiming to become a major national and international actor in the **use, preservation, and dissemination of 3D data** in research and culture. Develops workshops, recommendations, guides, and the *Conservatoire national de données 3D*. Free software ecosystem includes **aLTAG 3D** (for archiving 3D projects at CINES). Affiliated learned society: *Consortium 3D : Culture, Patrimoine et Humanités Numériques*.
+
+🔗 Site and carnet: <https://shs3d.hypotheses.org/>
 
 ---
 
 ## Former Consortiums
 
-Some consortiums have completed their funded phase. Their outputs remain available:
+Consortiums whose labelling period has ended — some succeeded by a new consortium, others in "dernière phase" (final wrap-up). Their outputs remain available.
 
-| Consortium | Theme |
-|-----------|-------|
-| **Archives des ethnologues** | Ethnological archives |
-| **COSME2** | Cartography of the medieval world |
-| **Cahier** | Digital critical editions |
-| **PARTITIONS** | Historical notation |
+| Consortium | Theme | Labelled | Status | Resources |
+|-----------|-------|---------|--------|-----------|
+| **SoL** (Sound of Life) | Eco-acoustics, spatialised sound data, biodiversity | 2023 | Closed | [consortium-sol.huma-num.fr](https://consortium-sol.huma-num.fr/) |
+| **Paris Time Machine** | Geohistorical data, spatial humanities (Paris focus) | 2019 | Succeeded by PTM | [paris-timemachine.huma-num.fr](https://paris-timemachine.huma-num.fr/) |
+| **3D-SHS** | 3D data in SSH and heritage | 2014 | Succeeded by 3DHN | [shs3d.hypotheses.org](https://shs3d.hypotheses.org/) |
+| **MASA** | Archaeological data, interoperability, FAIR | 2014 | Succeeded by MASAplus | [masa.hypotheses.org](https://masa.hypotheses.org/) |
+| **MUSICA** | Digital musical data, encoding standards | 2014 | Succeeded by MUSICA 2 | [musica.hypotheses.org](https://musica.hypotheses.org/) |
+| **ImaGEO** | Heritage cartographic and photographic collections | 2012 | Dernière phase | [imageo.hypotheses.org](https://imageo.hypotheses.org/) |
+| **COSME** | Medieval sources, digital editions | 2012 | Dernière phase | [cosme.hypotheses.org](https://cosme.hypotheses.org/) |
+| **ArcMC** | Contemporary archives (19th–20th c.) | 2012 | Closed | [arcmc.hypotheses.org](https://arcmc.hypotheses.org/) |
+| **Archipolis** | Political science archives | 2012 | Closed | [archipolis.hypotheses.org](https://archipolis.hypotheses.org/) |
+| **CORLI 1** | Language corpora (oral + written) | 2016 | Succeeded by CORLI 2 | [corli.huma-num.fr](https://corli.huma-num.fr/fr/accueil/) |
+| **CAHIER** | Authors' corpora (literature, philosophy) | 2011 | Closed | [cahier.hypotheses.org](https://cahier.hypotheses.org/) |
+| **Corpus Écrits (IRCE)** | Written language corpora | 2011 | Merged into CORLI | [corpusecrits.huma-num.fr](https://corpusecrits.huma-num.fr/) |
+| **IRCOM** | Oral and multimodal corpora | 2011 | Merged into CORLI | [ircom.huma-num.fr](https://ircom.huma-num.fr/site/accueil.php) |
+| **Archives des ethnologues** | Ethnological field archives | 2011 | Closed | — |

@@ -4,6 +4,22 @@ subtitle: "Tools and services provided by Huma-Num"
 toc: true
 ---
 
+## The Documentation
+
+All Huma-Num services are thoroughly documented on the official documentation portal:
+
+::: {.callout-tip}
+### 📖 documentation.huma-num.fr
+
+🔗 <https://documentation.huma-num.fr>
+
+This is the authoritative reference for every service described on this page — tutorials, usage conditions, quotas, and contact information. **Always start here** when you encounter a problem or want to go further with any service.
+
+Access to most web-based services (ShareDocs, GitLab, Mattermost, NAKALA, Isidore, Kanboard…) is managed via **HumanID**, the centralised authentication service: <https://humanid.huma-num.fr>
+:::
+
+---
+
 ## FAIR Principles in Practice
 
 The **FAIR principles** — Findable, Accessible, Interoperable, Reusable — are central to Huma-Num's mission and to open science policy in France and Europe.
@@ -26,8 +42,17 @@ Since 2021, the **Plan national pour la science ouverte** requires that research
 - Rich metadata description (Dublin Core, custom schemas)
 - Open access licences (Creative Commons)
 - FAIR-compliant infrastructure, connected to EOSC
+- **NAKALA-Press** — generate a public-facing website with a custom `nom.nakala.fr` domain directly from a NAKALA collection
 
-🔗 <https://nakala.fr>
+🔗 <https://nakala.fr> · [Documentation](https://documentation.huma-num.fr/nakala/)
+
+---
+
+### COCOON — Oral Corpus Repository
+
+**COCOON** (*COllections de COrpus Oraux Numériques*) is a specialised repository for **oral and multimodal corpora**, hosted by Huma-Num and managed in connection with the CORLI consortium. Unlike NAKALA, which is a general-purpose research data repository, COCOON is designed specifically for annotated speech data — interviews, conversations, fieldwork recordings — with metadata schemas adapted to oral material (speakers, languages, recording situations) and tools for managing the ethical and legal constraints inherent to this type of data (anonymisation, restricted access, consent). COCOON is integrated into the **CLARIN** infrastructure through CORLI's Centre-K node.
+
+🔗 <https://cocoon.huma-num.fr> 
 
 ---
 
@@ -35,58 +60,145 @@ Since 2021, the **Plan national pour la science ouverte** requires that research
 
 **Isidore** is a search and discovery engine aggregating open access scholarly publications, data, and resources in the humanities and social sciences. It harvests metadata from hundreds of French and international sources.
 
-Key features: semantic enrichment (thematic, geographical, temporal), multilingual search, integration with HAL, OpenEdition, NAKALA, and DARIAH services.
+Key features: semantic enrichment (thematic, geographical, temporal) in three languages (FR, EN, ES), multilingual search, integration with HAL, OpenEdition, NAKALA, and DARIAH services, using controlled vocabularies (LCSH, Data BnF, Pactols…).
 
-🔗 <https://isidore.science>
+🔗 <https://isidore.science> · [Documentation](https://documentation.huma-num.fr/isidore/)
 
 ---
 
 ### Stylo — Semantic Text Editor
 
-**Stylo** is a web-based semantic writing tool designed for academic writing in the humanities. It uses Markdown, YAML, and BibTeX to separate content from formatting, enabling rich export to HTML, PDF, XML-TEI, DOCX, and EPUB.
+**Stylo** is a web-based semantic writing tool for academic writing in the humanities. It uses Markdown, YAML, and BibTeX to separate content from formatting, enabling rich export to HTML, PDF, XML-TEI, DOCX, and EPUB.
 
 Originally developed by CRIHN (Université de Montréal) and maintained in partnership with Huma-Num.
 
-🔗 <https://stylo.huma-num.fr>
+🔗 <https://stylo.huma-num.fr> · [Documentation](https://stylo-doc.ecrituresnumeriques.ca)
 
 ---
 
 ### Huma-Num Box
 
-A cloud storage solution (based on Nextcloud) for collaborative work on research projects. Provides file sharing, versioning, and basic collaborative editing for research teams.
+A cloud storage solution for **large-volume, cold or warm data** — designed for long-term preservation through replication across multiple sites in France (several terabytes). Distinct from ShareDocs (see below), which targets everyday collaborative file management.
 
-🔗 <https://box.huma-num.fr>
+🔗 [Documentation](https://documentation.huma-num.fr/huma-num-box/) · Access via: [cogrid\@huma-num.fr](mailto:cogrid@huma-num.fr)
 
 ---
 
 ### Virtual Machines (HN-SSH)
 
-On-demand **virtual computing environments** for projects that require custom software stacks, databases, or web services. Particularly useful for hosting digital editions, project databases, or web applications. Access via a project submission process.
+On-demand **virtual computing environments** for projects requiring custom software stacks, databases, or web applications. Particularly useful for hosting digital editions, project databases, or web services over the long term. Access via project submission to the *Comité de la grille*.
 
-🔗 <https://www.huma-num.fr/les-services-et-les-outils/>
+🔗 [Documentation](https://documentation.huma-num.fr/machines-virtuelles/) · Access via: [cogrid\@huma-num.fr](mailto:cogrid@huma-num.fr)
 
 ---
 
-### SSH Open Marketplace
+## ShareDocs — File Management and Processing
 
-Co-maintained with DARIAH and CLARIN, the **SSH Open Marketplace** is a discovery portal for tools, services, training materials, workflows, and datasets for the social sciences and humanities. Integrated into EOSC.
+**ShareDocs** is Huma-Num's secure online file manager, based on the **FileRun** application. It is hosted on the French research network (RENATER/CNRS) — entirely within French jurisdiction, unlike commercial cloud services.
 
-🔗 <https://marketplace.sshopencloud.eu>
+It can be used via a web browser, a WebDAV client, or a file synchronisation tool (e.g. NextCloud). Storage capacity goes up to ~1 terabyte per project account. Collaborative document editing is available via **OnlyOffice** (data stays on Huma-Num servers).
+
+Key uses: storing, organising, and sharing project files (photos, transcriptions, datasets); preparing files before deposit in NAKALA; collaborating with a team.
+
+🔗 <https://sharedocs.huma-num.fr> · [Documentation](https://documentation.huma-num.fr/sharedocs-stockage/)
+
+### Processing Tools — `hnTools_watchFolder`
+
+One of ShareDocs' most powerful features is the **watchFolder** system: a directory within each ShareDocs account that triggers automated processing pipelines when a file is deposited. Results are delivered back into ShareDocs and the user is notified by email.
+
+::: {.callout-note}
+### How it works
+Drop a file into the appropriate subfolder → the system detects it, processes it, and returns the result. Source files are automatically deleted after **21 days**.
+:::
+
+| Tool | Function | Notes |
+|------|----------|-------|
+| **Abbyy FineReader** (OCR) | High-quality OCR on images and PDFs | Quota-limited; contract valid to June 2026 |
+| **Tesseract** (OCR) | Open-source OCR, no quota | Many languages supported |
+| **Whisper** (speech-to-text) | Audio/video transcription | Models: small / medium / large / with_speaker; data stays on CNRS/IN2P3 servers |
+| **FFmpeg** (transcoding) | Audio and video format conversion | Most codecs supported |
+
+::: {.callout-tip}
+The **Whisper** transcription service is particularly useful for oral history, interview-based, or linguistic research. The `with_speaker` model adds speaker diarisation. Note that, like all generative AI tools, it can produce errors and hallucinations — always verify transcriptions.
+:::
+
+🔗 [Documentation — Processing tools](https://documentation.huma-num.fr/sharedocs-traitement/)
+
+---
+
+## Other Services
+
+Huma-Num provides a range of additional tools for collaboration, project management, data modelling, and text analysis. Most are accessible via HumanID.
+
+### GitLab — Code and Script Repository
+
+Huma-Num's own **GitLab** instance for hosting, versioning, and sharing code, scripts, and software. A sovereign alternative to GitHub, hosted on French research infrastructure. Public repositories are automatically referenced on [code.gouv.fr](https://code.gouv.fr) (DINUM) and archived on [Software Heritage](https://www.softwareheritage.org) (INRIA).
+
+🔗 <https://gitlab.huma-num.fr> · [Documentation](https://documentation.huma-num.fr/gitlab/)
+
+---
+
+### Mattermost — Team Messaging
+
+A self-hosted, open-source instant messaging platform for research teams. Channel-based communication, file sharing, and notifications — all within the Huma-Num infrastructure, without data leaving French servers.
+
+🔗 [Documentation](https://documentation.huma-num.fr/mattermost/)
+
+---
+
+### Kanboard — Project Management
+
+A **Kanban-based project management** tool for organising tasks visually across a team. Supports task cards, deadlines, activity feeds, and access control. Useful for coordinating fieldwork, editorial workflows, or consortium activities.
+
+🔗 [Documentation](https://documentation.huma-num.fr/kanboard/)
+
+---
+
+### Heurist — Research Database Builder
+
+**Heurist** is an open-source tool for building **richly structured relational databases** without programming, entirely in a web browser. It was designed specifically for humanities and social science research, handling heterogeneous, interconnected entities (people, places, events, objects, sources, concepts).
+
+Originally developed at the University of Sydney (Archaeological Computing Laboratory) by Ian Johnson; Huma-Num hosts a dedicated instance for French SSH research teams.
+
+🔗 <https://heurist.huma-num.fr> · [Documentation](https://documentation.huma-num.fr/heurist/)
+
+---
+
+### TXM — Textometric Corpus Analysis
+
+**TXM** is a corpus analysis platform for textometric research — concordances, frequency lists, co-occurrence analysis, factorial correspondence analysis. Developed by UMR IHRIM / ENS de Lyon, it can process large annotated text corpora with a rich web interface.
+
+Huma-Num deploys dedicated **TXM portals** on virtual machines for research teams who need to host and publish their corpora online. Support and training are provided by IHRIM / ENS de Lyon.
+
+🔗 [textometrie.org](https://textometrie.org) · [Documentation](https://documentation.huma-num.fr/txm/) · Requests: [cogrid\@huma-num.fr](mailto:cogrid@huma-num.fr)
+
+---
+
+### OpenTheso — Thesaurus Management
+
+**OpenTheso** is an open-source, multilingual thesaurus management system for creating, maintaining, and publishing **controlled vocabularies** aligned with the SKOS (Simple Knowledge Organization System) standard and linked open data principles. It is used by numerous Huma-Num consortiums and research projects — notably for **Pactols**, the multilingual thesaurus for ancient Mediterranean studies.
+
+Each term can be assigned a persistent URI, making vocabularies interoperable with other databases and repositories (NAKALA, Heurist, DARIAH services, etc.).
+
+🔗 <https://opentheso.huma-num.fr> · [Documentation](https://documentation.huma-num.fr/opentheso/)
 
 ---
 
 ## Data Management Plans
 
-For doctoral researchers, a **Data Management Plan (DMP)** is increasingly required by funding bodies (ANR, ERC, Horizon Europe). Useful resources:
+For doctoral researchers, a **Data Management Plan (DMP)** is increasingly required by funding bodies (ANR, ERC, Horizon Europe):
 
 - **DMP OPIDoR** — the French national DMP tool (Inist-CNRS): [dmp.opidor.fr](https://dmp.opidor.fr)
-- Consortium-specific guidance for disciplinary data (available via each consortium)
+- Consortium-specific guidance available via each Huma-Num consortium
 - UPPA research data team: [recherche.univ-pau.fr/donnees-de-la-recherche](https://recherche.univ-pau.fr/fr/science-ouverte/donnees-de-la-recherche.html)
 
 ---
 
 ## Access for UPPA Researchers
 
-Huma-Num services are primarily accessible to researchers affiliated with CNRS, universities, and research institutions in France. UPPA doctoral students can access most services through their institutional credentials.
+Huma-Num services are accessible to researchers affiliated with CNRS, universities, and research institutions in France. UPPA doctoral students can access most services. The process:
 
-For onboarding and questions, contact the UPPA research data service or your doctoral school administrator.
+1. Create a **HumanID** account at [humanid.huma-num.fr](https://humanid.huma-num.fr)
+2. Request access to the specific service(s) needed from your account
+3. For services requiring project validation (virtual machines, TXM portals, Huma-Num Box), contact [cogrid\@huma-num.fr](mailto:cogrid@huma-num.fr) with a brief project description
+4. For assistance once access is granted: [assistance\@huma-num.fr](mailto:assistance@huma-num.fr)

@@ -12,7 +12,7 @@ execute:
 website:
   title: "Research Infrastructures for the Humanities"
   description: "Huma-Num · DARIAH · EOSC — Training session for ED 481 SSH / CHORAL (UNITA)"
-  favicon: img/logoUPPA-RepFr.png
+  favicon: img/isidore.png
   repo-url: https://github.com/ujubib/ed-huma-num-dariah
   repo-actions: [source, issue]
 
